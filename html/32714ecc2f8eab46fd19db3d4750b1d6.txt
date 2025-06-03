@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="zh-CN"  class="webplus-page"  >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="render" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>精益求精 勇于攀登 | CCSP在苏州大学</title>
+    <meta name="description" content="   10月25-26日，2023 CCSP竞赛在沈阳师范大学进行。苏州大学精..." />
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/sudy-jquery-autoload.js" jquery-src="/_js/jquery-2.x.min.js" sudy-wp-context="" sudy-wp-siteId="289"></script>
+<script language="javascript" src="/_js/jquery-migrate.min.js"></script>
+<script language="javascript" src="/_js2/loadStyle.js" sys-path="/_upload/site/1/style/1/1.css"  site-path="/_upload/site/01/21/289/style/282/282.css" ></script>
+<script language="javascript" src="/_js2/grayscale.js"   ></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/wp_photos/layer/layer.min.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/base.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/style.css">
+    
+</head>
+<body>
+
+    <!-- Common Header -->
+    <header class="outer header">
+        <div class="inner">
+            <div class="container">
+                <div class="header-bar">
+                    <div class="header-search">
+                        <a href="javascript:void(0)" title="搜索" onclick="searchShow()">
+                            <i><img src="/_upload/tpl/04/5d/1117/template1117/static/img/icon/icon_search.png" alt="搜索"></i>
+                        </a>
+                        <div class="search-box" frag="窗口1" portletmode="search" style="display: none;">                            <form action="/_web/_search/api/search/new.rst?locale=zh_CN&request_locale=zh_CN&context=&_p=YXM9Mjg5JnQ9MTExNyZkPTQ1MDgmcD0zJmY9MjgxMDMmYT01NTIwNDcmbT1OJg__" method="POST" target="_blank">
+                                <input class="search-input" name="keyword" type="text" maxlength="40" autocomplete="off" placeholder="请输入搜索内容..."/>
+                                <button class="search-submit" type="submit"></button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="header-link">
+                        <span>
+                            <a href="/_s289/main.psp" title="中文" target="_blank">中文</a>
+                        </span> |
+                        <span>
+                            <a href="javascript:void(0)" title="English" target="_blank">English</a>
+                        </span>
+                    </div>
+                </div>
+                <div class="header-logo">
+                    <a href="/_s289/main.psp" title="苏州大学计算机科学与技术学院(软件学院)" target="_blank">
+                        <img src="/_upload/tpl/04/5d/1117/template1117/static/img/header_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- Common Nav -->
+    <nav class="outer header-nav">
+        <div class="inner container" frag="窗口2">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav" aria-expanded="false"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></button>
+            <div class="site-nav collapse navbar-collapse" id="nav">
+                
+                <ul class="nav navbar-nav">
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/_s289/main.psp" target="_self" title="网站首页" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">网站首页</a>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11195/list.htm" target="_self" title="学院概况" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学院概况</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11238/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/11241/list.htm" target="_self" title="历史沿革">历史沿革</a></li>
+                            
+                            <li><a href="/11240/list.htm" target="_self" title="现任领导">现任领导</a></li>
+                            
+                            <li><a href="/11239/list.htm" target="_self" title="机构设置">机构设置</a></li>
+                            
+                            <li><a href="/11242/list.htm" target="_self" title="办学资源">办学资源</a></li>
+                            
+                            <li><a href="/xkqk/list.htm" target="_self" title="学科情况">学科情况</a></li>
+                            
+                            <li><a href="/11243/list.htm" target="_self" title="联系方式">联系方式</a></li>
+                            
+                            <li><a href="/ssyjx/list.htm" target="_self" title="师生意见箱">师生意见箱</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11197/list.htm" target="_self" title="师资中心" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">师资中心</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11248/list.htm" target="_self" title="师资概况">师资概况</a></li>
+                            
+                            <li><a href="/11249/list.htm" target="_self" title=" 教职工名单"> 教职工名单</a></li>
+                            
+                            <li><a href="/11250/list.htm" target="_self" title=" 导师简介"> 导师简介</a></li>
+                            
+                            <li><a href="/11251/list.htm" target="_self" title=" 兼职师资"> 兼职师资</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11198/list.htm" target="_self" title=" 科学研究" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown"> 科学研究</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/yjzx/list.htm" target="_self" title="研究中心">研究中心</a></li>
+                            
+                            <li><a href="/11253/list.htm" target="_self" title=" 科研机构"> 科研机构</a></li>
+                            
+                            <li><a href="/11254/list.htm" target="_self" title=" 科研项目"> 科研项目</a></li>
+                            
+                            <li><a href="/11255/list.htm" target="_self" title=" 科研论文"> 科研论文</a></li>
+                            
+                            <li><a href="/11256/list.htm" target="_self" title="知识产权">知识产权</a></li>
+                            
+                            <li><a href="/11257/list.htm" target="_self" title=" 科研政策"> 科研政策</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11199/list.htm" target="_self" title="人才培养" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">人才培养</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/shpgzt/list.htm" target="_self" title="审核评估专题">审核评估专题</a></li>
+                            
+                            <li><a href="/11229/list.htm" target="_self" title="博士生">博士生</a></li>
+                            
+                            <li><a href="/11230/list.htm" target="_self" title=" 硕士生"> 硕士生</a></li>
+                            
+                            <li><a href="/11231/list.htm" target="_self" title=" 本科生"> 本科生</a></li>
+                            
+                            <li><a href="/11234/list.htm" target="_self" title=" 图灵班"> 图灵班</a></li>
+                            
+                            <li><a href="/tljt/list.htm" target="_self" title="图灵讲堂">图灵讲堂</a></li>
+                            
+                            <li><a href="/zygcsb/list.htm" target="_self" title="卓越工程师班">卓越工程师班</a></li>
+                            
+                            <li><a href="/gjjl/list.htm" target="_self" title="国际交流">国际交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11201/list.htm" target="_self" title="党群工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">党群工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xydw/list.htm" target="_self" title="学院党委">学院党委</a></li>
+                            
+                            <li><a href="/jczz/list.htm" target="_self" title="基层组织">基层组织</a></li>
+                            
+                            <li><a href="/fdxgz/list.htm" target="_self" title="分党校工作">分党校工作</a></li>
+                            
+                            <li><a href="/11264/list.htm" target="_self" title=" 发展工作"> 发展工作</a></li>
+                            
+                            <li><a href="/11265/list.htm" target="_self" title=" 关工委工作"> 关工委工作</a></li>
+                            
+                            <li><a href="/11260/list.htm" target="_self" title=" 规章制度"> 规章制度</a></li>
+                            
+                            <li><a href="/11262/list.htm" target="_self" title=" 专题活动"> 专题活动</a></li>
+                            
+                            <li><a href="/xxyd/list.htm" target="_self" title="学习园地">学习园地</a></li>
+                            
+                            <li><a href="/qsdjgzybzbcj/list.htm" target="_self" title="全省党建工作样板支部创建">全省党建工作样板支部...</a></li>
+                            
+                            <li><a href="/szdxjsdzbsjsfgzscj/list.htm" target="_self" title="苏州大学教师党支部书记示范工作室创建">苏州大学教师党支部书...</a></li>
+                            
+                            <li><a href="/ghgz/list.htm" target="_self" title="工会工作">工会工作</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11200/list.htm" target="_self" title="学生工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学生工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xskc/list.htm" target="_self" title="学生科创">学生科创</a></li>
+                            
+                            <li><a href="/28212/list.htm" target="_self" title="工作队伍">工作队伍</a></li>
+                            
+                            <li><a href="/11275/list.htm" target="_self" title=" 学工通知"> 学工通知</a></li>
+                            
+                            <li><a href="/xgxw/list.htm" target="_self" title="学工新闻">学工新闻</a></li>
+                            
+                            <li><a href="/28213/list.htm" target="_self" title="规章制度">规章制度</a></li>
+                            
+                            <li><a href="/28216/list.htm" target="_self" title="志愿服务">志愿服务</a></li>
+                            
+                            <li><a href="/28218/list.htm" target="_self" title="学生组织">学生组织</a></li>
+                            
+                            <li><a href="/28219/list.htm" target="_self" title="勤工助学">勤工助学</a></li>
+                            
+                            <li><a href="/28220/list.htm" target="_self" title="心理健康">心理健康</a></li>
+                            
+                            <li><a href="/28221/list.htm" target="_self" title="就业创业">就业创业</a></li>
+                            
+                            <li><a href="/czpb/list.htm" target="_self" title="成长陪伴">成长陪伴</a></li>
+                            
+                            <li><a href="/jxpt/list.htm" target="_self" title="家校平台">家校平台</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xqhz/list.htm" target="_self" title="合作交流" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">合作交流</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xqhz_30719/list.htm" target="_self" title="校企合作与交流">校企合作与交流</a></li>
+                            
+                            <li><a href="/gjhzyjl/list.htm" target="_self" title="国际合作与交流">国际合作与交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/bmxy/list.htm" target="_self" title="保密学院" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">保密学院</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xyjj/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/bmpx/list.htm" target="_self" title="保密培训">保密培训</a></li>
+                            
+                            <li><a href="/bmyj/list.htm" target="_self" title="保密研究">保密研究</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11232/list.htm" target="_self" title="继续教育" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">继续教育</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28237/list.htm" target="_self" title="成教工作">成教工作</a></li>
+                            
+                            <li><a href="/28238/list.htm" target="_self" title="自考工作">自考工作</a></li>
+                            
+                            <li><a href="/28239/list.htm" target="_self" title="培训工作">培训工作</a></li>
+                            
+                            <li><a href="/28240/list.htm" target="_self" title="留学项目">留学项目</a></li>
+                            
+                            <li><a href="/zxkc/list.htm" target="_self" title="在线课程">在线课程</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xyfw/list.htm" target="_self" title="校友工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">校友工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28241/list.htm" target="_self" title="校友服务">校友服务</a></li>
+                            
+                            <li><a href="/28243/list.htm" target="_self" title="毕业校友录">毕业校友录</a></li>
+                            
+                            <li><a href="/28244/list.htm" target="_self" title="校友活动">校友活动</a></li>
+                            
+                            <li><a href="/xyh/list.htm" target="_self" title="校友会">校友会</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                </ul>
+                
+            </div>
+        </div>
+    </nav>
+    <script>
+        function searchShow() {
+            if($('.search-box').hasClass('active')){
+                $('.search-box').fadeOut();
+                $('.search-box').removeClass('active');
+            } else {
+                $('.search-box').addClass('active');
+                $('.search-box').fadeIn();
+            }
+        }
+    </script>
+
+
+    <!-- Post Breadcrumb -->
+    <section class="outer column-banner">
+        <div class="inner" frag="窗口4" portletmode="simpleColumnAttri">
+            <div class="column-img" style="background-image: url(/_upload/column/6d/c7/28103/picture.jpg);"></div>
+            <div class="banner-overlay"></div>
+        </div>
+    </section>
+    <!-- Post Content -->
+    <section class="outer post">
+        <div class="inner container">
+            <div class="post-content">
+                <div frag="窗口5" portletmode="simpleArticleAttri">
+                    <div class="post-title">
+                        精益求精 勇于攀登 | CCSP在苏州大学
+                    </div>
+                    <div class="post-attr">
+                        <span><b>时间:</b> 2023-11-11</span>
+                        <span><b>发布者:</b> 朱晓旭、邝泉声</span>
+                        <span><b>文章来源:</b> 计算机科学与技术学院</span>
+                        <span><b>审核人:</b> 刘纯平、李恩秀</span>
+                        <span><b>浏览次数:</b> <span class="WP_VisitCount" url="/_visitcountdisplay?siteId=289&type=3&articleId=552047">1614</span></span>
+                    </div>
+                    <div class="read-content">
+                        <div class='wp_articlecontent'><p><br/></p><style type="text/css"> 	 	</style><p><br/></p><p style="text-align:left;margin-bottom:0in;"><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">&nbsp; &nbsp; &nbsp; &nbsp;10</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">月</span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">25-26</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">日，</span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2023 CCSP</span><span style="font-size:14px;text-indent:0.33in;font-family:文泉驛正黑;line-height:1.75em;"><span lang="zh-CN" style="line-height:1.75em;"><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">竞赛在沈阳师范大学进行</span><span style="font-family:pmingliu;font-size:16px;line-height:1.75em;">。</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">苏州大学精心组织和准备，派出了</span></span></span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">10</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">位在</span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CSP</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">考试中取得高分的同学前往参加。经过</span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">12</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">个小时的角逐，荣获了</span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">个金奖、</span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">6</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">个银奖和</span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">1</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">个铜奖。并在高校团体排名中，荣获全国第</span><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">9</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">名。</span><br/></p><p style="text-align:left;margin-bottom:0in;"><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;"></span></p><p style="text-align:center"><img data-layer="photo" src="/_upload/article/images/30/11/e5048a2147baa005590a130fd52f/adcb0e09-0132-4d16-95eb-ce09c9023847.jpg" original-src="/_upload/article/images/30/11/e5048a2147baa005590a130fd52f/adcb0e09-0132-4d16-95eb-ce09c9023847_d.jpg" style="width:800px;height:533px;" sudyfile-attr="{'title':'微信图片_20231111122101.jpg'}" width="800" height="533" border="0" hspace="0" vspace="0"/></p><p style="text-indent:0.33in;line-height:1.75em;text-align:left;margin-bottom:0in;"><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">苏州大学是较早参与</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">与</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CCSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">的高校之一，从</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2016</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">年开始参加了第一届</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CCSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">竞赛。苏州大学在</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">和</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CCSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">取得的成绩稳步提高，</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">和</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CCSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">在苏州大学影响也日益增加，学生参与的积极性与日俱增。近年的获奖信息如下：</span></p><p style="text-indent:0.33in;line-height:1.75em;text-align:left;margin-bottom:0in;"><span style="font-family:微软雅黑;font-size:16px;text-indent:0.33in;"></span></p><p style="text-align:center"><img data-layer="photo" src="/_upload/article/images/30/11/e5048a2147baa005590a130fd52f/075b2f66-c7f2-460e-aa72-c0f148b7fcfb.png" sudyfile-attr="{'title':'微信图片_20231111113445.png'}" width="800" height="447" border="0" hspace="0" vspace="0" style="width:800px;height:447px;"/></p><p style="text-indent:0.33in;line-height:1.75em;text-align:left;margin-bottom:0in;"><span style="font-family:微软雅黑;font-size:16px;text-indent:0.33in;">苏州大学计算机科学与技术学院（软件学院）长期重视学生工程实践、编程水平以及解决问题能力的培养。近十余年，程序设计类课程考试和考核全部结合上机考核和过程化考核，此外在研究生招生的复试环节将程序设计编程实践能力作为重要考核指标。</span></p><p style="text-indent:0.33in;line-height:1.75em;margin-bottom:0in;"><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">学院积极宣传</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">认证对工作、考研、的重要作用和意义，并且鼓励动员很多非计算机学院优秀学生参与认证。从</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2015</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">年开始每年组织多次</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">认证考试，特别是每年的</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">12</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">月，会组织本院三年级的全部学生参加</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">认证。</span></p><p style="text-align:center"><img src="/_upload/article/images/30/11/e5048a2147baa005590a130fd52f/6b5a033b-16e7-4e0b-84b7-f033e89d1026.jpg" width="800" height="471" border="0" hspace="0" vspace="0" style="width:800px;height:471px;"/></p><p style="text-indent:0.33in;text-align:center;line-height:1.75em;margin-bottom:0in;"><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2016</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">首届</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CCSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">苏州大学获奖选手</span></p><p style="text-align:center"><img src="/_upload/article/images/30/11/e5048a2147baa005590a130fd52f/9004654e-6be5-463c-8089-2902983302c2.jpg" hspace="0" width="800" height="440" border="0" vspace="0" style="width:800px;height:440px;"/></p><p style="text-align:center"><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2020CCSP</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">苏州大学参赛现场</span></p><p style="text-align:center"><img src="/_upload/article/images/30/11/e5048a2147baa005590a130fd52f/3a3e49ea-b689-4fdb-bdd1-f00aa77f4463.jpg" width="800" height="449" border="0" hspace="0" vspace="0" style="font-size:14px;text-indent:0.33in;width:800px;height:449px;"/></p><p style="text-align:center"><span style="text-indent:0.33in;font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2021CCSP</span><span style="text-indent:0.33in;font-family:微软雅黑;font-size:16px;line-height:1.75em;">苏州大学参赛队员（深圳现场）</span></p><p style="text-align:center"><img src="/_upload/article/images/30/11/e5048a2147baa005590a130fd52f/c30e8f7e-6f57-431f-ad25-17cc81ce0153.jpg" width="800" height="370" border="0" hspace="0" vspace="0" style="font-size:14px;text-indent:0.33in;width:800px;height:370px;"/></p><p style="text-indent:0.33in;text-align:center;line-height:1.75em;margin-bottom:0in;"><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2022CCSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">苏州大学参赛现场</span></p><p style="text-indent:0.33in;line-height:1.75em;margin-bottom:0in;"><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">在</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">和</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CCSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">认证中取得优秀成绩的同学，多人荣获</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CCF</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">全国优秀大学生，他们在程序设计类竞赛中也取得良好成绩。近三年在</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">ACM-ICPC</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">国际大学生程序设计竞赛中获</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">4</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">金</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">4</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">银</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">10</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">铜，在中国大学生程序设计中获得</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">4</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">金</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">10</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">银</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">5</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">铜的成绩，在团体程序设计天梯赛中也取得了优秀的成绩。这些同学在竞赛中取得优良成绩后，积极带动大部分同学的编程实践和学习交流。</span></p><p style="text-align:center"><img src="/_upload/article/images/30/11/e5048a2147baa005590a130fd52f/02fd91b5-b93e-4964-bab0-7696919928a7.jpg" width="800" height="533" border="0" hspace="0" vspace="0" style="width:800px;height:533px;"/></p><p style="text-align:center;line-height:1.75em;margin-bottom:0in;"><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">CCF</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">组织</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2021CCSP</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">苏州大学参赛队员赴华为研习</span></p><p style="text-indent:0.33in;line-height:1.75em;margin-bottom:0in;"><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">苏州大学计算机科学与技术学院秉承“养天地正气，法古今完人”的校训和“厚德博学，敬业求真”的院训，形成了从本科、硕士（计算机科学与技术、软件工程</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">个一级学科硕士点和电子信息专业学位硕士点）、博士（计算机科学与技术、软件工程）到博士后（计算机科学与技术、软件工程</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">2</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">个流动站）的完整人才培养体系，已为国家培养了</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">8000</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">余名信息产业的高端人才，成为长三角区域高层次创新人才培养的重要基地。</span></p><p style="text-indent:0.33in;line-height:1.75em;margin-bottom:0in;"><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;"><br/></span></p><p style="text-indent:0.33in;line-height:1.75em;margin-bottom:0in;"><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">近五年来，学院本科生参加各类学科竞赛，共获包括中国国际“互联网</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">+”</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">大学生创新创业大赛、“挑战杯”全国大学生课外学术科技作品竞赛、“挑战杯”中国大学生创业计划竞赛、</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">ACM-ICPC</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">程序设计大赛在内的省级及以上奖项</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">1399</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">项，发表高质量论文</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">42</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">篇、获发明专利</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">12</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">个、获软件著作权</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">78</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">个。学院培养的毕业生专业知识和综合素质过硬，就业率和就业层次高。本科毕业生年均有</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">40%</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">以上的学生读研或出国，本科学生就业率始终保持在</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">98%</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">以上，研究生就业率稳定在</span><span style="font-family:微软雅黑, serif;font-size:16px;line-height:1.75em;">100%</span><span style="font-family:微软雅黑;font-size:16px;line-height:1.75em;">。</span></p><p><br/></p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Common Footer -->
+    <footer class="outer footer">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-logo">
+                            <img src="/_upload/tpl/04/5d/1117/template1117/static/img/footer_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                        </div>
+                        <div class="footer-contact">
+                            <p>联系方式：0512-65113107</p>
+                            <p>联系地址：苏州市干将东路333号</p>
+                            <p>邮编：215008</p>  
+                            <p>院长信箱：scst@suda.edu.cn</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-qrcode">
+                            <img src="http://www.suda.edu.cn/images/weixin.jpg" alt="微信公众号">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/bootstrap.min.js"></script>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/app.js"></script>
+</body>
+</html>
+ <img src="/_visitcount?siteId=289&type=3&articleId=552047" style="display:none" width="0" height="0"/>

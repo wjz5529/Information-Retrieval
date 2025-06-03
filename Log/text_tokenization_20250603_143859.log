@@ -1,0 +1,5 @@
+2025-06-03 14:38:59,247 - text_tokenization - INFO - 日志系统配置完成
+2025-06-03 14:38:59,248 - text_tokenization - INFO - 分词器初始化完成，目标目录：text
+2025-06-03 14:38:59,248 - text_tokenization - INFO - 分词结果保存目录：tokenized_text
+2025-06-03 14:38:59,248 - text_tokenization - INFO - 日志保存目录：Log
+2025-06-03 14:38:59,248 - text_tokenization - INFO - 开始运行分词器

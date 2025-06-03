@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="zh-CN"  class="webplus-list"  >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="render" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title> 本科生</title>
+    
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/sudy-jquery-autoload.js" jquery-src="/_js/jquery-2.x.min.js" sudy-wp-context="" sudy-wp-siteId="289"></script>
+<script language="javascript" src="/_js/jquery-migrate.min.js"></script>
+<script language="javascript" src="/_js2/loadStyle.js" sys-path="/_upload/site/1/style/1/1.css"  site-path="/_upload/site/01/21/289/style/282/282.css" ></script>
+<script language="javascript" src="/_js2/grayscale.js"   ></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/base.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/style.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/pagination.css">
+    
+</head>
+<body>
+
+    <!-- Common Header -->
+    <header class="outer header">
+        <div class="inner">
+            <div class="container">
+                <div class="header-bar">
+                    <div class="header-search">
+                        <a href="javascript:void(0)" title="搜索" onclick="searchShow()">
+                            <i><img src="/_upload/tpl/04/5d/1117/template1117/static/img/icon/icon_search.png" alt="搜索"></i>
+                        </a>
+                        <div class="search-box" frag="窗口1" portletmode="search" style="display: none;">                            <form action="/_web/_search/api/search/new.rst?locale=zh_CN&request_locale=zh_CN&context=&_p=YXM9Mjg5JnQ9MTExNyZkPTQ1MDkmcD0yJmY9MTA5MjImbT1TTiZ8Ym5uQ29sdW1uVmlydHVhbE5hbWU9MTA5MjIm" method="POST" target="_blank">
+                                <input class="search-input" name="keyword" type="text" maxlength="40" autocomplete="off" placeholder="请输入搜索内容..."/>
+                                <button class="search-submit" type="submit"></button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="header-link">
+                        <span>
+                            <a href="http://scst.suda.edu.cn/main.htm" title="中文" target="_blank">中文</a>
+                        </span> |
+                        <span>
+                            <a href="javascript:void(0)" title="English" target="_blank">English</a>
+                        </span>
+                    </div>
+                </div>
+                <div class="header-logo">
+                    <a href="http://scst.suda.edu.cn/main.htm" title="苏州大学计算机科学与技术学院(软件学院)" target="_blank">
+                        <img src="/_upload/tpl/04/5d/1117/template1117/static/img/header_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+    <!-- Common Nav -->
+    <nav class="outer header-nav">
+        <div class="inner container" frag="窗口2">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav" aria-expanded="false"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></button>
+            <div class="site-nav collapse navbar-collapse" id="nav">
+                
+                <ul class="nav navbar-nav">
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="http://scst.suda.edu.cn/main.htm" target="_self" title="网站首页" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">网站首页</a>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11195/list.htm" target="_self" title="学院概况" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学院概况</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11238/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/11241/list.htm" target="_self" title="历史沿革">历史沿革</a></li>
+                            
+                            <li><a href="/11240/list.htm" target="_self" title="现任领导">现任领导</a></li>
+                            
+                            <li><a href="/11239/list.htm" target="_self" title="机构设置">机构设置</a></li>
+                            
+                            <li><a href="/11242/list.htm" target="_self" title="办学资源">办学资源</a></li>
+                            
+                            <li><a href="/xkqk/list.htm" target="_self" title="学科情况">学科情况</a></li>
+                            
+                            <li><a href="/11243/list.htm" target="_self" title="联系方式">联系方式</a></li>
+                            
+                            <li><a href="/ssyjx/list.htm" target="_self" title="师生意见箱">师生意见箱</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11197/list.htm" target="_self" title="师资中心" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">师资中心</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11248/list.htm" target="_self" title="师资概况">师资概况</a></li>
+                            
+                            <li><a href="/11249/list.htm" target="_self" title=" 教职工名单"> 教职工名单</a></li>
+                            
+                            <li><a href="/11250/list.htm" target="_self" title=" 导师简介"> 导师简介</a></li>
+                            
+                            <li><a href="/11251/list.htm" target="_self" title=" 兼职师资"> 兼职师资</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11198/list.htm" target="_self" title=" 科学研究" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown"> 科学研究</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/yjzx/list.htm" target="_self" title="研究中心">研究中心</a></li>
+                            
+                            <li><a href="/11253/list.htm" target="_self" title=" 科研机构"> 科研机构</a></li>
+                            
+                            <li><a href="/11254/list.htm" target="_self" title=" 科研项目"> 科研项目</a></li>
+                            
+                            <li><a href="/11255/list.htm" target="_self" title=" 科研论文"> 科研论文</a></li>
+                            
+                            <li><a href="/11256/list.htm" target="_self" title="知识产权">知识产权</a></li>
+                            
+                            <li><a href="/11257/list.htm" target="_self" title=" 科研政策"> 科研政策</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11199/list.htm" target="_self" title="人才培养" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">人才培养</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/shpgzt/list.htm" target="_self" title="审核评估专题">审核评估专题</a></li>
+                            
+                            <li><a href="/11229/list.htm" target="_self" title="博士生">博士生</a></li>
+                            
+                            <li><a href="/11230/list.htm" target="_self" title=" 硕士生"> 硕士生</a></li>
+                            
+                            <li><a href="/11231/list.htm" target="_self" title=" 本科生"> 本科生</a></li>
+                            
+                            <li><a href="/11234/list.htm" target="_self" title=" 图灵班"> 图灵班</a></li>
+                            
+                            <li><a href="/tljt/list.htm" target="_self" title="图灵讲堂">图灵讲堂</a></li>
+                            
+                            <li><a href="/zygcsb/list.htm" target="_self" title="卓越工程师班">卓越工程师班</a></li>
+                            
+                            <li><a href="/gjjl/list.htm" target="_self" title="国际交流">国际交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11201/list.htm" target="_self" title="党群工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">党群工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xydw/list.htm" target="_self" title="学院党委">学院党委</a></li>
+                            
+                            <li><a href="/jczz/list.htm" target="_self" title="基层组织">基层组织</a></li>
+                            
+                            <li><a href="/fdxgz/list.htm" target="_self" title="分党校工作">分党校工作</a></li>
+                            
+                            <li><a href="/11264/list.htm" target="_self" title=" 发展工作"> 发展工作</a></li>
+                            
+                            <li><a href="/11265/list.htm" target="_self" title=" 关工委工作"> 关工委工作</a></li>
+                            
+                            <li><a href="/11260/list.htm" target="_self" title=" 规章制度"> 规章制度</a></li>
+                            
+                            <li><a href="/11262/list.htm" target="_self" title=" 专题活动"> 专题活动</a></li>
+                            
+                            <li><a href="/xxyd/list.htm" target="_self" title="学习园地">学习园地</a></li>
+                            
+                            <li><a href="/qsdjgzybzbcj/list.htm" target="_self" title="全省党建工作样板支部创建">全省党建工作样板支部...</a></li>
+                            
+                            <li><a href="/szdxjsdzbsjsfgzscj/list.htm" target="_self" title="苏州大学教师党支部书记示范工作室创建">苏州大学教师党支部书...</a></li>
+                            
+                            <li><a href="/ghgz/list.htm" target="_self" title="工会工作">工会工作</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11200/list.htm" target="_self" title="学生工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学生工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xskc/list.htm" target="_self" title="学生科创">学生科创</a></li>
+                            
+                            <li><a href="/28212/list.htm" target="_self" title="工作队伍">工作队伍</a></li>
+                            
+                            <li><a href="/11275/list.htm" target="_self" title=" 学工通知"> 学工通知</a></li>
+                            
+                            <li><a href="/xgxw/list.htm" target="_self" title="学工新闻">学工新闻</a></li>
+                            
+                            <li><a href="/28213/list.htm" target="_self" title="规章制度">规章制度</a></li>
+                            
+                            <li><a href="/28216/list.htm" target="_self" title="志愿服务">志愿服务</a></li>
+                            
+                            <li><a href="/28218/list.htm" target="_self" title="学生组织">学生组织</a></li>
+                            
+                            <li><a href="/28219/list.htm" target="_self" title="勤工助学">勤工助学</a></li>
+                            
+                            <li><a href="/28220/list.htm" target="_self" title="心理健康">心理健康</a></li>
+                            
+                            <li><a href="/28221/list.htm" target="_self" title="就业创业">就业创业</a></li>
+                            
+                            <li><a href="/czpb/list.htm" target="_self" title="成长陪伴">成长陪伴</a></li>
+                            
+                            <li><a href="/jxpt/list.htm" target="_self" title="家校平台">家校平台</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xqhz/list.htm" target="_self" title="合作交流" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">合作交流</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xqhz_30719/list.htm" target="_self" title="校企合作与交流">校企合作与交流</a></li>
+                            
+                            <li><a href="/gjhzyjl/list.htm" target="_self" title="国际合作与交流">国际合作与交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/bmxy/list.htm" target="_self" title="保密学院" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">保密学院</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xyjj/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/bmpx/list.htm" target="_self" title="保密培训">保密培训</a></li>
+                            
+                            <li><a href="/bmyj/list.htm" target="_self" title="保密研究">保密研究</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11232/list.htm" target="_self" title="继续教育" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">继续教育</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28237/list.htm" target="_self" title="成教工作">成教工作</a></li>
+                            
+                            <li><a href="/28238/list.htm" target="_self" title="自考工作">自考工作</a></li>
+                            
+                            <li><a href="/28239/list.htm" target="_self" title="培训工作">培训工作</a></li>
+                            
+                            <li><a href="/28240/list.htm" target="_self" title="留学项目">留学项目</a></li>
+                            
+                            <li><a href="/zxkc/list.htm" target="_self" title="在线课程">在线课程</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xyfw/list.htm" target="_self" title="校友工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">校友工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28241/list.htm" target="_self" title="校友服务">校友服务</a></li>
+                            
+                            <li><a href="/28243/list.htm" target="_self" title="毕业校友录">毕业校友录</a></li>
+                            
+                            <li><a href="/28244/list.htm" target="_self" title="校友活动">校友活动</a></li>
+                            
+                            <li><a href="/xyh/list.htm" target="_self" title="校友会">校友会</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                </ul>
+                
+            </div>
+        </div>
+    </nav>
+
+
+    <script>
+        function searchShow() {
+            if($('.search-box').hasClass('active')){
+                $('.search-box').fadeOut();
+                $('.search-box').removeClass('active');
+            } else {
+                $('.search-box').addClass('active');
+                $('.search-box').fadeIn();
+            }
+        }
+    </script>
+    
+    <section class="outer column-banner">
+        <div class="inner" frag="窗口3" portletmode="simpleColumnAttri">
+            <div class="column-img" style="background-image: url(/_upload/column/2b/bf/11199/picture.jpg);"></div>
+            <div class="banner-overlay"></div>
+        </div>
+    </section>
+
+
+    <!-- Column Content -->
+    <section class="outer column">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                    <div class="column-sidebar">
+                        <div frag="窗口4" portletmode="simpleColumnAttri">
+                            <div class="column-name">人才培养
+                            </div>
+                        </div>
+                        <div id="columnNav" class="" frag="窗口5" portletmode="simpleColumnList">
+                            <div class="col-list">
+                                
+                                <ul> 
+                                    
+                                    <li class=""> 
+                                        <a href="/shpgzt/list.htm" title="审核评估专题">审核评估专题</a>
+                                        
+                                    </li> 
+                                    
+                                    <li class=""> 
+                                        <a href="/11229/list.htm" title="博士生">博士生</a>
+                                        
+                                    </li> 
+                                    
+                                    <li class=""> 
+                                        <a href="/11230/list.htm" title=" 硕士生"> 硕士生</a>
+                                        
+                                    </li> 
+                                    
+                                    <li class="selected"> 
+                                        <a href="/11231/list.htm" title=" 本科生"> 本科生</a>
+                                        
+                                        <div class="col-sublist" id="subnavMenu">
+                                            <ul>
+                                                
+                                                <li class="">
+                                                    <a href="/25067/list.htm" title="人才培养方案" target="_self">人才培养方案<span class="glyphicon glyphicon-menu-right"></span></a>
+                                                    
+                                                </li>
+                                                
+                                                <li class="">
+                                                    <a href="/25068/list.htm" title="课程教学大纲" target="_self">课程教学大纲<span class="glyphicon glyphicon-menu-right"></span></a>
+                                                    
+                                                </li>
+                                                
+                                            </ul>
+                                        </div>
+                                        
+                                    </li> 
+                                    
+                                    <li class=""> 
+                                        <a href="/11234/list.htm" title=" 图灵班"> 图灵班</a>
+                                        
+                                    </li> 
+                                    
+                                    <li class=""> 
+                                        <a href="/tljt/list.htm" title="图灵讲堂">图灵讲堂</a>
+                                        
+                                    </li> 
+                                    
+                                    <li class=""> 
+                                        <a href="/zygcsb/list.htm" title="卓越工程师班">卓越工程师班</a>
+                                        
+                                    </li> 
+                                    
+                                    <li class=""> 
+                                        <a href="/gjjl/list.htm" title="国际交流">国际交流</a>
+                                        
+                                    </li> 
+                                    
+                                </ul> 
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+                    <div class="column-content">
+                        <div frag="窗口6" portletmode="simpleColumnAttri">
+                            <div class="column-title">
+                                 本科生
+                                <div class="column-breadcrumb">
+                                    <i class="glyphicon glyphicon-home" aria-hidden="true"></i> <a href="/main.htm" target="_self">首页</a><span class='possplit'>&nbsp;&nbsp;</span><a href="/11199/list.htm" target="_self">人才培养</a><span class='possplit'>&nbsp;&nbsp;</span><a href="/11231/list.htm" target="_self"> 本科生</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column-date-list" frag="窗口7" portletmode="simpleList"> 
+<div class="wp_single wp_column_article" id="wp_column_article"> 
+     <div class="wp_entry"> 
+         <div class="wp_articlecontent"> 
+             <div id="wp_content_w7_0" class="paging_content" style="display:"> 
+<p><br/></p><p><br/></p><p class="western" style="text-indent:0.33in;text-align:left;line-height:2em;margin-bottom:0in;"><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">为进一步深化产教融合，推进自主创新人才培养，</span><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">4</span><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">月</span><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">28</span><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">日，苏州大学计算机科学与技术学院、软件学院</span><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">2023</span><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">级本科人才培养方案论证会在理工楼</span><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">214</span><span style="font-size:14px;text-indent:0.33in;font-family:宋体, simsun;line-height:2em;"><span lang="zh-CN" style="line-height:2em;"><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">会议室举行，会议邀请校内外专家一起进行人才培养<span style="text-wrap: nowrap">方案</span>的共商、共建。参加本次会议的有苏州大学教务处教学改革科吉亮亮、计算机科学与技术学院党委书记胡新华、计算机科学与技术学院副院长、软件学院常务副院长赵雷、软件学院副院长俞莉莹，以及同程网络科技股份有限公司、苏州瑞翼信息技术股份有限公司、江苏中科智能系统有限公司、中磊电子（苏州）有限公司、苏州同元软控信息技术有限公司、苏州千机智能技术有限公司、方正国际软件有限公司、苏州慧工云信息科技有限公司、江苏数码大方科技有限公司、苏州浩辰软件股份有限公司等企业专家，学院教学指导委员会全体委员、专业指导委员会全体委员、专业教师代表参加会议，</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">会议由副院长刘纯平主持。</span></span></span><br/></p><p style="text-align:center;line-height:2em;"><img src="/_upload/article/images/aa/ac/6098d67d4fa6bb17829210cce8cf/dc9a3856-37d4-4eba-b6fe-c06e4953e538.jpg" name="图片 1" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p class="western" style="text-indent:0.33in;line-height:2em;margin-bottom:0in;"><span style="font-family:宋体, simsun;line-height:2em;"><span lang="zh-CN" style="line-height:2em;"><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">胡新华书记首先对参加本次人才培养方案论证会的校内外专家表示感谢，他提到，高校肩负着人才培养的使命和责任，学院党委高度重视人才培养工作，坚持立德树人，聚合多方力量，形成党政领导、辅导员、专业教师、关工委退休教师等三全育人局面。希望本次会议，</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">在座的专家能够结合计算机行业发展、当下企业需求，在学院培养创新人才方面畅所欲言，多提宝贵意见。</span></span></span></p><p class="western" style="text-indent:0.33in;widows:2;orphans:2;text-align:left;line-height:2em;margin-bottom:0in;"><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">教务处吉亮亮在发言中表示，在当今快速变化的时代，<span style="font-family:微软雅黑, microsoft yahei;font-size:16px;text-indent:31.68px;">各行各业急需</span>创新人才，高校人才培养方案的修订需要紧跟时代和市场的步伐。学校近年来对照社会变化、市场需求、应用背景等方面对人才培养方案的整体架构进行了大的调整，计划从</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">2023</span><span style="font-family:宋体, simsun;line-height:2em;"><span lang="zh-CN" style="line-height:2em;"><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">年开始执行模块化培养，包括</span></span></span><a class="editor_btn btn_publish" id="editor_publish" style="font-size:14px;">发布</a><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">基础培养和专业培养，本次的人才方案论证会，将通过校企共商共建创新人才培养方案的改革，</span><span style="text-indent:0.33in;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">共同促进学校人才培养质量的进一步提高。</span></p><p class="western" style="text-indent:0.33in;line-height:2em;margin-bottom:0in;"><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">刘纯平副院长详细介绍了</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">2023</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">级人才培养方案的修订说明、学校本科人才</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">Π</span><span style="font-family:宋体, simsun;line-height:2em;"><span lang="zh-CN" style="line-height:2em;"><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">型培养方案、计算机基础学科拔尖人才培养和软件卓越工程师人才培养方案的修订原则及具体情况。</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">计算机科学与技术专业建设指导委员会主任钱龙华教授、软件工程专业建设指导委员会主任王宜怀教授从培养目标、毕业要求、课程体系设置等方面分别介绍了</span></span></span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">2023</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">级计算机科学与技术、软件工程专业人才培养方案修订情况。</span></p><p class="western" style="text-indent:0.33in;line-height:2em;margin-bottom:0in;"><span style="font-family:宋体, simsun;font-size:16px;line-height:2em;"><span lang="zh-CN" style="font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">最后，专家们结合自身经验和计算机行业环境，对学院创新人才培养方案进行了深入的探讨和论证。</span></span></p><p class="western" style="text-indent:0.33in;widows:2;orphans:2;text-align:left;line-height:2em;margin-bottom:0in;"><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">2023</span><span style="font-family:宋体, simsun;line-height:2em;"><span lang="zh-CN" style="line-height:2em;"><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">级本科人才培养方案论证会吸纳了在座专家的意见和建议，为学院创新人才培养提供了多种思路和举措，今后学院将</span><span style="font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;line-height:2em;">制定更加符合市场需求的人才培养方案，努力为国家培养具有创新思维和实践能力的优秀人才，为推动学校、学院高质量发展贡献人才力量。</span></span></span></p><p style="text-align:center"><img src="/_upload/article/images/aa/ac/6098d67d4fa6bb17829210cce8cf/f28f788f-8175-46de-ac54-8346055b63d1.jpg" name="图片 6" width="600" height="390" border="0" hspace="0" vspace="0" style="width:600px;height:390px;"/></p>
+</div> 
+ 
+         </div> 
+     </div> 
+</div> 
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Common Footer -->
+    <footer class="outer footer">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-logo">
+                            <img src="/_upload/tpl/04/5d/1117/template1117/static/img/footer_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                        </div>
+                        <div class="footer-contact">
+                            <p>联系方式：0512-65113107</p>
+                            <p>联系地址：苏州市干将东路333号</p>
+                            <p>邮编：215008</p>  
+                            <p>院长信箱：scst@suda.edu.cn</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-qrcode">
+                            <img src="http://www.suda.edu.cn/images/weixin.jpg" alt="微信公众号">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/bootstrap.min.js"></script>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/app.js"></script>
+    <script>
+        var arr = ['一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二']
+        $('.dateConvert').html(function () { return arr[parseInt(this.innerHTML,10)-1]+'月'})
+    </script>
+</body>
+</html>
+ <img src="/_visitcount?siteId=289&type=2&columnId=11231" style="display:none" width="0" height="0"/>

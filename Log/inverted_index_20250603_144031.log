@@ -1,0 +1,2010 @@
+2025-06-03 14:40:31,340 - inverted_index - INFO - 日志系统配置完成
+2025-06-03 14:40:31,341 - inverted_index - INFO - 倒排索引初始化完成，目标目录：tokenized_text
+2025-06-03 14:40:31,341 - inverted_index - INFO - 倒排索引结果保存目录：inverted.index
+2025-06-03 14:40:31,342 - inverted_index - INFO - 日志保存目录：Log
+2025-06-03 14:40:31,342 - inverted_index - INFO - 开始运行倒排索引构建
+2025-06-03 14:40:31,342 - inverted_index - INFO - 开始构建倒排索引
+2025-06-03 14:40:31,343 - inverted_index - INFO - 处理文件: 0003029369e8950b0852ba75f0323726.txt
+2025-06-03 14:40:31,344 - inverted_index - INFO - 文件 0003029369e8950b0852ba75f0323726.txt 处理完成
+2025-06-03 14:40:31,344 - inverted_index - INFO - 处理文件: 000b4b149a41f99d1c06f867a20adebc.txt
+2025-06-03 14:40:31,345 - inverted_index - INFO - 文件 000b4b149a41f99d1c06f867a20adebc.txt 处理完成
+2025-06-03 14:40:31,345 - inverted_index - INFO - 处理文件: 0019545358a74eec6fd0072e26a3b88c.txt
+2025-06-03 14:40:31,345 - inverted_index - INFO - 文件 0019545358a74eec6fd0072e26a3b88c.txt 处理完成
+2025-06-03 14:40:31,346 - inverted_index - INFO - 处理文件: 00d758dcb0869ac5cce8013ce5061a69.txt
+2025-06-03 14:40:31,346 - inverted_index - INFO - 文件 00d758dcb0869ac5cce8013ce5061a69.txt 处理完成
+2025-06-03 14:40:31,346 - inverted_index - INFO - 处理文件: 026454a126b8b0c7f6c9fce4148a940c.txt
+2025-06-03 14:40:31,347 - inverted_index - INFO - 文件 026454a126b8b0c7f6c9fce4148a940c.txt 处理完成
+2025-06-03 14:40:31,347 - inverted_index - INFO - 处理文件: 02887ec7c508cc1066d3864c9c63df1d.txt
+2025-06-03 14:40:31,348 - inverted_index - INFO - 文件 02887ec7c508cc1066d3864c9c63df1d.txt 处理完成
+2025-06-03 14:40:31,348 - inverted_index - INFO - 处理文件: 02943c449c22b4abd4e77133559db063.txt
+2025-06-03 14:40:31,348 - inverted_index - INFO - 文件 02943c449c22b4abd4e77133559db063.txt 处理完成
+2025-06-03 14:40:31,349 - inverted_index - INFO - 处理文件: 02ac54de863d796c7b9b62617abbd9f9.txt
+2025-06-03 14:40:31,349 - inverted_index - INFO - 文件 02ac54de863d796c7b9b62617abbd9f9.txt 处理完成
+2025-06-03 14:40:31,350 - inverted_index - INFO - 处理文件: 0334cd594ca1c61a9bdd2e087815749f.txt
+2025-06-03 14:40:31,350 - inverted_index - INFO - 文件 0334cd594ca1c61a9bdd2e087815749f.txt 处理完成
+2025-06-03 14:40:31,350 - inverted_index - INFO - 处理文件: 034257ea2e267467e0aa3504e77a2d36.txt
+2025-06-03 14:40:31,351 - inverted_index - INFO - 文件 034257ea2e267467e0aa3504e77a2d36.txt 处理完成
+2025-06-03 14:40:31,351 - inverted_index - INFO - 处理文件: 036e94fcdbd6af6226ff8282e92f08d9.txt
+2025-06-03 14:40:31,351 - inverted_index - INFO - 文件 036e94fcdbd6af6226ff8282e92f08d9.txt 处理完成
+2025-06-03 14:40:31,351 - inverted_index - INFO - 处理文件: 038b4fbba290ef571c3eb88b3f4e7e29.txt
+2025-06-03 14:40:31,351 - inverted_index - INFO - 文件 038b4fbba290ef571c3eb88b3f4e7e29.txt 处理完成
+2025-06-03 14:40:31,352 - inverted_index - INFO - 处理文件: 038d5ed4363fd6ddd81535867ee1e618.txt
+2025-06-03 14:40:31,352 - inverted_index - INFO - 文件 038d5ed4363fd6ddd81535867ee1e618.txt 处理完成
+2025-06-03 14:40:31,352 - inverted_index - INFO - 处理文件: 045546fb54a639bf9ef1a8f297338065.txt
+2025-06-03 14:40:31,352 - inverted_index - INFO - 文件 045546fb54a639bf9ef1a8f297338065.txt 处理完成
+2025-06-03 14:40:31,352 - inverted_index - INFO - 处理文件: 04e0f0668017550c6aeca358d69c5fde.txt
+2025-06-03 14:40:31,353 - inverted_index - INFO - 文件 04e0f0668017550c6aeca358d69c5fde.txt 处理完成
+2025-06-03 14:40:31,353 - inverted_index - INFO - 处理文件: 05348db8a951516b98a3966221b3f501.txt
+2025-06-03 14:40:31,353 - inverted_index - INFO - 文件 05348db8a951516b98a3966221b3f501.txt 处理完成
+2025-06-03 14:40:31,353 - inverted_index - INFO - 处理文件: 056bb6ecebfe9b05d67f4104ae9c05cd.txt
+2025-06-03 14:40:31,353 - inverted_index - INFO - 文件 056bb6ecebfe9b05d67f4104ae9c05cd.txt 处理完成
+2025-06-03 14:40:31,354 - inverted_index - INFO - 处理文件: 05c80485307fc8d7ae78ae5f84afb209.txt
+2025-06-03 14:40:31,354 - inverted_index - INFO - 文件 05c80485307fc8d7ae78ae5f84afb209.txt 处理完成
+2025-06-03 14:40:31,355 - inverted_index - INFO - 处理文件: 05d2c3a16b79b6d54f6127fabc0e65fe.txt
+2025-06-03 14:40:31,355 - inverted_index - INFO - 文件 05d2c3a16b79b6d54f6127fabc0e65fe.txt 处理完成
+2025-06-03 14:40:31,355 - inverted_index - INFO - 处理文件: 0613343f757bbb703869b690592a6050.txt
+2025-06-03 14:40:31,356 - inverted_index - INFO - 文件 0613343f757bbb703869b690592a6050.txt 处理完成
+2025-06-03 14:40:31,356 - inverted_index - INFO - 处理文件: 064704837f9750bce9243c4fb3557830.txt
+2025-06-03 14:40:31,356 - inverted_index - INFO - 文件 064704837f9750bce9243c4fb3557830.txt 处理完成
+2025-06-03 14:40:31,356 - inverted_index - INFO - 处理文件: 06f6a06f6098e9253d597c00234c5bf3.txt
+2025-06-03 14:40:31,357 - inverted_index - INFO - 文件 06f6a06f6098e9253d597c00234c5bf3.txt 处理完成
+2025-06-03 14:40:31,357 - inverted_index - INFO - 处理文件: 06fbdbfd1d2dc08df10c44c4e310af89.txt
+2025-06-03 14:40:31,358 - inverted_index - INFO - 文件 06fbdbfd1d2dc08df10c44c4e310af89.txt 处理完成
+2025-06-03 14:40:31,358 - inverted_index - INFO - 处理文件: 07532c84b3575fafe15b1d8a3cf11560.txt
+2025-06-03 14:40:31,358 - inverted_index - INFO - 文件 07532c84b3575fafe15b1d8a3cf11560.txt 处理完成
+2025-06-03 14:40:31,358 - inverted_index - INFO - 处理文件: 07924106de8d4b4962708913880022ad.txt
+2025-06-03 14:40:31,359 - inverted_index - INFO - 文件 07924106de8d4b4962708913880022ad.txt 处理完成
+2025-06-03 14:40:31,360 - inverted_index - INFO - 处理文件: 07c4043927c773b71c3ab52a925d7ca8.txt
+2025-06-03 14:40:31,360 - inverted_index - INFO - 文件 07c4043927c773b71c3ab52a925d7ca8.txt 处理完成
+2025-06-03 14:40:31,360 - inverted_index - INFO - 处理文件: 07df90de87971ace114a721b1c48a02e.txt
+2025-06-03 14:40:31,360 - inverted_index - INFO - 文件 07df90de87971ace114a721b1c48a02e.txt 处理完成
+2025-06-03 14:40:31,361 - inverted_index - INFO - 处理文件: 085e249cef5976d76b6ed8c49a481630.txt
+2025-06-03 14:40:31,361 - inverted_index - INFO - 文件 085e249cef5976d76b6ed8c49a481630.txt 处理完成
+2025-06-03 14:40:31,361 - inverted_index - INFO - 处理文件: 089115ed4267baf7d1cdb54a9a8ecd85.txt
+2025-06-03 14:40:31,362 - inverted_index - INFO - 文件 089115ed4267baf7d1cdb54a9a8ecd85.txt 处理完成
+2025-06-03 14:40:31,362 - inverted_index - INFO - 处理文件: 08cd558bfd377dec05a68433aba12503.txt
+2025-06-03 14:40:31,362 - inverted_index - INFO - 文件 08cd558bfd377dec05a68433aba12503.txt 处理完成
+2025-06-03 14:40:31,362 - inverted_index - INFO - 处理文件: 08f94b50901a2178fdd6f780b1982098.txt
+2025-06-03 14:40:31,362 - inverted_index - INFO - 文件 08f94b50901a2178fdd6f780b1982098.txt 处理完成
+2025-06-03 14:40:31,363 - inverted_index - INFO - 处理文件: 092f9316ad684458f47c46b5a29e3dd0.txt
+2025-06-03 14:40:31,363 - inverted_index - INFO - 文件 092f9316ad684458f47c46b5a29e3dd0.txt 处理完成
+2025-06-03 14:40:31,363 - inverted_index - INFO - 处理文件: 097355daf10a2309a28363b74908d0cc.txt
+2025-06-03 14:40:31,363 - inverted_index - INFO - 文件 097355daf10a2309a28363b74908d0cc.txt 处理完成
+2025-06-03 14:40:31,364 - inverted_index - INFO - 处理文件: 0975dc493f47a495008e92e035f6f970.txt
+2025-06-03 14:40:31,364 - inverted_index - INFO - 文件 0975dc493f47a495008e92e035f6f970.txt 处理完成
+2025-06-03 14:40:31,364 - inverted_index - INFO - 处理文件: 09bf7abebbaec589936adfd69ae11f8a.txt
+2025-06-03 14:40:31,365 - inverted_index - INFO - 文件 09bf7abebbaec589936adfd69ae11f8a.txt 处理完成
+2025-06-03 14:40:31,365 - inverted_index - INFO - 处理文件: 09e8ded222f67715ca0b00bfba5e1986.txt
+2025-06-03 14:40:31,365 - inverted_index - INFO - 文件 09e8ded222f67715ca0b00bfba5e1986.txt 处理完成
+2025-06-03 14:40:31,365 - inverted_index - INFO - 处理文件: 0afa8897d15869fd054452c4cb43b96d.txt
+2025-06-03 14:40:31,366 - inverted_index - INFO - 文件 0afa8897d15869fd054452c4cb43b96d.txt 处理完成
+2025-06-03 14:40:31,366 - inverted_index - INFO - 处理文件: 0b1f5f872441000eb072744d48b2852d.txt
+2025-06-03 14:40:31,366 - inverted_index - INFO - 文件 0b1f5f872441000eb072744d48b2852d.txt 处理完成
+2025-06-03 14:40:31,366 - inverted_index - INFO - 处理文件: 0b5f1ab7346184340f0fb419316a3caa.txt
+2025-06-03 14:40:31,367 - inverted_index - INFO - 文件 0b5f1ab7346184340f0fb419316a3caa.txt 处理完成
+2025-06-03 14:40:31,367 - inverted_index - INFO - 处理文件: 0bdf04abcf90a46137ce032f269037f0.txt
+2025-06-03 14:40:31,367 - inverted_index - INFO - 文件 0bdf04abcf90a46137ce032f269037f0.txt 处理完成
+2025-06-03 14:40:31,367 - inverted_index - INFO - 处理文件: 0bfa71ed439e70d3d63f8be9f319c662.txt
+2025-06-03 14:40:31,368 - inverted_index - INFO - 文件 0bfa71ed439e70d3d63f8be9f319c662.txt 处理完成
+2025-06-03 14:40:31,368 - inverted_index - INFO - 处理文件: 0c1b85bb83a378b4400f0a75aa8cdc6e.txt
+2025-06-03 14:40:31,368 - inverted_index - INFO - 文件 0c1b85bb83a378b4400f0a75aa8cdc6e.txt 处理完成
+2025-06-03 14:40:31,369 - inverted_index - INFO - 处理文件: 0c284d37035a6470c421027a88f22de0.txt
+2025-06-03 14:40:31,369 - inverted_index - INFO - 文件 0c284d37035a6470c421027a88f22de0.txt 处理完成
+2025-06-03 14:40:31,369 - inverted_index - INFO - 处理文件: 0c335dd348ba7a321a1c5a9f16195c98.txt
+2025-06-03 14:40:31,370 - inverted_index - INFO - 文件 0c335dd348ba7a321a1c5a9f16195c98.txt 处理完成
+2025-06-03 14:40:31,371 - inverted_index - INFO - 处理文件: 0c4a356c621fda32bc09dc5a46409ead.txt
+2025-06-03 14:40:31,371 - inverted_index - INFO - 文件 0c4a356c621fda32bc09dc5a46409ead.txt 处理完成
+2025-06-03 14:40:31,371 - inverted_index - INFO - 处理文件: 0c5a31f1a42d04b711039502ffbb422f.txt
+2025-06-03 14:40:31,372 - inverted_index - INFO - 文件 0c5a31f1a42d04b711039502ffbb422f.txt 处理完成
+2025-06-03 14:40:31,372 - inverted_index - INFO - 处理文件: 0c7c628fa63cfff9c4d4482558ba0da1.txt
+2025-06-03 14:40:31,372 - inverted_index - INFO - 文件 0c7c628fa63cfff9c4d4482558ba0da1.txt 处理完成
+2025-06-03 14:40:31,372 - inverted_index - INFO - 处理文件: 0d10b01dedd38c9039148ea53df179dd.txt
+2025-06-03 14:40:31,373 - inverted_index - INFO - 文件 0d10b01dedd38c9039148ea53df179dd.txt 处理完成
+2025-06-03 14:40:31,373 - inverted_index - INFO - 处理文件: 0db07af0fb568c2cc9de44743e3fefd7.txt
+2025-06-03 14:40:31,373 - inverted_index - INFO - 文件 0db07af0fb568c2cc9de44743e3fefd7.txt 处理完成
+2025-06-03 14:40:31,373 - inverted_index - INFO - 处理文件: 0dc316c1e5ca55b7e43ddf2e85195836.txt
+2025-06-03 14:40:31,373 - inverted_index - INFO - 文件 0dc316c1e5ca55b7e43ddf2e85195836.txt 处理完成
+2025-06-03 14:40:31,374 - inverted_index - INFO - 处理文件: 0e2ffa3790f58687d904c22fb76edd44.txt
+2025-06-03 14:40:31,374 - inverted_index - INFO - 文件 0e2ffa3790f58687d904c22fb76edd44.txt 处理完成
+2025-06-03 14:40:31,375 - inverted_index - INFO - 处理文件: 0e60e998ed43d8cb559dfc9b5e25c40a.txt
+2025-06-03 14:40:31,375 - inverted_index - INFO - 文件 0e60e998ed43d8cb559dfc9b5e25c40a.txt 处理完成
+2025-06-03 14:40:31,375 - inverted_index - INFO - 处理文件: 0eef7459f85837a87eb35051efc433f0.txt
+2025-06-03 14:40:31,375 - inverted_index - INFO - 文件 0eef7459f85837a87eb35051efc433f0.txt 处理完成
+2025-06-03 14:40:31,376 - inverted_index - INFO - 处理文件: 0efc517a3ce5fefc705f6f7086170172.txt
+2025-06-03 14:40:31,376 - inverted_index - INFO - 文件 0efc517a3ce5fefc705f6f7086170172.txt 处理完成
+2025-06-03 14:40:31,376 - inverted_index - INFO - 处理文件: 0f421f85a0831ca2c78ef46b6eae3567.txt
+2025-06-03 14:40:31,376 - inverted_index - INFO - 文件 0f421f85a0831ca2c78ef46b6eae3567.txt 处理完成
+2025-06-03 14:40:31,376 - inverted_index - INFO - 处理文件: 0f662f939a870756427784009ad7682d.txt
+2025-06-03 14:40:31,377 - inverted_index - INFO - 文件 0f662f939a870756427784009ad7682d.txt 处理完成
+2025-06-03 14:40:31,377 - inverted_index - INFO - 处理文件: 0f85b81b9ca7418a9ec4da25ea7f3b13.txt
+2025-06-03 14:40:31,377 - inverted_index - INFO - 文件 0f85b81b9ca7418a9ec4da25ea7f3b13.txt 处理完成
+2025-06-03 14:40:31,377 - inverted_index - INFO - 处理文件: 0fe8ad55ba0a79b39bbe58405764295e.txt
+2025-06-03 14:40:31,377 - inverted_index - INFO - 文件 0fe8ad55ba0a79b39bbe58405764295e.txt 处理完成
+2025-06-03 14:40:31,377 - inverted_index - INFO - 处理文件: 101e1a3c7acf7273eb89f76773cb79a2.txt
+2025-06-03 14:40:31,378 - inverted_index - INFO - 文件 101e1a3c7acf7273eb89f76773cb79a2.txt 处理完成
+2025-06-03 14:40:31,378 - inverted_index - INFO - 处理文件: 1029b216229f4d2d2d7de9daad14f8ed.txt
+2025-06-03 14:40:31,378 - inverted_index - INFO - 文件 1029b216229f4d2d2d7de9daad14f8ed.txt 处理完成
+2025-06-03 14:40:31,378 - inverted_index - INFO - 处理文件: 102f6b283537385cd600dc37a367d73b.txt
+2025-06-03 14:40:31,379 - inverted_index - INFO - 文件 102f6b283537385cd600dc37a367d73b.txt 处理完成
+2025-06-03 14:40:31,379 - inverted_index - INFO - 处理文件: 105109bf98472a60ac2b770ec5974e9e.txt
+2025-06-03 14:40:31,379 - inverted_index - INFO - 文件 105109bf98472a60ac2b770ec5974e9e.txt 处理完成
+2025-06-03 14:40:31,379 - inverted_index - INFO - 处理文件: 116a17a4b8030e22e2c41ddde41a8e01.txt
+2025-06-03 14:40:31,380 - inverted_index - INFO - 文件 116a17a4b8030e22e2c41ddde41a8e01.txt 处理完成
+2025-06-03 14:40:31,380 - inverted_index - INFO - 处理文件: 11955e331cdfec43a99dc4a20b1be289.txt
+2025-06-03 14:40:31,380 - inverted_index - INFO - 文件 11955e331cdfec43a99dc4a20b1be289.txt 处理完成
+2025-06-03 14:40:31,380 - inverted_index - INFO - 处理文件: 119b748350c68787cbd9523bacd30927.txt
+2025-06-03 14:40:31,380 - inverted_index - INFO - 文件 119b748350c68787cbd9523bacd30927.txt 处理完成
+2025-06-03 14:40:31,381 - inverted_index - INFO - 处理文件: 11f201c613638daf923ad774f414dca4.txt
+2025-06-03 14:40:31,381 - inverted_index - INFO - 文件 11f201c613638daf923ad774f414dca4.txt 处理完成
+2025-06-03 14:40:31,382 - inverted_index - INFO - 处理文件: 1249cf0b029b42d999659f3b09798afb.txt
+2025-06-03 14:40:31,382 - inverted_index - INFO - 文件 1249cf0b029b42d999659f3b09798afb.txt 处理完成
+2025-06-03 14:40:31,383 - inverted_index - INFO - 处理文件: 124fad9d2b68baa71ae08b16a66095f8.txt
+2025-06-03 14:40:31,383 - inverted_index - INFO - 文件 124fad9d2b68baa71ae08b16a66095f8.txt 处理完成
+2025-06-03 14:40:31,383 - inverted_index - INFO - 处理文件: 12a22e367cfe4caf7319b80c93d42f24.txt
+2025-06-03 14:40:31,383 - inverted_index - INFO - 文件 12a22e367cfe4caf7319b80c93d42f24.txt 处理完成
+2025-06-03 14:40:31,384 - inverted_index - INFO - 处理文件: 12b2dbce9ad6206477dba4a8d6fda397.txt
+2025-06-03 14:40:31,384 - inverted_index - INFO - 文件 12b2dbce9ad6206477dba4a8d6fda397.txt 处理完成
+2025-06-03 14:40:31,384 - inverted_index - INFO - 处理文件: 12ecad0b928ed10c75eb9f9cc8a9e9e8.txt
+2025-06-03 14:40:31,385 - inverted_index - INFO - 文件 12ecad0b928ed10c75eb9f9cc8a9e9e8.txt 处理完成
+2025-06-03 14:40:31,385 - inverted_index - INFO - 处理文件: 13672b2b4170bbe79593c9e9a03a82aa.txt
+2025-06-03 14:40:31,385 - inverted_index - INFO - 文件 13672b2b4170bbe79593c9e9a03a82aa.txt 处理完成
+2025-06-03 14:40:31,385 - inverted_index - INFO - 处理文件: 13a27c1b0b07b5e5c6f131b2c0fa2eb1.txt
+2025-06-03 14:40:31,386 - inverted_index - INFO - 文件 13a27c1b0b07b5e5c6f131b2c0fa2eb1.txt 处理完成
+2025-06-03 14:40:31,386 - inverted_index - INFO - 处理文件: 13b4e8eb861c90ad39451542fec2ca66.txt
+2025-06-03 14:40:31,386 - inverted_index - INFO - 文件 13b4e8eb861c90ad39451542fec2ca66.txt 处理完成
+2025-06-03 14:40:31,386 - inverted_index - INFO - 处理文件: 13be93d289c3d8d88f9d93ba383295c2.txt
+2025-06-03 14:40:31,386 - inverted_index - INFO - 文件 13be93d289c3d8d88f9d93ba383295c2.txt 处理完成
+2025-06-03 14:40:31,387 - inverted_index - INFO - 处理文件: 1468bcfee3464d048a5bf3e5d53b6adb.txt
+2025-06-03 14:40:31,387 - inverted_index - INFO - 文件 1468bcfee3464d048a5bf3e5d53b6adb.txt 处理完成
+2025-06-03 14:40:31,387 - inverted_index - INFO - 处理文件: 148fade651a903fbb16e940f94403912.txt
+2025-06-03 14:40:31,388 - inverted_index - INFO - 文件 148fade651a903fbb16e940f94403912.txt 处理完成
+2025-06-03 14:40:31,388 - inverted_index - INFO - 处理文件: 1511a96e0c7b7278d8e17ce1b23ea4e1.txt
+2025-06-03 14:40:31,388 - inverted_index - INFO - 文件 1511a96e0c7b7278d8e17ce1b23ea4e1.txt 处理完成
+2025-06-03 14:40:31,388 - inverted_index - INFO - 处理文件: 152e69f5fb085088d31585ca3d231e05.txt
+2025-06-03 14:40:31,388 - inverted_index - INFO - 文件 152e69f5fb085088d31585ca3d231e05.txt 处理完成
+2025-06-03 14:40:31,389 - inverted_index - INFO - 处理文件: 15929a65b517b54d67dacbd9a454995d.txt
+2025-06-03 14:40:31,389 - inverted_index - INFO - 文件 15929a65b517b54d67dacbd9a454995d.txt 处理完成
+2025-06-03 14:40:31,389 - inverted_index - INFO - 处理文件: 15ed4af538e8e6fdedb8f554df456512.txt
+2025-06-03 14:40:31,389 - inverted_index - INFO - 文件 15ed4af538e8e6fdedb8f554df456512.txt 处理完成
+2025-06-03 14:40:31,390 - inverted_index - INFO - 处理文件: 161650c2b38934d7437f80dcc9ffd574.txt
+2025-06-03 14:40:31,390 - inverted_index - INFO - 文件 161650c2b38934d7437f80dcc9ffd574.txt 处理完成
+2025-06-03 14:40:31,390 - inverted_index - INFO - 处理文件: 166958988ccb99f8271a024783f99f54.txt
+2025-06-03 14:40:31,391 - inverted_index - INFO - 文件 166958988ccb99f8271a024783f99f54.txt 处理完成
+2025-06-03 14:40:31,391 - inverted_index - INFO - 处理文件: 1672d756792af2c58b402ca473a247f8.txt
+2025-06-03 14:40:31,391 - inverted_index - INFO - 文件 1672d756792af2c58b402ca473a247f8.txt 处理完成
+2025-06-03 14:40:31,391 - inverted_index - INFO - 处理文件: 16dc59096b63ccfff06ecf66d36db894.txt
+2025-06-03 14:40:31,391 - inverted_index - INFO - 文件 16dc59096b63ccfff06ecf66d36db894.txt 处理完成
+2025-06-03 14:40:31,391 - inverted_index - INFO - 处理文件: 1789550a57e6f11d9a9ed88aac0fbe02.txt
+2025-06-03 14:40:31,392 - inverted_index - INFO - 文件 1789550a57e6f11d9a9ed88aac0fbe02.txt 处理完成
+2025-06-03 14:40:31,392 - inverted_index - INFO - 处理文件: 17ae9288ed826a2864e79a9b59223933.txt
+2025-06-03 14:40:31,392 - inverted_index - INFO - 文件 17ae9288ed826a2864e79a9b59223933.txt 处理完成
+2025-06-03 14:40:31,392 - inverted_index - INFO - 处理文件: 1811bbeb37c976bcfad0e1b6f84b2629.txt
+2025-06-03 14:40:31,392 - inverted_index - INFO - 文件 1811bbeb37c976bcfad0e1b6f84b2629.txt 处理完成
+2025-06-03 14:40:31,393 - inverted_index - INFO - 处理文件: 186c0715bcc80e0bf65dbac54053c6f3.txt
+2025-06-03 14:40:31,393 - inverted_index - INFO - 文件 186c0715bcc80e0bf65dbac54053c6f3.txt 处理完成
+2025-06-03 14:40:31,393 - inverted_index - INFO - 处理文件: 190cfd7b404f135af57c98856e19af02.txt
+2025-06-03 14:40:31,393 - inverted_index - INFO - 文件 190cfd7b404f135af57c98856e19af02.txt 处理完成
+2025-06-03 14:40:31,393 - inverted_index - INFO - 处理文件: 198a11beca7c9641212f9f1970573a59.txt
+2025-06-03 14:40:31,394 - inverted_index - INFO - 文件 198a11beca7c9641212f9f1970573a59.txt 处理完成
+2025-06-03 14:40:31,394 - inverted_index - INFO - 处理文件: 1acad947106d9ec19e5495fc0c4ace29.txt
+2025-06-03 14:40:31,394 - inverted_index - INFO - 文件 1acad947106d9ec19e5495fc0c4ace29.txt 处理完成
+2025-06-03 14:40:31,394 - inverted_index - INFO - 处理文件: 1ada6880b0585fbc021e594b97f5e2f3.txt
+2025-06-03 14:40:31,395 - inverted_index - INFO - 文件 1ada6880b0585fbc021e594b97f5e2f3.txt 处理完成
+2025-06-03 14:40:31,395 - inverted_index - INFO - 处理文件: 1b14e11fe9f28707b328143f0f1a98a4.txt
+2025-06-03 14:40:31,395 - inverted_index - INFO - 文件 1b14e11fe9f28707b328143f0f1a98a4.txt 处理完成
+2025-06-03 14:40:31,395 - inverted_index - INFO - 处理文件: 1bb0321f3ecd5ab6752293fc5f3d6218.txt
+2025-06-03 14:40:31,395 - inverted_index - INFO - 文件 1bb0321f3ecd5ab6752293fc5f3d6218.txt 处理完成
+2025-06-03 14:40:31,395 - inverted_index - INFO - 处理文件: 1c300918870f60538b64debbaf61704d.txt
+2025-06-03 14:40:31,396 - inverted_index - INFO - 文件 1c300918870f60538b64debbaf61704d.txt 处理完成
+2025-06-03 14:40:31,396 - inverted_index - INFO - 处理文件: 1c9f54276b1c7737a6d8a73655bc0df2.txt
+2025-06-03 14:40:31,396 - inverted_index - INFO - 文件 1c9f54276b1c7737a6d8a73655bc0df2.txt 处理完成
+2025-06-03 14:40:31,396 - inverted_index - INFO - 处理文件: 1cb2a03d5fe59378939b61448909870f.txt
+2025-06-03 14:40:31,397 - inverted_index - INFO - 文件 1cb2a03d5fe59378939b61448909870f.txt 处理完成
+2025-06-03 14:40:31,397 - inverted_index - INFO - 处理文件: 1d4c0ffe96b68759fe63339cd97025a9.txt
+2025-06-03 14:40:31,397 - inverted_index - INFO - 文件 1d4c0ffe96b68759fe63339cd97025a9.txt 处理完成
+2025-06-03 14:40:31,398 - inverted_index - INFO - 处理文件: 1d70b1bd0dd0acbf00ae2c7d977cd006.txt
+2025-06-03 14:40:31,398 - inverted_index - INFO - 文件 1d70b1bd0dd0acbf00ae2c7d977cd006.txt 处理完成
+2025-06-03 14:40:31,398 - inverted_index - INFO - 处理文件: 1e61ae6d1847e606c0926e5dfaedd58a.txt
+2025-06-03 14:40:31,399 - inverted_index - INFO - 文件 1e61ae6d1847e606c0926e5dfaedd58a.txt 处理完成
+2025-06-03 14:40:31,399 - inverted_index - INFO - 处理文件: 1e67a5c13a662426ecae3438077bf181.txt
+2025-06-03 14:40:31,399 - inverted_index - INFO - 文件 1e67a5c13a662426ecae3438077bf181.txt 处理完成
+2025-06-03 14:40:31,400 - inverted_index - INFO - 处理文件: 1ee418970f6a190b978fe424a5280f5f.txt
+2025-06-03 14:40:31,400 - inverted_index - INFO - 文件 1ee418970f6a190b978fe424a5280f5f.txt 处理完成
+2025-06-03 14:40:31,400 - inverted_index - INFO - 处理文件: 1efcf8f93df9051c4be2535d29544dc2.txt
+2025-06-03 14:40:31,400 - inverted_index - INFO - 文件 1efcf8f93df9051c4be2535d29544dc2.txt 处理完成
+2025-06-03 14:40:31,401 - inverted_index - INFO - 处理文件: 1f0cf63ad7138840791054e84efc4a96.txt
+2025-06-03 14:40:31,401 - inverted_index - INFO - 文件 1f0cf63ad7138840791054e84efc4a96.txt 处理完成
+2025-06-03 14:40:31,401 - inverted_index - INFO - 处理文件: 1f194e165179d8a77504fd8e2d765d65.txt
+2025-06-03 14:40:31,401 - inverted_index - INFO - 文件 1f194e165179d8a77504fd8e2d765d65.txt 处理完成
+2025-06-03 14:40:31,401 - inverted_index - INFO - 处理文件: 1f2b7d7a81e6b4823f17f6bc3bda712b.txt
+2025-06-03 14:40:31,402 - inverted_index - INFO - 文件 1f2b7d7a81e6b4823f17f6bc3bda712b.txt 处理完成
+2025-06-03 14:40:31,402 - inverted_index - INFO - 处理文件: 1f332125588550197c4a330e45b07182.txt
+2025-06-03 14:40:31,402 - inverted_index - INFO - 文件 1f332125588550197c4a330e45b07182.txt 处理完成
+2025-06-03 14:40:31,402 - inverted_index - INFO - 处理文件: 1f33d0e030f9dd1da7a782baabf921ad.txt
+2025-06-03 14:40:31,402 - inverted_index - INFO - 文件 1f33d0e030f9dd1da7a782baabf921ad.txt 处理完成
+2025-06-03 14:40:31,403 - inverted_index - INFO - 处理文件: 1fb52fbe29b5c16a7d6c91dc0114be94.txt
+2025-06-03 14:40:31,403 - inverted_index - INFO - 文件 1fb52fbe29b5c16a7d6c91dc0114be94.txt 处理完成
+2025-06-03 14:40:31,403 - inverted_index - INFO - 处理文件: 200f788e5b36942cb5628a0dbf18b259.txt
+2025-06-03 14:40:31,403 - inverted_index - INFO - 文件 200f788e5b36942cb5628a0dbf18b259.txt 处理完成
+2025-06-03 14:40:31,403 - inverted_index - INFO - 处理文件: 20b6997782a6f38ecbce06455c1f5c78.txt
+2025-06-03 14:40:31,403 - inverted_index - INFO - 文件 20b6997782a6f38ecbce06455c1f5c78.txt 处理完成
+2025-06-03 14:40:31,404 - inverted_index - INFO - 处理文件: 20b793c2273e2da6302abaa7350e6443.txt
+2025-06-03 14:40:31,404 - inverted_index - INFO - 文件 20b793c2273e2da6302abaa7350e6443.txt 处理完成
+2025-06-03 14:40:31,404 - inverted_index - INFO - 处理文件: 20c4f24052b0cb2409b6571fa704885d.txt
+2025-06-03 14:40:31,405 - inverted_index - INFO - 文件 20c4f24052b0cb2409b6571fa704885d.txt 处理完成
+2025-06-03 14:40:31,405 - inverted_index - INFO - 处理文件: 20f00587ca0baf437618e8bd00e6f725.txt
+2025-06-03 14:40:31,405 - inverted_index - INFO - 文件 20f00587ca0baf437618e8bd00e6f725.txt 处理完成
+2025-06-03 14:40:31,406 - inverted_index - INFO - 处理文件: 212061a894052c7dda0520afed6a0375.txt
+2025-06-03 14:40:31,406 - inverted_index - INFO - 文件 212061a894052c7dda0520afed6a0375.txt 处理完成
+2025-06-03 14:40:31,406 - inverted_index - INFO - 处理文件: 212e83d9e65d2f03946fb2f35fcf5d8d.txt
+2025-06-03 14:40:31,406 - inverted_index - INFO - 文件 212e83d9e65d2f03946fb2f35fcf5d8d.txt 处理完成
+2025-06-03 14:40:31,407 - inverted_index - INFO - 处理文件: 2130c91cb5bf45e927c5c061d136aad0.txt
+2025-06-03 14:40:31,407 - inverted_index - INFO - 文件 2130c91cb5bf45e927c5c061d136aad0.txt 处理完成
+2025-06-03 14:40:31,407 - inverted_index - INFO - 处理文件: 217db0294fa295ff9ba7b70e8034115f.txt
+2025-06-03 14:40:31,407 - inverted_index - INFO - 文件 217db0294fa295ff9ba7b70e8034115f.txt 处理完成
+2025-06-03 14:40:31,408 - inverted_index - INFO - 处理文件: 21a69cf7d07f0e79e06b90ab2a080448.txt
+2025-06-03 14:40:31,408 - inverted_index - INFO - 文件 21a69cf7d07f0e79e06b90ab2a080448.txt 处理完成
+2025-06-03 14:40:31,408 - inverted_index - INFO - 处理文件: 21a9d9222764e882a3c7f68bcb153197.txt
+2025-06-03 14:40:31,408 - inverted_index - INFO - 文件 21a9d9222764e882a3c7f68bcb153197.txt 处理完成
+2025-06-03 14:40:31,409 - inverted_index - INFO - 处理文件: 21b659747980b87ccb0cc6d1515e3ed9.txt
+2025-06-03 14:40:31,409 - inverted_index - INFO - 文件 21b659747980b87ccb0cc6d1515e3ed9.txt 处理完成
+2025-06-03 14:40:31,409 - inverted_index - INFO - 处理文件: 2259b58c341a1ac0c868347913df1ee0.txt
+2025-06-03 14:40:31,409 - inverted_index - INFO - 文件 2259b58c341a1ac0c868347913df1ee0.txt 处理完成
+2025-06-03 14:40:31,410 - inverted_index - INFO - 处理文件: 22f9b607aca764b104cba6dae6412929.txt
+2025-06-03 14:40:31,410 - inverted_index - INFO - 文件 22f9b607aca764b104cba6dae6412929.txt 处理完成
+2025-06-03 14:40:31,410 - inverted_index - INFO - 处理文件: 2363081e2188e7709b810fa77d517a25.txt
+2025-06-03 14:40:31,410 - inverted_index - INFO - 文件 2363081e2188e7709b810fa77d517a25.txt 处理完成
+2025-06-03 14:40:31,411 - inverted_index - INFO - 处理文件: 23975419614d476da4b3b49f3a788698.txt
+2025-06-03 14:40:31,411 - inverted_index - INFO - 文件 23975419614d476da4b3b49f3a788698.txt 处理完成
+2025-06-03 14:40:31,411 - inverted_index - INFO - 处理文件: 23aa5d785e10d246cb43377668a7f38f.txt
+2025-06-03 14:40:31,411 - inverted_index - INFO - 文件 23aa5d785e10d246cb43377668a7f38f.txt 处理完成
+2025-06-03 14:40:31,411 - inverted_index - INFO - 处理文件: 23ce4b765c0746dffe6f6a8c2f250456.txt
+2025-06-03 14:40:31,412 - inverted_index - INFO - 文件 23ce4b765c0746dffe6f6a8c2f250456.txt 处理完成
+2025-06-03 14:40:31,412 - inverted_index - INFO - 处理文件: 23e68690c7dd80ba5202813418dbdf53.txt
+2025-06-03 14:40:31,412 - inverted_index - INFO - 文件 23e68690c7dd80ba5202813418dbdf53.txt 处理完成
+2025-06-03 14:40:31,412 - inverted_index - INFO - 处理文件: 2433b1599b137418fcada216551eb074.txt
+2025-06-03 14:40:31,412 - inverted_index - INFO - 文件 2433b1599b137418fcada216551eb074.txt 处理完成
+2025-06-03 14:40:31,412 - inverted_index - INFO - 处理文件: 2480815a4f1caba149326a1da2a99fb2.txt
+2025-06-03 14:40:31,413 - inverted_index - INFO - 文件 2480815a4f1caba149326a1da2a99fb2.txt 处理完成
+2025-06-03 14:40:31,413 - inverted_index - INFO - 处理文件: 248400285ad91572a56a3f053b0076b6.txt
+2025-06-03 14:40:31,413 - inverted_index - INFO - 文件 248400285ad91572a56a3f053b0076b6.txt 处理完成
+2025-06-03 14:40:31,413 - inverted_index - INFO - 处理文件: 24abd24bffe6656af33fead23a516838.txt
+2025-06-03 14:40:31,413 - inverted_index - INFO - 文件 24abd24bffe6656af33fead23a516838.txt 处理完成
+2025-06-03 14:40:31,414 - inverted_index - INFO - 处理文件: 24b028b9a400df3962042fa331dac5ac.txt
+2025-06-03 14:40:31,414 - inverted_index - INFO - 文件 24b028b9a400df3962042fa331dac5ac.txt 处理完成
+2025-06-03 14:40:31,414 - inverted_index - INFO - 处理文件: 24ca300ba667e13c1725cec85eace892.txt
+2025-06-03 14:40:31,415 - inverted_index - INFO - 文件 24ca300ba667e13c1725cec85eace892.txt 处理完成
+2025-06-03 14:40:31,415 - inverted_index - INFO - 处理文件: 255f3bf48208e40d70b93e227d451a3e.txt
+2025-06-03 14:40:31,415 - inverted_index - INFO - 文件 255f3bf48208e40d70b93e227d451a3e.txt 处理完成
+2025-06-03 14:40:31,416 - inverted_index - INFO - 处理文件: 25cc1fb05ce158816f7cb8e98bb29cf5.txt
+2025-06-03 14:40:31,416 - inverted_index - INFO - 文件 25cc1fb05ce158816f7cb8e98bb29cf5.txt 处理完成
+2025-06-03 14:40:31,417 - inverted_index - INFO - 处理文件: 265ae8e23bf857dc77fae98968889cea.txt
+2025-06-03 14:40:31,417 - inverted_index - INFO - 文件 265ae8e23bf857dc77fae98968889cea.txt 处理完成
+2025-06-03 14:40:31,417 - inverted_index - INFO - 处理文件: 269c745c4ba85cb0befd1042fd70b9f3.txt
+2025-06-03 14:40:31,418 - inverted_index - INFO - 文件 269c745c4ba85cb0befd1042fd70b9f3.txt 处理完成
+2025-06-03 14:40:31,418 - inverted_index - INFO - 处理文件: 26bb4a7c28bbe9d32b4ce925a34c91b6.txt
+2025-06-03 14:40:31,418 - inverted_index - INFO - 文件 26bb4a7c28bbe9d32b4ce925a34c91b6.txt 处理完成
+2025-06-03 14:40:31,418 - inverted_index - INFO - 处理文件: 26dd68639b73f8a6e528ae8e06c88378.txt
+2025-06-03 14:40:31,418 - inverted_index - INFO - 文件 26dd68639b73f8a6e528ae8e06c88378.txt 处理完成
+2025-06-03 14:40:31,419 - inverted_index - INFO - 处理文件: 2748641d34e5cfd86edc0370eee22171.txt
+2025-06-03 14:40:31,419 - inverted_index - INFO - 文件 2748641d34e5cfd86edc0370eee22171.txt 处理完成
+2025-06-03 14:40:31,419 - inverted_index - INFO - 处理文件: 276e01b5665252a3057ae9f15e5a0ad1.txt
+2025-06-03 14:40:31,419 - inverted_index - INFO - 文件 276e01b5665252a3057ae9f15e5a0ad1.txt 处理完成
+2025-06-03 14:40:31,420 - inverted_index - INFO - 处理文件: 278e3e6661f581c965fa9c34e49fdd6e.txt
+2025-06-03 14:40:31,420 - inverted_index - INFO - 文件 278e3e6661f581c965fa9c34e49fdd6e.txt 处理完成
+2025-06-03 14:40:31,420 - inverted_index - INFO - 处理文件: 28003a11583295a2b5673cb51acb4f58.txt
+2025-06-03 14:40:31,420 - inverted_index - INFO - 文件 28003a11583295a2b5673cb51acb4f58.txt 处理完成
+2025-06-03 14:40:31,421 - inverted_index - INFO - 处理文件: 2872d9418f651c892270bca7551db793.txt
+2025-06-03 14:40:31,421 - inverted_index - INFO - 文件 2872d9418f651c892270bca7551db793.txt 处理完成
+2025-06-03 14:40:31,421 - inverted_index - INFO - 处理文件: 28b4700eb8016229882cbe5c9a64f22c.txt
+2025-06-03 14:40:31,422 - inverted_index - INFO - 文件 28b4700eb8016229882cbe5c9a64f22c.txt 处理完成
+2025-06-03 14:40:31,422 - inverted_index - INFO - 处理文件: 290b890cf1a4c354f31edcab133fbf15.txt
+2025-06-03 14:40:31,422 - inverted_index - INFO - 文件 290b890cf1a4c354f31edcab133fbf15.txt 处理完成
+2025-06-03 14:40:31,423 - inverted_index - INFO - 处理文件: 293b97b8c80a01fd8ba27e5cfa5b47d5.txt
+2025-06-03 14:40:31,423 - inverted_index - INFO - 文件 293b97b8c80a01fd8ba27e5cfa5b47d5.txt 处理完成
+2025-06-03 14:40:31,423 - inverted_index - INFO - 处理文件: 29536348838cc65cb76a302bac264f6a.txt
+2025-06-03 14:40:31,423 - inverted_index - INFO - 文件 29536348838cc65cb76a302bac264f6a.txt 处理完成
+2025-06-03 14:40:31,424 - inverted_index - INFO - 处理文件: 29a92b1bd4ec01b127c57a256e557d30.txt
+2025-06-03 14:40:31,424 - inverted_index - INFO - 文件 29a92b1bd4ec01b127c57a256e557d30.txt 处理完成
+2025-06-03 14:40:31,424 - inverted_index - INFO - 处理文件: 29f704ec9ac92b62fd6fba159be2cb72.txt
+2025-06-03 14:40:31,425 - inverted_index - INFO - 文件 29f704ec9ac92b62fd6fba159be2cb72.txt 处理完成
+2025-06-03 14:40:31,425 - inverted_index - INFO - 处理文件: 2a0d8d718883a4a1ee7fb0642ccaf736.txt
+2025-06-03 14:40:31,425 - inverted_index - INFO - 文件 2a0d8d718883a4a1ee7fb0642ccaf736.txt 处理完成
+2025-06-03 14:40:31,425 - inverted_index - INFO - 处理文件: 2a2d4d73035fc23a1c3d5c9814b734cc.txt
+2025-06-03 14:40:31,426 - inverted_index - INFO - 文件 2a2d4d73035fc23a1c3d5c9814b734cc.txt 处理完成
+2025-06-03 14:40:31,426 - inverted_index - INFO - 处理文件: 2a33f5602a99691ebea82866cee3d159.txt
+2025-06-03 14:40:31,426 - inverted_index - INFO - 文件 2a33f5602a99691ebea82866cee3d159.txt 处理完成
+2025-06-03 14:40:31,426 - inverted_index - INFO - 处理文件: 2a3de4430fcb4cfd7eaee6f4389cc5f1.txt
+2025-06-03 14:40:31,426 - inverted_index - INFO - 文件 2a3de4430fcb4cfd7eaee6f4389cc5f1.txt 处理完成
+2025-06-03 14:40:31,426 - inverted_index - INFO - 处理文件: 2accbcc3312602b0efe43845dafa9f5c.txt
+2025-06-03 14:40:31,426 - inverted_index - INFO - 文件 2accbcc3312602b0efe43845dafa9f5c.txt 处理完成
+2025-06-03 14:40:31,426 - inverted_index - INFO - 处理文件: 2acfce182f567e2f7aa2d1049c1a972f.txt
+2025-06-03 14:40:31,427 - inverted_index - INFO - 文件 2acfce182f567e2f7aa2d1049c1a972f.txt 处理完成
+2025-06-03 14:40:31,427 - inverted_index - INFO - 处理文件: 2ae3d729920c7057a5331484961847ac.txt
+2025-06-03 14:40:31,427 - inverted_index - INFO - 文件 2ae3d729920c7057a5331484961847ac.txt 处理完成
+2025-06-03 14:40:31,427 - inverted_index - INFO - 处理文件: 2b33a2bfc9c08f91747690433e7ea835.txt
+2025-06-03 14:40:31,427 - inverted_index - INFO - 文件 2b33a2bfc9c08f91747690433e7ea835.txt 处理完成
+2025-06-03 14:40:31,427 - inverted_index - INFO - 处理文件: 2b4d59c1771538cbec23cdb1b0c7a995.txt
+2025-06-03 14:40:31,428 - inverted_index - INFO - 文件 2b4d59c1771538cbec23cdb1b0c7a995.txt 处理完成
+2025-06-03 14:40:31,428 - inverted_index - INFO - 处理文件: 2b5624d002d2a4b36eff12ad0e4f3d23.txt
+2025-06-03 14:40:31,428 - inverted_index - INFO - 文件 2b5624d002d2a4b36eff12ad0e4f3d23.txt 处理完成
+2025-06-03 14:40:31,428 - inverted_index - INFO - 处理文件: 2b5937b9543f1ee2f7d1e257ffef02bc.txt
+2025-06-03 14:40:31,429 - inverted_index - INFO - 文件 2b5937b9543f1ee2f7d1e257ffef02bc.txt 处理完成
+2025-06-03 14:40:31,429 - inverted_index - INFO - 处理文件: 2b59eae3de9fc500fcec05b00202d233.txt
+2025-06-03 14:40:31,429 - inverted_index - INFO - 文件 2b59eae3de9fc500fcec05b00202d233.txt 处理完成
+2025-06-03 14:40:31,429 - inverted_index - INFO - 处理文件: 2b8160ffd5ff758a2da573108218a920.txt
+2025-06-03 14:40:31,430 - inverted_index - INFO - 文件 2b8160ffd5ff758a2da573108218a920.txt 处理完成
+2025-06-03 14:40:31,430 - inverted_index - INFO - 处理文件: 2bc6caf12fb17d130821c242dfc7b7a8.txt
+2025-06-03 14:40:31,430 - inverted_index - INFO - 文件 2bc6caf12fb17d130821c242dfc7b7a8.txt 处理完成
+2025-06-03 14:40:31,431 - inverted_index - INFO - 处理文件: 2cba6e0c67342aa7cd78a760598349fe.txt
+2025-06-03 14:40:31,431 - inverted_index - INFO - 文件 2cba6e0c67342aa7cd78a760598349fe.txt 处理完成
+2025-06-03 14:40:31,431 - inverted_index - INFO - 处理文件: 2d3c6387b7a685371cf0145b3822420b.txt
+2025-06-03 14:40:31,432 - inverted_index - INFO - 文件 2d3c6387b7a685371cf0145b3822420b.txt 处理完成
+2025-06-03 14:40:31,432 - inverted_index - INFO - 处理文件: 2d60da2c78b677def5e29512e6f07507.txt
+2025-06-03 14:40:31,433 - inverted_index - INFO - 文件 2d60da2c78b677def5e29512e6f07507.txt 处理完成
+2025-06-03 14:40:31,433 - inverted_index - INFO - 处理文件: 2e02a549aa04c73fcc4d3c979f48d855.txt
+2025-06-03 14:40:31,433 - inverted_index - INFO - 文件 2e02a549aa04c73fcc4d3c979f48d855.txt 处理完成
+2025-06-03 14:40:31,434 - inverted_index - INFO - 处理文件: 2e0d038ad0c5e0c09b273f7e7f36e092.txt
+2025-06-03 14:40:31,434 - inverted_index - INFO - 文件 2e0d038ad0c5e0c09b273f7e7f36e092.txt 处理完成
+2025-06-03 14:40:31,434 - inverted_index - INFO - 处理文件: 2e50c7b1a5d27c2d2f5e587fc782b137.txt
+2025-06-03 14:40:31,434 - inverted_index - INFO - 文件 2e50c7b1a5d27c2d2f5e587fc782b137.txt 处理完成
+2025-06-03 14:40:31,435 - inverted_index - INFO - 处理文件: 2e6cbd46ccee38ae1ec045f41ad2ad29.txt
+2025-06-03 14:40:31,435 - inverted_index - INFO - 文件 2e6cbd46ccee38ae1ec045f41ad2ad29.txt 处理完成
+2025-06-03 14:40:31,435 - inverted_index - INFO - 处理文件: 2e8292689217184350cc10308083292f.txt
+2025-06-03 14:40:31,435 - inverted_index - INFO - 文件 2e8292689217184350cc10308083292f.txt 处理完成
+2025-06-03 14:40:31,435 - inverted_index - INFO - 处理文件: 2edf12f0af599588d0a6bf9817b987f9.txt
+2025-06-03 14:40:31,436 - inverted_index - INFO - 文件 2edf12f0af599588d0a6bf9817b987f9.txt 处理完成
+2025-06-03 14:40:31,436 - inverted_index - INFO - 处理文件: 2ee17c43be50515eca3056fd7c8ee7bf.txt
+2025-06-03 14:40:31,436 - inverted_index - INFO - 文件 2ee17c43be50515eca3056fd7c8ee7bf.txt 处理完成
+2025-06-03 14:40:31,436 - inverted_index - INFO - 处理文件: 2efbf5ab7343a16131ed48faedd46e35.txt
+2025-06-03 14:40:31,436 - inverted_index - INFO - 文件 2efbf5ab7343a16131ed48faedd46e35.txt 处理完成
+2025-06-03 14:40:31,436 - inverted_index - INFO - 处理文件: 2f27964726b441b1a9efdc705af15826.txt
+2025-06-03 14:40:31,437 - inverted_index - INFO - 文件 2f27964726b441b1a9efdc705af15826.txt 处理完成
+2025-06-03 14:40:31,437 - inverted_index - INFO - 处理文件: 2fa63e1dbf16972a37fa0a242325b603.txt
+2025-06-03 14:40:31,437 - inverted_index - INFO - 文件 2fa63e1dbf16972a37fa0a242325b603.txt 处理完成
+2025-06-03 14:40:31,437 - inverted_index - INFO - 处理文件: 304453e6f4c5d73f507172f1ecd935d4.txt
+2025-06-03 14:40:31,437 - inverted_index - INFO - 文件 304453e6f4c5d73f507172f1ecd935d4.txt 处理完成
+2025-06-03 14:40:31,437 - inverted_index - INFO - 处理文件: 30674a7ec5233e2d0dc0a3a577f7edc9.txt
+2025-06-03 14:40:31,437 - inverted_index - INFO - 文件 30674a7ec5233e2d0dc0a3a577f7edc9.txt 处理完成
+2025-06-03 14:40:31,439 - inverted_index - INFO - 处理文件: 307d974d951b4e409d3ef0caa24738ae.txt
+2025-06-03 14:40:31,439 - inverted_index - INFO - 文件 307d974d951b4e409d3ef0caa24738ae.txt 处理完成
+2025-06-03 14:40:31,439 - inverted_index - INFO - 处理文件: 309aa46cba8994b4446b20bf75c81953.txt
+2025-06-03 14:40:31,439 - inverted_index - INFO - 文件 309aa46cba8994b4446b20bf75c81953.txt 处理完成
+2025-06-03 14:40:31,439 - inverted_index - INFO - 处理文件: 30c2972072929bb45a28684435b266b8.txt
+2025-06-03 14:40:31,439 - inverted_index - INFO - 文件 30c2972072929bb45a28684435b266b8.txt 处理完成
+2025-06-03 14:40:31,441 - inverted_index - INFO - 处理文件: 30c6da29502fff2a50f39c6b52bcf5a7.txt
+2025-06-03 14:40:31,441 - inverted_index - INFO - 文件 30c6da29502fff2a50f39c6b52bcf5a7.txt 处理完成
+2025-06-03 14:40:31,441 - inverted_index - INFO - 处理文件: 30db456043f99fd8f6611e2f0e5cdcd7.txt
+2025-06-03 14:40:31,441 - inverted_index - INFO - 文件 30db456043f99fd8f6611e2f0e5cdcd7.txt 处理完成
+2025-06-03 14:40:31,442 - inverted_index - INFO - 处理文件: 30e75d3fb571cd7793fd4e1dfc49732d.txt
+2025-06-03 14:40:31,442 - inverted_index - INFO - 文件 30e75d3fb571cd7793fd4e1dfc49732d.txt 处理完成
+2025-06-03 14:40:31,442 - inverted_index - INFO - 处理文件: 30fc0b108e1cd078cc3b7706004d759b.txt
+2025-06-03 14:40:31,442 - inverted_index - INFO - 文件 30fc0b108e1cd078cc3b7706004d759b.txt 处理完成
+2025-06-03 14:40:31,442 - inverted_index - INFO - 处理文件: 3116ec6c1da34c843ffaf225616ce0ad.txt
+2025-06-03 14:40:31,443 - inverted_index - INFO - 文件 3116ec6c1da34c843ffaf225616ce0ad.txt 处理完成
+2025-06-03 14:40:31,443 - inverted_index - INFO - 处理文件: 3227ced537efdba0f5b086e09d55f77f.txt
+2025-06-03 14:40:31,443 - inverted_index - INFO - 文件 3227ced537efdba0f5b086e09d55f77f.txt 处理完成
+2025-06-03 14:40:31,443 - inverted_index - INFO - 处理文件: 323f063ebb983bd306bf23a3aeccdc9f.txt
+2025-06-03 14:40:31,443 - inverted_index - INFO - 文件 323f063ebb983bd306bf23a3aeccdc9f.txt 处理完成
+2025-06-03 14:40:31,444 - inverted_index - INFO - 处理文件: 325cd10b4946c5fc74800b097395de15.txt
+2025-06-03 14:40:31,444 - inverted_index - INFO - 文件 325cd10b4946c5fc74800b097395de15.txt 处理完成
+2025-06-03 14:40:31,444 - inverted_index - INFO - 处理文件: 32714ecc2f8eab46fd19db3d4750b1d6.txt
+2025-06-03 14:40:31,444 - inverted_index - INFO - 文件 32714ecc2f8eab46fd19db3d4750b1d6.txt 处理完成
+2025-06-03 14:40:31,444 - inverted_index - INFO - 处理文件: 327ad0257123347dc363ff5a2502305e.txt
+2025-06-03 14:40:31,445 - inverted_index - INFO - 文件 327ad0257123347dc363ff5a2502305e.txt 处理完成
+2025-06-03 14:40:31,445 - inverted_index - INFO - 处理文件: 33383ba57afab01d5e24668c6df52d38.txt
+2025-06-03 14:40:31,445 - inverted_index - INFO - 文件 33383ba57afab01d5e24668c6df52d38.txt 处理完成
+2025-06-03 14:40:31,445 - inverted_index - INFO - 处理文件: 33c2425f490e76b044972f2f9d9e91f3.txt
+2025-06-03 14:40:31,445 - inverted_index - INFO - 文件 33c2425f490e76b044972f2f9d9e91f3.txt 处理完成
+2025-06-03 14:40:31,446 - inverted_index - INFO - 处理文件: 33e5061ef98ef4937850998dd676acb9.txt
+2025-06-03 14:40:31,446 - inverted_index - INFO - 文件 33e5061ef98ef4937850998dd676acb9.txt 处理完成
+2025-06-03 14:40:31,446 - inverted_index - INFO - 处理文件: 3460bd5e232ae3e4f9a765b9ff351b06.txt
+2025-06-03 14:40:31,446 - inverted_index - INFO - 文件 3460bd5e232ae3e4f9a765b9ff351b06.txt 处理完成
+2025-06-03 14:40:31,446 - inverted_index - INFO - 处理文件: 34795c53bc2c72170b84f2e6ef41ba43.txt
+2025-06-03 14:40:31,447 - inverted_index - INFO - 文件 34795c53bc2c72170b84f2e6ef41ba43.txt 处理完成
+2025-06-03 14:40:31,447 - inverted_index - INFO - 处理文件: 35072479c2f7d051c88f3bf64e604fed.txt
+2025-06-03 14:40:31,447 - inverted_index - INFO - 文件 35072479c2f7d051c88f3bf64e604fed.txt 处理完成
+2025-06-03 14:40:31,447 - inverted_index - INFO - 处理文件: 35de6de40014390d731b831b075b9962.txt
+2025-06-03 14:40:31,447 - inverted_index - INFO - 文件 35de6de40014390d731b831b075b9962.txt 处理完成
+2025-06-03 14:40:31,447 - inverted_index - INFO - 处理文件: 35fa719fceb49e4cc1fce588fa6c6b46.txt
+2025-06-03 14:40:31,448 - inverted_index - INFO - 文件 35fa719fceb49e4cc1fce588fa6c6b46.txt 处理完成
+2025-06-03 14:40:31,448 - inverted_index - INFO - 处理文件: 360b962a078fc0ae5ffe4e23b1a750e5.txt
+2025-06-03 14:40:31,448 - inverted_index - INFO - 文件 360b962a078fc0ae5ffe4e23b1a750e5.txt 处理完成
+2025-06-03 14:40:31,449 - inverted_index - INFO - 处理文件: 360fc481e32e92ba7814ccc92e42aff7.txt
+2025-06-03 14:40:31,449 - inverted_index - INFO - 文件 360fc481e32e92ba7814ccc92e42aff7.txt 处理完成
+2025-06-03 14:40:31,449 - inverted_index - INFO - 处理文件: 3627b3ba7756eaed9b23cb0304481054.txt
+2025-06-03 14:40:31,450 - inverted_index - INFO - 文件 3627b3ba7756eaed9b23cb0304481054.txt 处理完成
+2025-06-03 14:40:31,450 - inverted_index - INFO - 处理文件: 36b6bfb23982671cec7083407275d932.txt
+2025-06-03 14:40:31,450 - inverted_index - INFO - 文件 36b6bfb23982671cec7083407275d932.txt 处理完成
+2025-06-03 14:40:31,450 - inverted_index - INFO - 处理文件: 36c7ba1877b314f88a7b591ab095eb56.txt
+2025-06-03 14:40:31,451 - inverted_index - INFO - 文件 36c7ba1877b314f88a7b591ab095eb56.txt 处理完成
+2025-06-03 14:40:31,451 - inverted_index - INFO - 处理文件: 36f89407fe3c217a32240e0555f4366f.txt
+2025-06-03 14:40:31,452 - inverted_index - INFO - 文件 36f89407fe3c217a32240e0555f4366f.txt 处理完成
+2025-06-03 14:40:31,452 - inverted_index - INFO - 处理文件: 372979810a93187e69aef77da756baa8.txt
+2025-06-03 14:40:31,453 - inverted_index - INFO - 文件 372979810a93187e69aef77da756baa8.txt 处理完成
+2025-06-03 14:40:31,453 - inverted_index - INFO - 处理文件: 375fe8aa0fb050f069a0486f64980d8e.txt
+2025-06-03 14:40:31,453 - inverted_index - INFO - 文件 375fe8aa0fb050f069a0486f64980d8e.txt 处理完成
+2025-06-03 14:40:31,453 - inverted_index - INFO - 处理文件: 3792802ae50fc6029b418bb25b9d295d.txt
+2025-06-03 14:40:31,454 - inverted_index - INFO - 文件 3792802ae50fc6029b418bb25b9d295d.txt 处理完成
+2025-06-03 14:40:31,454 - inverted_index - INFO - 处理文件: 37b2bd3244ed4fce29f96f682adb08e0.txt
+2025-06-03 14:40:31,454 - inverted_index - INFO - 文件 37b2bd3244ed4fce29f96f682adb08e0.txt 处理完成
+2025-06-03 14:40:31,455 - inverted_index - INFO - 处理文件: 383a438f1f3dc3bb1e369ef1e539b2c6.txt
+2025-06-03 14:40:31,455 - inverted_index - INFO - 文件 383a438f1f3dc3bb1e369ef1e539b2c6.txt 处理完成
+2025-06-03 14:40:31,455 - inverted_index - INFO - 处理文件: 38a54ea080839984e4669f1ce5ad7b75.txt
+2025-06-03 14:40:31,455 - inverted_index - INFO - 文件 38a54ea080839984e4669f1ce5ad7b75.txt 处理完成
+2025-06-03 14:40:31,456 - inverted_index - INFO - 处理文件: 38bcc9ca9ecad8a85e0634197fa2b11a.txt
+2025-06-03 14:40:31,456 - inverted_index - INFO - 文件 38bcc9ca9ecad8a85e0634197fa2b11a.txt 处理完成
+2025-06-03 14:40:31,456 - inverted_index - INFO - 处理文件: 38e1b07c475f8199b9cf993359b98f56.txt
+2025-06-03 14:40:31,457 - inverted_index - INFO - 文件 38e1b07c475f8199b9cf993359b98f56.txt 处理完成
+2025-06-03 14:40:31,457 - inverted_index - INFO - 处理文件: 3911d6dc3e93ec7fa81f6cf160cf6de5.txt
+2025-06-03 14:40:31,457 - inverted_index - INFO - 文件 3911d6dc3e93ec7fa81f6cf160cf6de5.txt 处理完成
+2025-06-03 14:40:31,458 - inverted_index - INFO - 处理文件: 3952a48fb9133c21819b04f4a59212cd.txt
+2025-06-03 14:40:31,458 - inverted_index - INFO - 文件 3952a48fb9133c21819b04f4a59212cd.txt 处理完成
+2025-06-03 14:40:31,459 - inverted_index - INFO - 处理文件: 3a31c17f2a38a53cbf36562c0398dc11.txt
+2025-06-03 14:40:31,459 - inverted_index - INFO - 文件 3a31c17f2a38a53cbf36562c0398dc11.txt 处理完成
+2025-06-03 14:40:31,459 - inverted_index - INFO - 处理文件: 3aeb7656931a6b61371a8d69f21d1a81.txt
+2025-06-03 14:40:31,460 - inverted_index - INFO - 文件 3aeb7656931a6b61371a8d69f21d1a81.txt 处理完成
+2025-06-03 14:40:31,460 - inverted_index - INFO - 处理文件: 3b1edceef733585a031fab8a046aed43.txt
+2025-06-03 14:40:31,460 - inverted_index - INFO - 文件 3b1edceef733585a031fab8a046aed43.txt 处理完成
+2025-06-03 14:40:31,461 - inverted_index - INFO - 处理文件: 3bd9704895b02524fd021df2f7c0853f.txt
+2025-06-03 14:40:31,461 - inverted_index - INFO - 文件 3bd9704895b02524fd021df2f7c0853f.txt 处理完成
+2025-06-03 14:40:31,461 - inverted_index - INFO - 处理文件: 3bdb461d44f7116667af07c5a424e066.txt
+2025-06-03 14:40:31,461 - inverted_index - INFO - 文件 3bdb461d44f7116667af07c5a424e066.txt 处理完成
+2025-06-03 14:40:31,462 - inverted_index - INFO - 处理文件: 3c1e44b6a3ab4e4fcfe93032a80330d8.txt
+2025-06-03 14:40:31,462 - inverted_index - INFO - 文件 3c1e44b6a3ab4e4fcfe93032a80330d8.txt 处理完成
+2025-06-03 14:40:31,462 - inverted_index - INFO - 处理文件: 3c4d3f5681a3df1f23c6c0e43cf97eef.txt
+2025-06-03 14:40:31,462 - inverted_index - INFO - 文件 3c4d3f5681a3df1f23c6c0e43cf97eef.txt 处理完成
+2025-06-03 14:40:31,462 - inverted_index - INFO - 处理文件: 3c56b3cc1a7b4ba3cb5fba15c5dbf9db.txt
+2025-06-03 14:40:31,463 - inverted_index - INFO - 文件 3c56b3cc1a7b4ba3cb5fba15c5dbf9db.txt 处理完成
+2025-06-03 14:40:31,463 - inverted_index - INFO - 处理文件: 3d7e28a8b0c2b4bf7b1b0142c4acc7de.txt
+2025-06-03 14:40:31,464 - inverted_index - INFO - 文件 3d7e28a8b0c2b4bf7b1b0142c4acc7de.txt 处理完成
+2025-06-03 14:40:31,464 - inverted_index - INFO - 处理文件: 3de94814d1dd97b3c57767365e8b4592.txt
+2025-06-03 14:40:31,464 - inverted_index - INFO - 文件 3de94814d1dd97b3c57767365e8b4592.txt 处理完成
+2025-06-03 14:40:31,465 - inverted_index - INFO - 处理文件: 3e02869c39d060f6c885aed696710c3c.txt
+2025-06-03 14:40:31,465 - inverted_index - INFO - 文件 3e02869c39d060f6c885aed696710c3c.txt 处理完成
+2025-06-03 14:40:31,466 - inverted_index - INFO - 处理文件: 3e283121bbc3ed48c757e6d1ed346795.txt
+2025-06-03 14:40:31,466 - inverted_index - INFO - 文件 3e283121bbc3ed48c757e6d1ed346795.txt 处理完成
+2025-06-03 14:40:31,467 - inverted_index - INFO - 处理文件: 3e4b5b5f3819d80f2e14e2fac1a8e7ef.txt
+2025-06-03 14:40:31,467 - inverted_index - INFO - 文件 3e4b5b5f3819d80f2e14e2fac1a8e7ef.txt 处理完成
+2025-06-03 14:40:31,468 - inverted_index - INFO - 处理文件: 3e5d3297accf2b7667c4dc42ab58f2b0.txt
+2025-06-03 14:40:31,468 - inverted_index - INFO - 文件 3e5d3297accf2b7667c4dc42ab58f2b0.txt 处理完成
+2025-06-03 14:40:31,469 - inverted_index - INFO - 处理文件: 3e66dbb659f07ca1c7ae88bc8e0a040b.txt
+2025-06-03 14:40:31,469 - inverted_index - INFO - 文件 3e66dbb659f07ca1c7ae88bc8e0a040b.txt 处理完成
+2025-06-03 14:40:31,469 - inverted_index - INFO - 处理文件: 3e6a3fa419796ed3494cf0defedf5909.txt
+2025-06-03 14:40:31,470 - inverted_index - INFO - 文件 3e6a3fa419796ed3494cf0defedf5909.txt 处理完成
+2025-06-03 14:40:31,470 - inverted_index - INFO - 处理文件: 3e923bc73409341baf64972caf94f36a.txt
+2025-06-03 14:40:31,470 - inverted_index - INFO - 文件 3e923bc73409341baf64972caf94f36a.txt 处理完成
+2025-06-03 14:40:31,471 - inverted_index - INFO - 处理文件: 3ead400d508bc11969409dace74c3d5a.txt
+2025-06-03 14:40:31,471 - inverted_index - INFO - 文件 3ead400d508bc11969409dace74c3d5a.txt 处理完成
+2025-06-03 14:40:31,471 - inverted_index - INFO - 处理文件: 3eea68e403f0ba452759939c3a66b9a8.txt
+2025-06-03 14:40:31,471 - inverted_index - INFO - 文件 3eea68e403f0ba452759939c3a66b9a8.txt 处理完成
+2025-06-03 14:40:31,472 - inverted_index - INFO - 处理文件: 3efb2119e947c9e300bc674fbc6666c1.txt
+2025-06-03 14:40:31,472 - inverted_index - INFO - 文件 3efb2119e947c9e300bc674fbc6666c1.txt 处理完成
+2025-06-03 14:40:31,472 - inverted_index - INFO - 处理文件: 3f753b5f6d4ec0a40d3b26441a35e8a2.txt
+2025-06-03 14:40:31,473 - inverted_index - INFO - 文件 3f753b5f6d4ec0a40d3b26441a35e8a2.txt 处理完成
+2025-06-03 14:40:31,473 - inverted_index - INFO - 处理文件: 4003c687ea91d678801f3d5894e08480.txt
+2025-06-03 14:40:31,473 - inverted_index - INFO - 文件 4003c687ea91d678801f3d5894e08480.txt 处理完成
+2025-06-03 14:40:31,473 - inverted_index - INFO - 处理文件: 401bdb6b70b9e358c06e2fa304a82305.txt
+2025-06-03 14:40:31,474 - inverted_index - INFO - 文件 401bdb6b70b9e358c06e2fa304a82305.txt 处理完成
+2025-06-03 14:40:31,474 - inverted_index - INFO - 处理文件: 404dfc866b73c14d68897552acc7c917.txt
+2025-06-03 14:40:31,475 - inverted_index - INFO - 文件 404dfc866b73c14d68897552acc7c917.txt 处理完成
+2025-06-03 14:40:31,475 - inverted_index - INFO - 处理文件: 40982eb651d48b4aa2970eee241e8796.txt
+2025-06-03 14:40:31,475 - inverted_index - INFO - 文件 40982eb651d48b4aa2970eee241e8796.txt 处理完成
+2025-06-03 14:40:31,475 - inverted_index - INFO - 处理文件: 40e48d171384f8b7e8ee18d9ec739ed5.txt
+2025-06-03 14:40:31,475 - inverted_index - INFO - 文件 40e48d171384f8b7e8ee18d9ec739ed5.txt 处理完成
+2025-06-03 14:40:31,477 - inverted_index - INFO - 处理文件: 40f7dbb04a8859a2efe6d857a4e175df.txt
+2025-06-03 14:40:31,477 - inverted_index - INFO - 文件 40f7dbb04a8859a2efe6d857a4e175df.txt 处理完成
+2025-06-03 14:40:31,477 - inverted_index - INFO - 处理文件: 412b0f4026bcbc9d7460ea4b150ed3d6.txt
+2025-06-03 14:40:31,477 - inverted_index - INFO - 文件 412b0f4026bcbc9d7460ea4b150ed3d6.txt 处理完成
+2025-06-03 14:40:31,477 - inverted_index - INFO - 处理文件: 4187ac58b09c00a706b0be8130afdf08.txt
+2025-06-03 14:40:31,478 - inverted_index - INFO - 文件 4187ac58b09c00a706b0be8130afdf08.txt 处理完成
+2025-06-03 14:40:31,478 - inverted_index - INFO - 处理文件: 41b77faac539342ca544a5b85439d3ea.txt
+2025-06-03 14:40:31,478 - inverted_index - INFO - 文件 41b77faac539342ca544a5b85439d3ea.txt 处理完成
+2025-06-03 14:40:31,478 - inverted_index - INFO - 处理文件: 41da9fb373bf6a13549e2c9d61540e43.txt
+2025-06-03 14:40:31,478 - inverted_index - INFO - 文件 41da9fb373bf6a13549e2c9d61540e43.txt 处理完成
+2025-06-03 14:40:31,478 - inverted_index - INFO - 处理文件: 41e2fe4b4eb528bd2acc004cbb969b72.txt
+2025-06-03 14:40:31,479 - inverted_index - INFO - 文件 41e2fe4b4eb528bd2acc004cbb969b72.txt 处理完成
+2025-06-03 14:40:31,479 - inverted_index - INFO - 处理文件: 41e8ed83eefd964a0152cfbf24cb1c98.txt
+2025-06-03 14:40:31,479 - inverted_index - INFO - 文件 41e8ed83eefd964a0152cfbf24cb1c98.txt 处理完成
+2025-06-03 14:40:31,479 - inverted_index - INFO - 处理文件: 42251958afacb407a7a4d9de6f9220bc.txt
+2025-06-03 14:40:31,479 - inverted_index - INFO - 文件 42251958afacb407a7a4d9de6f9220bc.txt 处理完成
+2025-06-03 14:40:31,480 - inverted_index - INFO - 处理文件: 423d04db9d6de1c05ba99b128f6fa281.txt
+2025-06-03 14:40:31,480 - inverted_index - INFO - 文件 423d04db9d6de1c05ba99b128f6fa281.txt 处理完成
+2025-06-03 14:40:31,480 - inverted_index - INFO - 处理文件: 428f288e9cf11787430a3e21be45091f.txt
+2025-06-03 14:40:31,481 - inverted_index - INFO - 文件 428f288e9cf11787430a3e21be45091f.txt 处理完成
+2025-06-03 14:40:31,481 - inverted_index - INFO - 处理文件: 42d08f9f142663d1892021c7646d12e9.txt
+2025-06-03 14:40:31,481 - inverted_index - INFO - 文件 42d08f9f142663d1892021c7646d12e9.txt 处理完成
+2025-06-03 14:40:31,481 - inverted_index - INFO - 处理文件: 42d1d9697de22c7e098b1747509f7957.txt
+2025-06-03 14:40:31,482 - inverted_index - INFO - 文件 42d1d9697de22c7e098b1747509f7957.txt 处理完成
+2025-06-03 14:40:31,482 - inverted_index - INFO - 处理文件: 43314adc7fc2f2260b0f26fc28d37194.txt
+2025-06-03 14:40:31,482 - inverted_index - INFO - 文件 43314adc7fc2f2260b0f26fc28d37194.txt 处理完成
+2025-06-03 14:40:31,483 - inverted_index - INFO - 处理文件: 43b1f1bc91fa508fbe7af8dc36d42dfb.txt
+2025-06-03 14:40:31,483 - inverted_index - INFO - 文件 43b1f1bc91fa508fbe7af8dc36d42dfb.txt 处理完成
+2025-06-03 14:40:31,484 - inverted_index - INFO - 处理文件: 43e6763dbbac615b525bf441cdefa735.txt
+2025-06-03 14:40:31,484 - inverted_index - INFO - 文件 43e6763dbbac615b525bf441cdefa735.txt 处理完成
+2025-06-03 14:40:31,485 - inverted_index - INFO - 处理文件: 44712a0df385e2941f72f0f1de30647f.txt
+2025-06-03 14:40:31,485 - inverted_index - INFO - 文件 44712a0df385e2941f72f0f1de30647f.txt 处理完成
+2025-06-03 14:40:31,485 - inverted_index - INFO - 处理文件: 44884eb68395fd270894a2587d1e68a7.txt
+2025-06-03 14:40:31,486 - inverted_index - INFO - 文件 44884eb68395fd270894a2587d1e68a7.txt 处理完成
+2025-06-03 14:40:31,486 - inverted_index - INFO - 处理文件: 449241b2d1b5ed441e5df17bfb22f4f1.txt
+2025-06-03 14:40:31,486 - inverted_index - INFO - 文件 449241b2d1b5ed441e5df17bfb22f4f1.txt 处理完成
+2025-06-03 14:40:31,486 - inverted_index - INFO - 处理文件: 449b5951fb52c33321b6dfdc86304fb8.txt
+2025-06-03 14:40:31,487 - inverted_index - INFO - 文件 449b5951fb52c33321b6dfdc86304fb8.txt 处理完成
+2025-06-03 14:40:31,487 - inverted_index - INFO - 处理文件: 44ae6d7c3e6925072151ca6288a99a17.txt
+2025-06-03 14:40:31,487 - inverted_index - INFO - 文件 44ae6d7c3e6925072151ca6288a99a17.txt 处理完成
+2025-06-03 14:40:31,488 - inverted_index - INFO - 处理文件: 44bd3c8a25001c4a20cff4b35bcd7c1a.txt
+2025-06-03 14:40:31,488 - inverted_index - INFO - 文件 44bd3c8a25001c4a20cff4b35bcd7c1a.txt 处理完成
+2025-06-03 14:40:31,489 - inverted_index - INFO - 处理文件: 44cba051792ba55e935b0c09aca7293c.txt
+2025-06-03 14:40:31,489 - inverted_index - INFO - 文件 44cba051792ba55e935b0c09aca7293c.txt 处理完成
+2025-06-03 14:40:31,490 - inverted_index - INFO - 处理文件: 4506ca3073108f2a96b624f7ecdba07d.txt
+2025-06-03 14:40:31,490 - inverted_index - INFO - 文件 4506ca3073108f2a96b624f7ecdba07d.txt 处理完成
+2025-06-03 14:40:31,490 - inverted_index - INFO - 处理文件: 450c6ae5807509792738ef788fa8688b.txt
+2025-06-03 14:40:31,491 - inverted_index - INFO - 文件 450c6ae5807509792738ef788fa8688b.txt 处理完成
+2025-06-03 14:40:31,491 - inverted_index - INFO - 处理文件: 451d90179df86a40d39202ad7ed22a00.txt
+2025-06-03 14:40:31,492 - inverted_index - INFO - 文件 451d90179df86a40d39202ad7ed22a00.txt 处理完成
+2025-06-03 14:40:31,492 - inverted_index - INFO - 处理文件: 452fc153744dade268f195ae8f004c4d.txt
+2025-06-03 14:40:31,493 - inverted_index - INFO - 文件 452fc153744dade268f195ae8f004c4d.txt 处理完成
+2025-06-03 14:40:31,493 - inverted_index - INFO - 处理文件: 454611ddc6fddec311aeb2a6fe64b108.txt
+2025-06-03 14:40:31,493 - inverted_index - INFO - 文件 454611ddc6fddec311aeb2a6fe64b108.txt 处理完成
+2025-06-03 14:40:31,494 - inverted_index - INFO - 处理文件: 45482adb49b760bad9758c09b3b3ca18.txt
+2025-06-03 14:40:31,494 - inverted_index - INFO - 文件 45482adb49b760bad9758c09b3b3ca18.txt 处理完成
+2025-06-03 14:40:31,494 - inverted_index - INFO - 处理文件: 456be5e9f9870c3cc9ec8c1b2393b825.txt
+2025-06-03 14:40:31,494 - inverted_index - INFO - 文件 456be5e9f9870c3cc9ec8c1b2393b825.txt 处理完成
+2025-06-03 14:40:31,495 - inverted_index - INFO - 处理文件: 45abfc66fd2dff056b17d8d2e1841a5e.txt
+2025-06-03 14:40:31,495 - inverted_index - INFO - 文件 45abfc66fd2dff056b17d8d2e1841a5e.txt 处理完成
+2025-06-03 14:40:31,496 - inverted_index - INFO - 处理文件: 45c39970d86c16bd9f3efe4e5cd9f70a.txt
+2025-06-03 14:40:31,496 - inverted_index - INFO - 文件 45c39970d86c16bd9f3efe4e5cd9f70a.txt 处理完成
+2025-06-03 14:40:31,497 - inverted_index - INFO - 处理文件: 460dd2ae5fd7ea94f9eefb4bd09639ad.txt
+2025-06-03 14:40:31,497 - inverted_index - INFO - 文件 460dd2ae5fd7ea94f9eefb4bd09639ad.txt 处理完成
+2025-06-03 14:40:31,497 - inverted_index - INFO - 处理文件: 4620c1ad4470574b616db110aef1777c.txt
+2025-06-03 14:40:31,498 - inverted_index - INFO - 文件 4620c1ad4470574b616db110aef1777c.txt 处理完成
+2025-06-03 14:40:31,498 - inverted_index - INFO - 处理文件: 468083683ff7c50fc20cf617f4b051ff.txt
+2025-06-03 14:40:31,499 - inverted_index - INFO - 文件 468083683ff7c50fc20cf617f4b051ff.txt 处理完成
+2025-06-03 14:40:31,499 - inverted_index - INFO - 处理文件: 46de333a93989db7b72dbf1d80200f2a.txt
+2025-06-03 14:40:31,500 - inverted_index - INFO - 文件 46de333a93989db7b72dbf1d80200f2a.txt 处理完成
+2025-06-03 14:40:31,500 - inverted_index - INFO - 处理文件: 46e11c54e579449e6e355b4c3c49c282.txt
+2025-06-03 14:40:31,501 - inverted_index - INFO - 文件 46e11c54e579449e6e355b4c3c49c282.txt 处理完成
+2025-06-03 14:40:31,501 - inverted_index - INFO - 处理文件: 470b05b52a9c471294aa6d71d55b1764.txt
+2025-06-03 14:40:31,501 - inverted_index - INFO - 文件 470b05b52a9c471294aa6d71d55b1764.txt 处理完成
+2025-06-03 14:40:31,502 - inverted_index - INFO - 处理文件: 470d853d962a156c06ac03d5dbcd9aad.txt
+2025-06-03 14:40:31,502 - inverted_index - INFO - 文件 470d853d962a156c06ac03d5dbcd9aad.txt 处理完成
+2025-06-03 14:40:31,502 - inverted_index - INFO - 处理文件: 471a9f882a460b059851286208ab9124.txt
+2025-06-03 14:40:31,502 - inverted_index - INFO - 文件 471a9f882a460b059851286208ab9124.txt 处理完成
+2025-06-03 14:40:31,503 - inverted_index - INFO - 处理文件: 474fc085453f728cf72bf6cdb951b415.txt
+2025-06-03 14:40:31,503 - inverted_index - INFO - 文件 474fc085453f728cf72bf6cdb951b415.txt 处理完成
+2025-06-03 14:40:31,503 - inverted_index - INFO - 处理文件: 479b945f209a707f1477eb17cc13eacf.txt
+2025-06-03 14:40:31,503 - inverted_index - INFO - 文件 479b945f209a707f1477eb17cc13eacf.txt 处理完成
+2025-06-03 14:40:31,503 - inverted_index - INFO - 处理文件: 48e2fe42d3ae352957f1efdd0c0f8890.txt
+2025-06-03 14:40:31,504 - inverted_index - INFO - 文件 48e2fe42d3ae352957f1efdd0c0f8890.txt 处理完成
+2025-06-03 14:40:31,504 - inverted_index - INFO - 处理文件: 4918e2f8da01cc5ff30e2628030a3a5e.txt
+2025-06-03 14:40:31,504 - inverted_index - INFO - 文件 4918e2f8da01cc5ff30e2628030a3a5e.txt 处理完成
+2025-06-03 14:40:31,504 - inverted_index - INFO - 处理文件: 491aef917fac0146f63c560951a57cf6.txt
+2025-06-03 14:40:31,505 - inverted_index - INFO - 文件 491aef917fac0146f63c560951a57cf6.txt 处理完成
+2025-06-03 14:40:31,505 - inverted_index - INFO - 处理文件: 4942db2d6af714405192c0aa749c4d4e.txt
+2025-06-03 14:40:31,505 - inverted_index - INFO - 文件 4942db2d6af714405192c0aa749c4d4e.txt 处理完成
+2025-06-03 14:40:31,505 - inverted_index - INFO - 处理文件: 4945786c9f91aefacc9a7c8a9572fe49.txt
+2025-06-03 14:40:31,505 - inverted_index - INFO - 文件 4945786c9f91aefacc9a7c8a9572fe49.txt 处理完成
+2025-06-03 14:40:31,506 - inverted_index - INFO - 处理文件: 4a3668046228c266804af1a85a1823a3.txt
+2025-06-03 14:40:31,506 - inverted_index - INFO - 文件 4a3668046228c266804af1a85a1823a3.txt 处理完成
+2025-06-03 14:40:31,506 - inverted_index - INFO - 处理文件: 4a779fb9e4b4188fa952f8048d115d0b.txt
+2025-06-03 14:40:31,507 - inverted_index - INFO - 文件 4a779fb9e4b4188fa952f8048d115d0b.txt 处理完成
+2025-06-03 14:40:31,507 - inverted_index - INFO - 处理文件: 4b23d1c2d5bec9b159377cfa6201eac3.txt
+2025-06-03 14:40:31,507 - inverted_index - INFO - 文件 4b23d1c2d5bec9b159377cfa6201eac3.txt 处理完成
+2025-06-03 14:40:31,507 - inverted_index - INFO - 处理文件: 4b6c7d785a1f616979bc9c3d6012cfa2.txt
+2025-06-03 14:40:31,507 - inverted_index - INFO - 文件 4b6c7d785a1f616979bc9c3d6012cfa2.txt 处理完成
+2025-06-03 14:40:31,508 - inverted_index - INFO - 处理文件: 4b83533b7f70b6b104d12fa5de410505.txt
+2025-06-03 14:40:31,508 - inverted_index - INFO - 文件 4b83533b7f70b6b104d12fa5de410505.txt 处理完成
+2025-06-03 14:40:31,508 - inverted_index - INFO - 处理文件: 4ba014340eaa878e9166a603eabf2eb3.txt
+2025-06-03 14:40:31,508 - inverted_index - INFO - 文件 4ba014340eaa878e9166a603eabf2eb3.txt 处理完成
+2025-06-03 14:40:31,509 - inverted_index - INFO - 处理文件: 4bb7d0d85764ad48cd895777f40be1cd.txt
+2025-06-03 14:40:31,509 - inverted_index - INFO - 文件 4bb7d0d85764ad48cd895777f40be1cd.txt 处理完成
+2025-06-03 14:40:31,509 - inverted_index - INFO - 处理文件: 4bdb5298c661d657dbb7057c8e2d8ff8.txt
+2025-06-03 14:40:31,509 - inverted_index - INFO - 文件 4bdb5298c661d657dbb7057c8e2d8ff8.txt 处理完成
+2025-06-03 14:40:31,510 - inverted_index - INFO - 处理文件: 4bff065411c9278db8135eb0cf546f0d.txt
+2025-06-03 14:40:31,510 - inverted_index - INFO - 文件 4bff065411c9278db8135eb0cf546f0d.txt 处理完成
+2025-06-03 14:40:31,510 - inverted_index - INFO - 处理文件: 4c113faf07a22bdcc9dd045353aa14c5.txt
+2025-06-03 14:40:31,511 - inverted_index - INFO - 文件 4c113faf07a22bdcc9dd045353aa14c5.txt 处理完成
+2025-06-03 14:40:31,511 - inverted_index - INFO - 处理文件: 4cb1da668624fd3a35042277c979014d.txt
+2025-06-03 14:40:31,511 - inverted_index - INFO - 文件 4cb1da668624fd3a35042277c979014d.txt 处理完成
+2025-06-03 14:40:31,512 - inverted_index - INFO - 处理文件: 4d76147046297d9171f586c79c3fc9a6.txt
+2025-06-03 14:40:31,512 - inverted_index - INFO - 文件 4d76147046297d9171f586c79c3fc9a6.txt 处理完成
+2025-06-03 14:40:31,512 - inverted_index - INFO - 处理文件: 4de364a1322b77c3beb6433eb8fbc198.txt
+2025-06-03 14:40:31,512 - inverted_index - INFO - 文件 4de364a1322b77c3beb6433eb8fbc198.txt 处理完成
+2025-06-03 14:40:31,513 - inverted_index - INFO - 处理文件: 4df7abe0d841b640219d9659ee43aac5.txt
+2025-06-03 14:40:31,513 - inverted_index - INFO - 文件 4df7abe0d841b640219d9659ee43aac5.txt 处理完成
+2025-06-03 14:40:31,513 - inverted_index - INFO - 处理文件: 4e576d6a1167295299f1d64011cdebbe.txt
+2025-06-03 14:40:31,513 - inverted_index - INFO - 文件 4e576d6a1167295299f1d64011cdebbe.txt 处理完成
+2025-06-03 14:40:31,514 - inverted_index - INFO - 处理文件: 4e95ff53199a431ee5251b74730eee27.txt
+2025-06-03 14:40:31,514 - inverted_index - INFO - 文件 4e95ff53199a431ee5251b74730eee27.txt 处理完成
+2025-06-03 14:40:31,514 - inverted_index - INFO - 处理文件: 4ef960dee02bd657ecc6a531af903c0e.txt
+2025-06-03 14:40:31,515 - inverted_index - INFO - 文件 4ef960dee02bd657ecc6a531af903c0e.txt 处理完成
+2025-06-03 14:40:31,515 - inverted_index - INFO - 处理文件: 4f32b311ddc9af9e0dd1fef9eeb053f2.txt
+2025-06-03 14:40:31,516 - inverted_index - INFO - 文件 4f32b311ddc9af9e0dd1fef9eeb053f2.txt 处理完成
+2025-06-03 14:40:31,516 - inverted_index - INFO - 处理文件: 4f40a858cc3205fd2f244959e025af60.txt
+2025-06-03 14:40:31,517 - inverted_index - INFO - 文件 4f40a858cc3205fd2f244959e025af60.txt 处理完成
+2025-06-03 14:40:31,517 - inverted_index - INFO - 处理文件: 4fb8bfca08803db45e00b1297cd9a262.txt
+2025-06-03 14:40:31,518 - inverted_index - INFO - 文件 4fb8bfca08803db45e00b1297cd9a262.txt 处理完成
+2025-06-03 14:40:31,518 - inverted_index - INFO - 处理文件: 503ee4820878ddb02e71fad804a4e980.txt
+2025-06-03 14:40:31,518 - inverted_index - INFO - 文件 503ee4820878ddb02e71fad804a4e980.txt 处理完成
+2025-06-03 14:40:31,518 - inverted_index - INFO - 处理文件: 505da24af6e2be27b1239744e3232720.txt
+2025-06-03 14:40:31,519 - inverted_index - INFO - 文件 505da24af6e2be27b1239744e3232720.txt 处理完成
+2025-06-03 14:40:31,519 - inverted_index - INFO - 处理文件: 5073e7c3cf1eab9bef5e5983a6f7049b.txt
+2025-06-03 14:40:31,520 - inverted_index - INFO - 文件 5073e7c3cf1eab9bef5e5983a6f7049b.txt 处理完成
+2025-06-03 14:40:31,520 - inverted_index - INFO - 处理文件: 507ab58ccba3a7de02ea47c6a9ef0596.txt
+2025-06-03 14:40:31,521 - inverted_index - INFO - 文件 507ab58ccba3a7de02ea47c6a9ef0596.txt 处理完成
+2025-06-03 14:40:31,521 - inverted_index - INFO - 处理文件: 508a1eff1a986c4911be6758c3b1c75f.txt
+2025-06-03 14:40:31,522 - inverted_index - INFO - 文件 508a1eff1a986c4911be6758c3b1c75f.txt 处理完成
+2025-06-03 14:40:31,522 - inverted_index - INFO - 处理文件: 509d25ffec0b5579a7d6ffa84da6d70c.txt
+2025-06-03 14:40:31,522 - inverted_index - INFO - 文件 509d25ffec0b5579a7d6ffa84da6d70c.txt 处理完成
+2025-06-03 14:40:31,522 - inverted_index - INFO - 处理文件: 5100ebab09ae89ef9be9889a370adb1a.txt
+2025-06-03 14:40:31,523 - inverted_index - INFO - 文件 5100ebab09ae89ef9be9889a370adb1a.txt 处理完成
+2025-06-03 14:40:31,523 - inverted_index - INFO - 处理文件: 513a36929670323ea5bfc8380c20adc3.txt
+2025-06-03 14:40:31,523 - inverted_index - INFO - 文件 513a36929670323ea5bfc8380c20adc3.txt 处理完成
+2025-06-03 14:40:31,523 - inverted_index - INFO - 处理文件: 520ea1d71d051ff264f21a78d0873efa.txt
+2025-06-03 14:40:31,524 - inverted_index - INFO - 文件 520ea1d71d051ff264f21a78d0873efa.txt 处理完成
+2025-06-03 14:40:31,524 - inverted_index - INFO - 处理文件: 5241e5706be605dee2eeea90b61b3a0c.txt
+2025-06-03 14:40:31,524 - inverted_index - INFO - 文件 5241e5706be605dee2eeea90b61b3a0c.txt 处理完成
+2025-06-03 14:40:31,524 - inverted_index - INFO - 处理文件: 52720597671b38762d07a17584b45ea0.txt
+2025-06-03 14:40:31,524 - inverted_index - INFO - 文件 52720597671b38762d07a17584b45ea0.txt 处理完成
+2025-06-03 14:40:31,524 - inverted_index - INFO - 处理文件: 52c6ccad7db96175cd06a69d7749aa8d.txt
+2025-06-03 14:40:31,525 - inverted_index - INFO - 文件 52c6ccad7db96175cd06a69d7749aa8d.txt 处理完成
+2025-06-03 14:40:31,525 - inverted_index - INFO - 处理文件: 531cdd6374f5ef9b02684fe4bfd73b08.txt
+2025-06-03 14:40:31,525 - inverted_index - INFO - 文件 531cdd6374f5ef9b02684fe4bfd73b08.txt 处理完成
+2025-06-03 14:40:31,525 - inverted_index - INFO - 处理文件: 5336c9e5106b7ff38695f3968c0482b7.txt
+2025-06-03 14:40:31,525 - inverted_index - INFO - 文件 5336c9e5106b7ff38695f3968c0482b7.txt 处理完成
+2025-06-03 14:40:31,525 - inverted_index - INFO - 处理文件: 5370f8c34828767ac0d89595a0de9c17.txt
+2025-06-03 14:40:31,526 - inverted_index - INFO - 文件 5370f8c34828767ac0d89595a0de9c17.txt 处理完成
+2025-06-03 14:40:31,526 - inverted_index - INFO - 处理文件: 538d8f49e3d13684e9a96329f364f7de.txt
+2025-06-03 14:40:31,526 - inverted_index - INFO - 文件 538d8f49e3d13684e9a96329f364f7de.txt 处理完成
+2025-06-03 14:40:31,526 - inverted_index - INFO - 处理文件: 53e609371a52824014c11c9aed084674.txt
+2025-06-03 14:40:31,526 - inverted_index - INFO - 文件 53e609371a52824014c11c9aed084674.txt 处理完成
+2025-06-03 14:40:31,526 - inverted_index - INFO - 处理文件: 540b1e6f1b5dded963ceca6f4e6d920d.txt
+2025-06-03 14:40:31,527 - inverted_index - INFO - 文件 540b1e6f1b5dded963ceca6f4e6d920d.txt 处理完成
+2025-06-03 14:40:31,527 - inverted_index - INFO - 处理文件: 540f9584a12fbe232e9f985741a9cde1.txt
+2025-06-03 14:40:31,527 - inverted_index - INFO - 文件 540f9584a12fbe232e9f985741a9cde1.txt 处理完成
+2025-06-03 14:40:31,528 - inverted_index - INFO - 处理文件: 542f596356ce6c3b5544172cc835afc7.txt
+2025-06-03 14:40:31,528 - inverted_index - INFO - 文件 542f596356ce6c3b5544172cc835afc7.txt 处理完成
+2025-06-03 14:40:31,528 - inverted_index - INFO - 处理文件: 54343c835cb74b0b7b614beffe70e224.txt
+2025-06-03 14:40:31,528 - inverted_index - INFO - 文件 54343c835cb74b0b7b614beffe70e224.txt 处理完成
+2025-06-03 14:40:31,528 - inverted_index - INFO - 处理文件: 54786fa84c13169a63df0800b968ad40.txt
+2025-06-03 14:40:31,529 - inverted_index - INFO - 文件 54786fa84c13169a63df0800b968ad40.txt 处理完成
+2025-06-03 14:40:31,529 - inverted_index - INFO - 处理文件: 54a3f91f19f9494fd3137f7d8367bbe3.txt
+2025-06-03 14:40:31,529 - inverted_index - INFO - 文件 54a3f91f19f9494fd3137f7d8367bbe3.txt 处理完成
+2025-06-03 14:40:31,529 - inverted_index - INFO - 处理文件: 54cdb60397b7e220a84707df20b359ca.txt
+2025-06-03 14:40:31,530 - inverted_index - INFO - 文件 54cdb60397b7e220a84707df20b359ca.txt 处理完成
+2025-06-03 14:40:31,530 - inverted_index - INFO - 处理文件: 5504b934a8b597c3d6749edc81c53762.txt
+2025-06-03 14:40:31,530 - inverted_index - INFO - 文件 5504b934a8b597c3d6749edc81c53762.txt 处理完成
+2025-06-03 14:40:31,530 - inverted_index - INFO - 处理文件: 55a82c4ab1ff7ed6a6a1341c4e1394ee.txt
+2025-06-03 14:40:31,531 - inverted_index - INFO - 文件 55a82c4ab1ff7ed6a6a1341c4e1394ee.txt 处理完成
+2025-06-03 14:40:31,531 - inverted_index - INFO - 处理文件: 5671965dd8f9ec927a8a6bcea0563635.txt
+2025-06-03 14:40:31,531 - inverted_index - INFO - 文件 5671965dd8f9ec927a8a6bcea0563635.txt 处理完成
+2025-06-03 14:40:31,532 - inverted_index - INFO - 处理文件: 5673a3820e6bce29146c3c0c39b01ef0.txt
+2025-06-03 14:40:31,532 - inverted_index - INFO - 文件 5673a3820e6bce29146c3c0c39b01ef0.txt 处理完成
+2025-06-03 14:40:31,532 - inverted_index - INFO - 处理文件: 56a21d9128d8ecac2e18d5770d2ba4bd.txt
+2025-06-03 14:40:31,533 - inverted_index - INFO - 文件 56a21d9128d8ecac2e18d5770d2ba4bd.txt 处理完成
+2025-06-03 14:40:31,533 - inverted_index - INFO - 处理文件: 56e4d184896b6560b9e4e81b5ba8c289.txt
+2025-06-03 14:40:31,533 - inverted_index - INFO - 文件 56e4d184896b6560b9e4e81b5ba8c289.txt 处理完成
+2025-06-03 14:40:31,534 - inverted_index - INFO - 处理文件: 5769dfee979d0a9aade8fe307dbb5080.txt
+2025-06-03 14:40:31,534 - inverted_index - INFO - 文件 5769dfee979d0a9aade8fe307dbb5080.txt 处理完成
+2025-06-03 14:40:31,534 - inverted_index - INFO - 处理文件: 576a39495a66f5283b5f1b9519b428e0.txt
+2025-06-03 14:40:31,534 - inverted_index - INFO - 文件 576a39495a66f5283b5f1b9519b428e0.txt 处理完成
+2025-06-03 14:40:31,534 - inverted_index - INFO - 处理文件: 577c713aaef3ce177c13ad91e25add98.txt
+2025-06-03 14:40:31,535 - inverted_index - INFO - 文件 577c713aaef3ce177c13ad91e25add98.txt 处理完成
+2025-06-03 14:40:31,535 - inverted_index - INFO - 处理文件: 57815c26d9630f81ef1923777fb8ae77.txt
+2025-06-03 14:40:31,535 - inverted_index - INFO - 文件 57815c26d9630f81ef1923777fb8ae77.txt 处理完成
+2025-06-03 14:40:31,535 - inverted_index - INFO - 处理文件: 579d78ab97bfda34c650a84f2ff6620f.txt
+2025-06-03 14:40:31,535 - inverted_index - INFO - 文件 579d78ab97bfda34c650a84f2ff6620f.txt 处理完成
+2025-06-03 14:40:31,536 - inverted_index - INFO - 处理文件: 57d276b3b1cd32af6148453ca723efa2.txt
+2025-06-03 14:40:31,536 - inverted_index - INFO - 文件 57d276b3b1cd32af6148453ca723efa2.txt 处理完成
+2025-06-03 14:40:31,536 - inverted_index - INFO - 处理文件: 5810f79572b29da5de2cc356b872a78d.txt
+2025-06-03 14:40:31,536 - inverted_index - INFO - 文件 5810f79572b29da5de2cc356b872a78d.txt 处理完成
+2025-06-03 14:40:31,536 - inverted_index - INFO - 处理文件: 582429ee4d385a2b3ba927e174a5782e.txt
+2025-06-03 14:40:31,537 - inverted_index - INFO - 文件 582429ee4d385a2b3ba927e174a5782e.txt 处理完成
+2025-06-03 14:40:31,537 - inverted_index - INFO - 处理文件: 58bb7838728a27825093576e3e1360a0.txt
+2025-06-03 14:40:31,537 - inverted_index - INFO - 文件 58bb7838728a27825093576e3e1360a0.txt 处理完成
+2025-06-03 14:40:31,538 - inverted_index - INFO - 处理文件: 59295b754ade19c1d1b60e7da61ff24f.txt
+2025-06-03 14:40:31,538 - inverted_index - INFO - 文件 59295b754ade19c1d1b60e7da61ff24f.txt 处理完成
+2025-06-03 14:40:31,538 - inverted_index - INFO - 处理文件: 5940e0bf377a4f36000319172bcc941c.txt
+2025-06-03 14:40:31,538 - inverted_index - INFO - 文件 5940e0bf377a4f36000319172bcc941c.txt 处理完成
+2025-06-03 14:40:31,539 - inverted_index - INFO - 处理文件: 5967d6804513d0e4be02ae81e74781ce.txt
+2025-06-03 14:40:31,539 - inverted_index - INFO - 文件 5967d6804513d0e4be02ae81e74781ce.txt 处理完成
+2025-06-03 14:40:31,539 - inverted_index - INFO - 处理文件: 5971a3c25ec9f9312dd118cb916e5a2b.txt
+2025-06-03 14:40:31,539 - inverted_index - INFO - 文件 5971a3c25ec9f9312dd118cb916e5a2b.txt 处理完成
+2025-06-03 14:40:31,539 - inverted_index - INFO - 处理文件: 5996bd8d6b6ca0afcca8a7ac04c766f4.txt
+2025-06-03 14:40:31,540 - inverted_index - INFO - 文件 5996bd8d6b6ca0afcca8a7ac04c766f4.txt 处理完成
+2025-06-03 14:40:31,540 - inverted_index - INFO - 处理文件: 599adb6f30c4d8f43eac93858d6609c2.txt
+2025-06-03 14:40:31,540 - inverted_index - INFO - 文件 599adb6f30c4d8f43eac93858d6609c2.txt 处理完成
+2025-06-03 14:40:31,540 - inverted_index - INFO - 处理文件: 59d0c6b7dcc3f39432c81b3bfdaf89af.txt
+2025-06-03 14:40:31,540 - inverted_index - INFO - 文件 59d0c6b7dcc3f39432c81b3bfdaf89af.txt 处理完成
+2025-06-03 14:40:31,541 - inverted_index - INFO - 处理文件: 59e4a02d01584aa205d1eac295a032f7.txt
+2025-06-03 14:40:31,541 - inverted_index - INFO - 文件 59e4a02d01584aa205d1eac295a032f7.txt 处理完成
+2025-06-03 14:40:31,541 - inverted_index - INFO - 处理文件: 59e7768dca13cc8520abf10b2c40fed1.txt
+2025-06-03 14:40:31,541 - inverted_index - INFO - 文件 59e7768dca13cc8520abf10b2c40fed1.txt 处理完成
+2025-06-03 14:40:31,541 - inverted_index - INFO - 处理文件: 5a28d9bb75f1764ada0abc217d1dc71e.txt
+2025-06-03 14:40:31,541 - inverted_index - INFO - 文件 5a28d9bb75f1764ada0abc217d1dc71e.txt 处理完成
+2025-06-03 14:40:31,541 - inverted_index - INFO - 处理文件: 5b34e893acebdd17ff30c9ad461671ad.txt
+2025-06-03 14:40:31,543 - inverted_index - INFO - 文件 5b34e893acebdd17ff30c9ad461671ad.txt 处理完成
+2025-06-03 14:40:31,543 - inverted_index - INFO - 处理文件: 5b36accc091c940bb1ca69eaafd39085.txt
+2025-06-03 14:40:31,544 - inverted_index - INFO - 文件 5b36accc091c940bb1ca69eaafd39085.txt 处理完成
+2025-06-03 14:40:31,544 - inverted_index - INFO - 处理文件: 5b5e959e5749923fd3d278997c3383ce.txt
+2025-06-03 14:40:31,544 - inverted_index - INFO - 文件 5b5e959e5749923fd3d278997c3383ce.txt 处理完成
+2025-06-03 14:40:31,544 - inverted_index - INFO - 处理文件: 5bdca76e06f18e1a1b2566569ebdf349.txt
+2025-06-03 14:40:31,544 - inverted_index - INFO - 文件 5bdca76e06f18e1a1b2566569ebdf349.txt 处理完成
+2025-06-03 14:40:31,544 - inverted_index - INFO - 处理文件: 5beacb344f05ce0e3e43496828ea5ce7.txt
+2025-06-03 14:40:31,544 - inverted_index - INFO - 文件 5beacb344f05ce0e3e43496828ea5ce7.txt 处理完成
+2025-06-03 14:40:31,544 - inverted_index - INFO - 处理文件: 5beb64b2b47b631579e2a5c0d4c38ee4.txt
+2025-06-03 14:40:31,545 - inverted_index - INFO - 文件 5beb64b2b47b631579e2a5c0d4c38ee4.txt 处理完成
+2025-06-03 14:40:31,545 - inverted_index - INFO - 处理文件: 5bf0c592e6e4378214c8d5dd214bbe65.txt
+2025-06-03 14:40:31,545 - inverted_index - INFO - 文件 5bf0c592e6e4378214c8d5dd214bbe65.txt 处理完成
+2025-06-03 14:40:31,545 - inverted_index - INFO - 处理文件: 5c55f6d339595f73de82fb20735f60ad.txt
+2025-06-03 14:40:31,546 - inverted_index - INFO - 文件 5c55f6d339595f73de82fb20735f60ad.txt 处理完成
+2025-06-03 14:40:31,546 - inverted_index - INFO - 处理文件: 5c6ae1b6e2e72abc258b9fd5eafb9aad.txt
+2025-06-03 14:40:31,546 - inverted_index - INFO - 文件 5c6ae1b6e2e72abc258b9fd5eafb9aad.txt 处理完成
+2025-06-03 14:40:31,546 - inverted_index - INFO - 处理文件: 5c92241edd82c3e107bf9fcbf8ec8a87.txt
+2025-06-03 14:40:31,547 - inverted_index - INFO - 文件 5c92241edd82c3e107bf9fcbf8ec8a87.txt 处理完成
+2025-06-03 14:40:31,547 - inverted_index - INFO - 处理文件: 5caafd300a45c4f5b5fd88f3631c7ca1.txt
+2025-06-03 14:40:31,548 - inverted_index - INFO - 文件 5caafd300a45c4f5b5fd88f3631c7ca1.txt 处理完成
+2025-06-03 14:40:31,548 - inverted_index - INFO - 处理文件: 5cbfc648baca64b2f136b5dd3a44a8e4.txt
+2025-06-03 14:40:31,549 - inverted_index - INFO - 文件 5cbfc648baca64b2f136b5dd3a44a8e4.txt 处理完成
+2025-06-03 14:40:31,549 - inverted_index - INFO - 处理文件: 5cc1425030239d80ebd2407be8e899b6.txt
+2025-06-03 14:40:31,549 - inverted_index - INFO - 文件 5cc1425030239d80ebd2407be8e899b6.txt 处理完成
+2025-06-03 14:40:31,550 - inverted_index - INFO - 处理文件: 5ce3aa0893736f121fd76f91af4ca4fc.txt
+2025-06-03 14:40:31,550 - inverted_index - INFO - 文件 5ce3aa0893736f121fd76f91af4ca4fc.txt 处理完成
+2025-06-03 14:40:31,550 - inverted_index - INFO - 处理文件: 5cf553a24d9f9e42930355ffef2a23c3.txt
+2025-06-03 14:40:31,550 - inverted_index - INFO - 文件 5cf553a24d9f9e42930355ffef2a23c3.txt 处理完成
+2025-06-03 14:40:31,551 - inverted_index - INFO - 处理文件: 5d199f719cdf8baae274792cebde7ce5.txt
+2025-06-03 14:40:31,551 - inverted_index - INFO - 文件 5d199f719cdf8baae274792cebde7ce5.txt 处理完成
+2025-06-03 14:40:31,551 - inverted_index - INFO - 处理文件: 5d579dc54089160c4afd1c9f701eee8c.txt
+2025-06-03 14:40:31,551 - inverted_index - INFO - 文件 5d579dc54089160c4afd1c9f701eee8c.txt 处理完成
+2025-06-03 14:40:31,551 - inverted_index - INFO - 处理文件: 5d6b920bc948bf5d2497dc1149f9bdda.txt
+2025-06-03 14:40:31,552 - inverted_index - INFO - 文件 5d6b920bc948bf5d2497dc1149f9bdda.txt 处理完成
+2025-06-03 14:40:31,552 - inverted_index - INFO - 处理文件: 5e35e701007b6e576980f87416666e9f.txt
+2025-06-03 14:40:31,552 - inverted_index - INFO - 文件 5e35e701007b6e576980f87416666e9f.txt 处理完成
+2025-06-03 14:40:31,552 - inverted_index - INFO - 处理文件: 5e6b5e300de6f3c1bb8f08840ba5850c.txt
+2025-06-03 14:40:31,552 - inverted_index - INFO - 文件 5e6b5e300de6f3c1bb8f08840ba5850c.txt 处理完成
+2025-06-03 14:40:31,552 - inverted_index - INFO - 处理文件: 5e7b75a9d051ddd6c7010fbb9dff7241.txt
+2025-06-03 14:40:31,552 - inverted_index - INFO - 文件 5e7b75a9d051ddd6c7010fbb9dff7241.txt 处理完成
+2025-06-03 14:40:31,554 - inverted_index - INFO - 处理文件: 5e84805d62dc1a971032b744215d2573.txt
+2025-06-03 14:40:31,554 - inverted_index - INFO - 文件 5e84805d62dc1a971032b744215d2573.txt 处理完成
+2025-06-03 14:40:31,554 - inverted_index - INFO - 处理文件: 5ea9dffadd87a328220102b840b53cd3.txt
+2025-06-03 14:40:31,554 - inverted_index - INFO - 文件 5ea9dffadd87a328220102b840b53cd3.txt 处理完成
+2025-06-03 14:40:31,555 - inverted_index - INFO - 处理文件: 5eb6d1f5f89b3154bf86bc5cee975b1b.txt
+2025-06-03 14:40:31,555 - inverted_index - INFO - 文件 5eb6d1f5f89b3154bf86bc5cee975b1b.txt 处理完成
+2025-06-03 14:40:31,555 - inverted_index - INFO - 处理文件: 5ede720764a35804fe46a49abdef5016.txt
+2025-06-03 14:40:31,555 - inverted_index - INFO - 文件 5ede720764a35804fe46a49abdef5016.txt 处理完成
+2025-06-03 14:40:31,555 - inverted_index - INFO - 处理文件: 5f0c6195ed9bd2e57cc2288902322d05.txt
+2025-06-03 14:40:31,556 - inverted_index - INFO - 文件 5f0c6195ed9bd2e57cc2288902322d05.txt 处理完成
+2025-06-03 14:40:31,556 - inverted_index - INFO - 处理文件: 5f24557edf5d451865ae5fe8a53281a6.txt
+2025-06-03 14:40:31,556 - inverted_index - INFO - 文件 5f24557edf5d451865ae5fe8a53281a6.txt 处理完成
+2025-06-03 14:40:31,556 - inverted_index - INFO - 处理文件: 5f659406d9cdd43b97eb5a39baad2b20.txt
+2025-06-03 14:40:31,557 - inverted_index - INFO - 文件 5f659406d9cdd43b97eb5a39baad2b20.txt 处理完成
+2025-06-03 14:40:31,557 - inverted_index - INFO - 处理文件: 5f8c51ff6e280d3af51a5d12d46f6922.txt
+2025-06-03 14:40:31,557 - inverted_index - INFO - 文件 5f8c51ff6e280d3af51a5d12d46f6922.txt 处理完成
+2025-06-03 14:40:31,557 - inverted_index - INFO - 处理文件: 5f9f1dc201e099061f5948bba75e9c5e.txt
+2025-06-03 14:40:31,558 - inverted_index - INFO - 文件 5f9f1dc201e099061f5948bba75e9c5e.txt 处理完成
+2025-06-03 14:40:31,558 - inverted_index - INFO - 处理文件: 5fc4af79e78a10e7f2b548d047ef9559.txt
+2025-06-03 14:40:31,558 - inverted_index - INFO - 文件 5fc4af79e78a10e7f2b548d047ef9559.txt 处理完成
+2025-06-03 14:40:31,558 - inverted_index - INFO - 处理文件: 602c56a3f6797233b3d691db439c0131.txt
+2025-06-03 14:40:31,559 - inverted_index - INFO - 文件 602c56a3f6797233b3d691db439c0131.txt 处理完成
+2025-06-03 14:40:31,559 - inverted_index - INFO - 处理文件: 60e56bba5f5d104c164d87f3a62783e3.txt
+2025-06-03 14:40:31,559 - inverted_index - INFO - 文件 60e56bba5f5d104c164d87f3a62783e3.txt 处理完成
+2025-06-03 14:40:31,559 - inverted_index - INFO - 处理文件: 60ee18cf76d217b04472b3063391e005.txt
+2025-06-03 14:40:31,559 - inverted_index - INFO - 文件 60ee18cf76d217b04472b3063391e005.txt 处理完成
+2025-06-03 14:40:31,560 - inverted_index - INFO - 处理文件: 60fbee85d9dd1e971312ce3c332511e0.txt
+2025-06-03 14:40:31,560 - inverted_index - INFO - 文件 60fbee85d9dd1e971312ce3c332511e0.txt 处理完成
+2025-06-03 14:40:31,560 - inverted_index - INFO - 处理文件: 6147f2afda83133e3bd1bbc05f91a0e5.txt
+2025-06-03 14:40:31,560 - inverted_index - INFO - 文件 6147f2afda83133e3bd1bbc05f91a0e5.txt 处理完成
+2025-06-03 14:40:31,560 - inverted_index - INFO - 处理文件: 61a7307f9ea4d4a77503bf83b07dfecf.txt
+2025-06-03 14:40:31,560 - inverted_index - INFO - 文件 61a7307f9ea4d4a77503bf83b07dfecf.txt 处理完成
+2025-06-03 14:40:31,561 - inverted_index - INFO - 处理文件: 61f9bfdbeff478256691789b9c9886b7.txt
+2025-06-03 14:40:31,561 - inverted_index - INFO - 文件 61f9bfdbeff478256691789b9c9886b7.txt 处理完成
+2025-06-03 14:40:31,561 - inverted_index - INFO - 处理文件: 6200ff34bd4cd9419ebb0026aa388c54.txt
+2025-06-03 14:40:31,561 - inverted_index - INFO - 文件 6200ff34bd4cd9419ebb0026aa388c54.txt 处理完成
+2025-06-03 14:40:31,561 - inverted_index - INFO - 处理文件: 620b9306670b4afadc845b62eea7bc87.txt
+2025-06-03 14:40:31,561 - inverted_index - INFO - 文件 620b9306670b4afadc845b62eea7bc87.txt 处理完成
+2025-06-03 14:40:31,562 - inverted_index - INFO - 处理文件: 622566cb2a48708cf6fac2591979ec85.txt
+2025-06-03 14:40:31,562 - inverted_index - INFO - 文件 622566cb2a48708cf6fac2591979ec85.txt 处理完成
+2025-06-03 14:40:31,563 - inverted_index - INFO - 处理文件: 62ea881a344c2170474e738a0911c6c1.txt
+2025-06-03 14:40:31,563 - inverted_index - INFO - 文件 62ea881a344c2170474e738a0911c6c1.txt 处理完成
+2025-06-03 14:40:31,563 - inverted_index - INFO - 处理文件: 633f749af03b0013e477384cb3260dac.txt
+2025-06-03 14:40:31,564 - inverted_index - INFO - 文件 633f749af03b0013e477384cb3260dac.txt 处理完成
+2025-06-03 14:40:31,564 - inverted_index - INFO - 处理文件: 634782df56be8df20391106cbf8630ed.txt
+2025-06-03 14:40:31,564 - inverted_index - INFO - 文件 634782df56be8df20391106cbf8630ed.txt 处理完成
+2025-06-03 14:40:31,564 - inverted_index - INFO - 处理文件: 63d6393867dcd77ec515c9d24ec2db39.txt
+2025-06-03 14:40:31,564 - inverted_index - INFO - 文件 63d6393867dcd77ec515c9d24ec2db39.txt 处理完成
+2025-06-03 14:40:31,564 - inverted_index - INFO - 处理文件: 6401e1bd10060f60fc1789dfa2f3fc0d.txt
+2025-06-03 14:40:31,565 - inverted_index - INFO - 文件 6401e1bd10060f60fc1789dfa2f3fc0d.txt 处理完成
+2025-06-03 14:40:31,565 - inverted_index - INFO - 处理文件: 641abfe0df596222b7be9bf0d7479ba5.txt
+2025-06-03 14:40:31,566 - inverted_index - INFO - 文件 641abfe0df596222b7be9bf0d7479ba5.txt 处理完成
+2025-06-03 14:40:31,566 - inverted_index - INFO - 处理文件: 641dd1314374ba4a6b4bf1a9e6e3fe03.txt
+2025-06-03 14:40:31,566 - inverted_index - INFO - 文件 641dd1314374ba4a6b4bf1a9e6e3fe03.txt 处理完成
+2025-06-03 14:40:31,567 - inverted_index - INFO - 处理文件: 64330968df072922c02792e04c3da7fe.txt
+2025-06-03 14:40:31,567 - inverted_index - INFO - 文件 64330968df072922c02792e04c3da7fe.txt 处理完成
+2025-06-03 14:40:31,568 - inverted_index - INFO - 处理文件: 64350aa6a6888ffd420a8093b8ec4bec.txt
+2025-06-03 14:40:31,568 - inverted_index - INFO - 文件 64350aa6a6888ffd420a8093b8ec4bec.txt 处理完成
+2025-06-03 14:40:31,568 - inverted_index - INFO - 处理文件: 64c87030ec077958cdd2103658e2386e.txt
+2025-06-03 14:40:31,568 - inverted_index - INFO - 文件 64c87030ec077958cdd2103658e2386e.txt 处理完成
+2025-06-03 14:40:31,569 - inverted_index - INFO - 处理文件: 65341b5966d4f954ebc5ba290bb631dd.txt
+2025-06-03 14:40:31,569 - inverted_index - INFO - 文件 65341b5966d4f954ebc5ba290bb631dd.txt 处理完成
+2025-06-03 14:40:31,569 - inverted_index - INFO - 处理文件: 653f34364fb0347f5fc52ed91cb73788.txt
+2025-06-03 14:40:31,569 - inverted_index - INFO - 文件 653f34364fb0347f5fc52ed91cb73788.txt 处理完成
+2025-06-03 14:40:31,569 - inverted_index - INFO - 处理文件: 65c1f6ca030cfc1c87f20116936e9e47.txt
+2025-06-03 14:40:31,570 - inverted_index - INFO - 文件 65c1f6ca030cfc1c87f20116936e9e47.txt 处理完成
+2025-06-03 14:40:31,570 - inverted_index - INFO - 处理文件: 65d252fcddb5186a1fe6d6d9c40b9a95.txt
+2025-06-03 14:40:31,570 - inverted_index - INFO - 文件 65d252fcddb5186a1fe6d6d9c40b9a95.txt 处理完成
+2025-06-03 14:40:31,570 - inverted_index - INFO - 处理文件: 65ee098f1b9b34be9620391b696006ec.txt
+2025-06-03 14:40:31,570 - inverted_index - INFO - 文件 65ee098f1b9b34be9620391b696006ec.txt 处理完成
+2025-06-03 14:40:31,570 - inverted_index - INFO - 处理文件: 66984ae898c03342006f4052fa9ec04d.txt
+2025-06-03 14:40:31,571 - inverted_index - INFO - 文件 66984ae898c03342006f4052fa9ec04d.txt 处理完成
+2025-06-03 14:40:31,571 - inverted_index - INFO - 处理文件: 66e01a1e9800361d77add67958f58eda.txt
+2025-06-03 14:40:31,571 - inverted_index - INFO - 文件 66e01a1e9800361d77add67958f58eda.txt 处理完成
+2025-06-03 14:40:31,571 - inverted_index - INFO - 处理文件: 6723f575427be4b55643ea57fbf5b9c2.txt
+2025-06-03 14:40:31,571 - inverted_index - INFO - 文件 6723f575427be4b55643ea57fbf5b9c2.txt 处理完成
+2025-06-03 14:40:31,572 - inverted_index - INFO - 处理文件: 679312464a04e8ec64d231a326b81c5c.txt
+2025-06-03 14:40:31,572 - inverted_index - INFO - 文件 679312464a04e8ec64d231a326b81c5c.txt 处理完成
+2025-06-03 14:40:31,572 - inverted_index - INFO - 处理文件: 679bae91a23461c59cce6e21912c631d.txt
+2025-06-03 14:40:31,573 - inverted_index - INFO - 文件 679bae91a23461c59cce6e21912c631d.txt 处理完成
+2025-06-03 14:40:31,573 - inverted_index - INFO - 处理文件: 67e2381c4bbc722436bd83ece880fb76.txt
+2025-06-03 14:40:31,573 - inverted_index - INFO - 文件 67e2381c4bbc722436bd83ece880fb76.txt 处理完成
+2025-06-03 14:40:31,573 - inverted_index - INFO - 处理文件: 682a9a9c8e9bbff9a8e659f72da981e0.txt
+2025-06-03 14:40:31,574 - inverted_index - INFO - 文件 682a9a9c8e9bbff9a8e659f72da981e0.txt 处理完成
+2025-06-03 14:40:31,574 - inverted_index - INFO - 处理文件: 6878f6d3c1e78cdf8b46d3ed359c6cfb.txt
+2025-06-03 14:40:31,574 - inverted_index - INFO - 文件 6878f6d3c1e78cdf8b46d3ed359c6cfb.txt 处理完成
+2025-06-03 14:40:31,574 - inverted_index - INFO - 处理文件: 6881c16048d8252aeac489349ffcc40c.txt
+2025-06-03 14:40:31,574 - inverted_index - INFO - 文件 6881c16048d8252aeac489349ffcc40c.txt 处理完成
+2025-06-03 14:40:31,575 - inverted_index - INFO - 处理文件: 68965e49b5a785e2b45c20381e5ce486.txt
+2025-06-03 14:40:31,575 - inverted_index - INFO - 文件 68965e49b5a785e2b45c20381e5ce486.txt 处理完成
+2025-06-03 14:40:31,575 - inverted_index - INFO - 处理文件: 68eefffd64cb897f8f60aabeb1540e7b.txt
+2025-06-03 14:40:31,575 - inverted_index - INFO - 文件 68eefffd64cb897f8f60aabeb1540e7b.txt 处理完成
+2025-06-03 14:40:31,575 - inverted_index - INFO - 处理文件: 69045ce77feb57cda29da8fb9da7af4c.txt
+2025-06-03 14:40:31,575 - inverted_index - INFO - 文件 69045ce77feb57cda29da8fb9da7af4c.txt 处理完成
+2025-06-03 14:40:31,576 - inverted_index - INFO - 处理文件: 69d28b656bdab75fde5dabb4b6a93aaf.txt
+2025-06-03 14:40:31,576 - inverted_index - INFO - 文件 69d28b656bdab75fde5dabb4b6a93aaf.txt 处理完成
+2025-06-03 14:40:31,576 - inverted_index - INFO - 处理文件: 6a61cbc2dbd2f89ea1a954c62164d2be.txt
+2025-06-03 14:40:31,577 - inverted_index - INFO - 文件 6a61cbc2dbd2f89ea1a954c62164d2be.txt 处理完成
+2025-06-03 14:40:31,577 - inverted_index - INFO - 处理文件: 6a921a613079dc16aed5a7228a6dcdd1.txt
+2025-06-03 14:40:31,577 - inverted_index - INFO - 文件 6a921a613079dc16aed5a7228a6dcdd1.txt 处理完成
+2025-06-03 14:40:31,577 - inverted_index - INFO - 处理文件: 6a940a8c5493c4f8863601c1c45ef6cd.txt
+2025-06-03 14:40:31,578 - inverted_index - INFO - 文件 6a940a8c5493c4f8863601c1c45ef6cd.txt 处理完成
+2025-06-03 14:40:31,578 - inverted_index - INFO - 处理文件: 6b3378d2b6f250da993f90eba979e937.txt
+2025-06-03 14:40:31,579 - inverted_index - INFO - 文件 6b3378d2b6f250da993f90eba979e937.txt 处理完成
+2025-06-03 14:40:31,579 - inverted_index - INFO - 处理文件: 6beca9ae1c911308cbc4bf79f5741055.txt
+2025-06-03 14:40:31,579 - inverted_index - INFO - 文件 6beca9ae1c911308cbc4bf79f5741055.txt 处理完成
+2025-06-03 14:40:31,579 - inverted_index - INFO - 处理文件: 6c1c0553cf29b85997592a00517e9de4.txt
+2025-06-03 14:40:31,579 - inverted_index - INFO - 文件 6c1c0553cf29b85997592a00517e9de4.txt 处理完成
+2025-06-03 14:40:31,580 - inverted_index - INFO - 处理文件: 6c9d150574a1ce57edd109df02f77fb9.txt
+2025-06-03 14:40:31,580 - inverted_index - INFO - 文件 6c9d150574a1ce57edd109df02f77fb9.txt 处理完成
+2025-06-03 14:40:31,580 - inverted_index - INFO - 处理文件: 6e01196ee58b797db011ed19d5c88a70.txt
+2025-06-03 14:40:31,580 - inverted_index - INFO - 文件 6e01196ee58b797db011ed19d5c88a70.txt 处理完成
+2025-06-03 14:40:31,581 - inverted_index - INFO - 处理文件: 6e1c2b7e5389965671643150ec40d8e6.txt
+2025-06-03 14:40:31,581 - inverted_index - INFO - 文件 6e1c2b7e5389965671643150ec40d8e6.txt 处理完成
+2025-06-03 14:40:31,581 - inverted_index - INFO - 处理文件: 6e2bf2879df129dc78b7b0a6a51728d8.txt
+2025-06-03 14:40:31,582 - inverted_index - INFO - 文件 6e2bf2879df129dc78b7b0a6a51728d8.txt 处理完成
+2025-06-03 14:40:31,582 - inverted_index - INFO - 处理文件: 6e847fdfab8ad95623e50a410ddd7e57.txt
+2025-06-03 14:40:31,582 - inverted_index - INFO - 文件 6e847fdfab8ad95623e50a410ddd7e57.txt 处理完成
+2025-06-03 14:40:31,583 - inverted_index - INFO - 处理文件: 6f2d830079f6aeb9214e497a18aab58a.txt
+2025-06-03 14:40:31,583 - inverted_index - INFO - 文件 6f2d830079f6aeb9214e497a18aab58a.txt 处理完成
+2025-06-03 14:40:31,583 - inverted_index - INFO - 处理文件: 6f55f8803bb83d436ad326250b69f17f.txt
+2025-06-03 14:40:31,584 - inverted_index - INFO - 文件 6f55f8803bb83d436ad326250b69f17f.txt 处理完成
+2025-06-03 14:40:31,584 - inverted_index - INFO - 处理文件: 6f955365cdb425bd6b3a488b7fa7ac13.txt
+2025-06-03 14:40:31,585 - inverted_index - INFO - 文件 6f955365cdb425bd6b3a488b7fa7ac13.txt 处理完成
+2025-06-03 14:40:31,585 - inverted_index - INFO - 处理文件: 6fa9da58e9d29e2cc31fa8dde40579dd.txt
+2025-06-03 14:40:31,585 - inverted_index - INFO - 文件 6fa9da58e9d29e2cc31fa8dde40579dd.txt 处理完成
+2025-06-03 14:40:31,585 - inverted_index - INFO - 处理文件: 6fcd78975ffc8221f7148cdfd2d827fb.txt
+2025-06-03 14:40:31,586 - inverted_index - INFO - 文件 6fcd78975ffc8221f7148cdfd2d827fb.txt 处理完成
+2025-06-03 14:40:31,586 - inverted_index - INFO - 处理文件: 6fddf4cb80bce90ce67feb24413fae79.txt
+2025-06-03 14:40:31,586 - inverted_index - INFO - 文件 6fddf4cb80bce90ce67feb24413fae79.txt 处理完成
+2025-06-03 14:40:31,586 - inverted_index - INFO - 处理文件: 6fff1a7771a166b2ce1ab63609bc7e36.txt
+2025-06-03 14:40:31,586 - inverted_index - INFO - 文件 6fff1a7771a166b2ce1ab63609bc7e36.txt 处理完成
+2025-06-03 14:40:31,587 - inverted_index - INFO - 处理文件: 70418ed483b5cb9aeb162a4e58a4994d.txt
+2025-06-03 14:40:31,587 - inverted_index - INFO - 文件 70418ed483b5cb9aeb162a4e58a4994d.txt 处理完成
+2025-06-03 14:40:31,587 - inverted_index - INFO - 处理文件: 7049ccecd0b4d88161fe4f6ad1bfcfe4.txt
+2025-06-03 14:40:31,587 - inverted_index - INFO - 文件 7049ccecd0b4d88161fe4f6ad1bfcfe4.txt 处理完成
+2025-06-03 14:40:31,588 - inverted_index - INFO - 处理文件: 708cab27c20d5d6acc938675faa1eb42.txt
+2025-06-03 14:40:31,588 - inverted_index - INFO - 文件 708cab27c20d5d6acc938675faa1eb42.txt 处理完成
+2025-06-03 14:40:31,588 - inverted_index - INFO - 处理文件: 70cdfa22247c2225abf2a27d75110254.txt
+2025-06-03 14:40:31,588 - inverted_index - INFO - 文件 70cdfa22247c2225abf2a27d75110254.txt 处理完成
+2025-06-03 14:40:31,588 - inverted_index - INFO - 处理文件: 70cf301b9cc197beed506deaedf28d8d.txt
+2025-06-03 14:40:31,589 - inverted_index - INFO - 文件 70cf301b9cc197beed506deaedf28d8d.txt 处理完成
+2025-06-03 14:40:31,589 - inverted_index - INFO - 处理文件: 71f1317a4c3baa19769818aa912747c0.txt
+2025-06-03 14:40:31,589 - inverted_index - INFO - 文件 71f1317a4c3baa19769818aa912747c0.txt 处理完成
+2025-06-03 14:40:31,589 - inverted_index - INFO - 处理文件: 71f5426f1de73bda844f14ee1ef48fc2.txt
+2025-06-03 14:40:31,590 - inverted_index - INFO - 文件 71f5426f1de73bda844f14ee1ef48fc2.txt 处理完成
+2025-06-03 14:40:31,590 - inverted_index - INFO - 处理文件: 720d8c2f53d9e843827d3bdb85378c19.txt
+2025-06-03 14:40:31,590 - inverted_index - INFO - 文件 720d8c2f53d9e843827d3bdb85378c19.txt 处理完成
+2025-06-03 14:40:31,590 - inverted_index - INFO - 处理文件: 723109f1d0139515dc9c365497602eca.txt
+2025-06-03 14:40:31,590 - inverted_index - INFO - 文件 723109f1d0139515dc9c365497602eca.txt 处理完成
+2025-06-03 14:40:31,591 - inverted_index - INFO - 处理文件: 72478b4970fc6c662a112e2b1a7905fd.txt
+2025-06-03 14:40:31,591 - inverted_index - INFO - 文件 72478b4970fc6c662a112e2b1a7905fd.txt 处理完成
+2025-06-03 14:40:31,591 - inverted_index - INFO - 处理文件: 725daa872ab027fff04dd2df38a42703.txt
+2025-06-03 14:40:31,591 - inverted_index - INFO - 文件 725daa872ab027fff04dd2df38a42703.txt 处理完成
+2025-06-03 14:40:31,591 - inverted_index - INFO - 处理文件: 72afe499f7d03311adca150c7163cd18.txt
+2025-06-03 14:40:31,592 - inverted_index - INFO - 文件 72afe499f7d03311adca150c7163cd18.txt 处理完成
+2025-06-03 14:40:31,592 - inverted_index - INFO - 处理文件: 72b2ca73677b9dab4465ce8c70418429.txt
+2025-06-03 14:40:31,592 - inverted_index - INFO - 文件 72b2ca73677b9dab4465ce8c70418429.txt 处理完成
+2025-06-03 14:40:31,592 - inverted_index - INFO - 处理文件: 731bb54b4a231c51a73010b5462450dd.txt
+2025-06-03 14:40:31,593 - inverted_index - INFO - 文件 731bb54b4a231c51a73010b5462450dd.txt 处理完成
+2025-06-03 14:40:31,593 - inverted_index - INFO - 处理文件: 73872799afe41d37f7129e49c1695398.txt
+2025-06-03 14:40:31,593 - inverted_index - INFO - 文件 73872799afe41d37f7129e49c1695398.txt 处理完成
+2025-06-03 14:40:31,593 - inverted_index - INFO - 处理文件: 73b99ea3632b72b1ecf3bfe2170659b3.txt
+2025-06-03 14:40:31,594 - inverted_index - INFO - 文件 73b99ea3632b72b1ecf3bfe2170659b3.txt 处理完成
+2025-06-03 14:40:31,594 - inverted_index - INFO - 处理文件: 73c960c14fe09d7109157dde58741a64.txt
+2025-06-03 14:40:31,594 - inverted_index - INFO - 文件 73c960c14fe09d7109157dde58741a64.txt 处理完成
+2025-06-03 14:40:31,594 - inverted_index - INFO - 处理文件: 73e844bf012365faa548e2cf4c29d30d.txt
+2025-06-03 14:40:31,595 - inverted_index - INFO - 文件 73e844bf012365faa548e2cf4c29d30d.txt 处理完成
+2025-06-03 14:40:31,595 - inverted_index - INFO - 处理文件: 7478ec60dec48b42e9e228d19fa1b894.txt
+2025-06-03 14:40:31,595 - inverted_index - INFO - 文件 7478ec60dec48b42e9e228d19fa1b894.txt 处理完成
+2025-06-03 14:40:31,595 - inverted_index - INFO - 处理文件: 74dd8b3bda409ec682f3805f5ecf3d00.txt
+2025-06-03 14:40:31,596 - inverted_index - INFO - 文件 74dd8b3bda409ec682f3805f5ecf3d00.txt 处理完成
+2025-06-03 14:40:31,596 - inverted_index - INFO - 处理文件: 74e56adc9aaf9be1ddda3b3c4839ec01.txt
+2025-06-03 14:40:31,596 - inverted_index - INFO - 文件 74e56adc9aaf9be1ddda3b3c4839ec01.txt 处理完成
+2025-06-03 14:40:31,596 - inverted_index - INFO - 处理文件: 7500bbbc02fa876fbad300715bb52f27.txt
+2025-06-03 14:40:31,597 - inverted_index - INFO - 文件 7500bbbc02fa876fbad300715bb52f27.txt 处理完成
+2025-06-03 14:40:31,597 - inverted_index - INFO - 处理文件: 75121ea1fb1a2850b723631defdb494d.txt
+2025-06-03 14:40:31,597 - inverted_index - INFO - 文件 75121ea1fb1a2850b723631defdb494d.txt 处理完成
+2025-06-03 14:40:31,597 - inverted_index - INFO - 处理文件: 754806d07b1d1d510541aa3efff8be05.txt
+2025-06-03 14:40:31,599 - inverted_index - INFO - 文件 754806d07b1d1d510541aa3efff8be05.txt 处理完成
+2025-06-03 14:40:31,599 - inverted_index - INFO - 处理文件: 755381a26af57e432e24b13307837860.txt
+2025-06-03 14:40:31,599 - inverted_index - INFO - 文件 755381a26af57e432e24b13307837860.txt 处理完成
+2025-06-03 14:40:31,600 - inverted_index - INFO - 处理文件: 755a81bc638b2d1de84b4d26c02420e1.txt
+2025-06-03 14:40:31,600 - inverted_index - INFO - 文件 755a81bc638b2d1de84b4d26c02420e1.txt 处理完成
+2025-06-03 14:40:31,600 - inverted_index - INFO - 处理文件: 755a9ed35f8f5702084aaed04b9b07b0.txt
+2025-06-03 14:40:31,601 - inverted_index - INFO - 文件 755a9ed35f8f5702084aaed04b9b07b0.txt 处理完成
+2025-06-03 14:40:31,601 - inverted_index - INFO - 处理文件: 755b53833adc25fe5232f97d00f6b96c.txt
+2025-06-03 14:40:31,602 - inverted_index - INFO - 文件 755b53833adc25fe5232f97d00f6b96c.txt 处理完成
+2025-06-03 14:40:31,602 - inverted_index - INFO - 处理文件: 75a69a2d54b7248ef431a33b1f932dfd.txt
+2025-06-03 14:40:31,602 - inverted_index - INFO - 文件 75a69a2d54b7248ef431a33b1f932dfd.txt 处理完成
+2025-06-03 14:40:31,603 - inverted_index - INFO - 处理文件: 75d912e8ef1f06a3b07a74bbe068f903.txt
+2025-06-03 14:40:31,603 - inverted_index - INFO - 文件 75d912e8ef1f06a3b07a74bbe068f903.txt 处理完成
+2025-06-03 14:40:31,603 - inverted_index - INFO - 处理文件: 764e71dcb18249a09a0c1efc9f8d08a9.txt
+2025-06-03 14:40:31,603 - inverted_index - INFO - 文件 764e71dcb18249a09a0c1efc9f8d08a9.txt 处理完成
+2025-06-03 14:40:31,604 - inverted_index - INFO - 处理文件: 766a7ae9fed6cb6d1be7665d5368c556.txt
+2025-06-03 14:40:31,604 - inverted_index - INFO - 文件 766a7ae9fed6cb6d1be7665d5368c556.txt 处理完成
+2025-06-03 14:40:31,604 - inverted_index - INFO - 处理文件: 76d4084407944f97ef0ee714e9f9b7d6.txt
+2025-06-03 14:40:31,604 - inverted_index - INFO - 文件 76d4084407944f97ef0ee714e9f9b7d6.txt 处理完成
+2025-06-03 14:40:31,605 - inverted_index - INFO - 处理文件: 76f2e6aa5db30ae86586c7863615b13c.txt
+2025-06-03 14:40:31,605 - inverted_index - INFO - 文件 76f2e6aa5db30ae86586c7863615b13c.txt 处理完成
+2025-06-03 14:40:31,605 - inverted_index - INFO - 处理文件: 770dc83dddd685486170b206c7073143.txt
+2025-06-03 14:40:31,606 - inverted_index - INFO - 文件 770dc83dddd685486170b206c7073143.txt 处理完成
+2025-06-03 14:40:31,606 - inverted_index - INFO - 处理文件: 77ac3ab6dbee84068455b0f8d75bc455.txt
+2025-06-03 14:40:31,606 - inverted_index - INFO - 文件 77ac3ab6dbee84068455b0f8d75bc455.txt 处理完成
+2025-06-03 14:40:31,606 - inverted_index - INFO - 处理文件: 77aec5b9ace0499018d95d8dc014bb62.txt
+2025-06-03 14:40:31,607 - inverted_index - INFO - 文件 77aec5b9ace0499018d95d8dc014bb62.txt 处理完成
+2025-06-03 14:40:31,607 - inverted_index - INFO - 处理文件: 77e8164a599d62cac9d7e94f9952dcd8.txt
+2025-06-03 14:40:31,607 - inverted_index - INFO - 文件 77e8164a599d62cac9d7e94f9952dcd8.txt 处理完成
+2025-06-03 14:40:31,608 - inverted_index - INFO - 处理文件: 77f8da00dc52b818c8ed532d2c7b6dd1.txt
+2025-06-03 14:40:31,608 - inverted_index - INFO - 文件 77f8da00dc52b818c8ed532d2c7b6dd1.txt 处理完成
+2025-06-03 14:40:31,609 - inverted_index - INFO - 处理文件: 780b8bc0711d12e7cbb788beb6300b56.txt
+2025-06-03 14:40:31,609 - inverted_index - INFO - 文件 780b8bc0711d12e7cbb788beb6300b56.txt 处理完成
+2025-06-03 14:40:31,610 - inverted_index - INFO - 处理文件: 784e709a3f4ccc319a06681eb05d5c48.txt
+2025-06-03 14:40:31,610 - inverted_index - INFO - 文件 784e709a3f4ccc319a06681eb05d5c48.txt 处理完成
+2025-06-03 14:40:31,610 - inverted_index - INFO - 处理文件: 78723e20d0e90ec0cec0070712a05f21.txt
+2025-06-03 14:40:31,611 - inverted_index - INFO - 文件 78723e20d0e90ec0cec0070712a05f21.txt 处理完成
+2025-06-03 14:40:31,611 - inverted_index - INFO - 处理文件: 78ae11cd3daaa00bf35f1bcb99a2109a.txt
+2025-06-03 14:40:31,612 - inverted_index - INFO - 文件 78ae11cd3daaa00bf35f1bcb99a2109a.txt 处理完成
+2025-06-03 14:40:31,612 - inverted_index - INFO - 处理文件: 78beb126eb67ddabc557b1201463a597.txt
+2025-06-03 14:40:31,612 - inverted_index - INFO - 文件 78beb126eb67ddabc557b1201463a597.txt 处理完成
+2025-06-03 14:40:31,613 - inverted_index - INFO - 处理文件: 79220440a43c95e5b18f105cea8a9037.txt
+2025-06-03 14:40:31,613 - inverted_index - INFO - 文件 79220440a43c95e5b18f105cea8a9037.txt 处理完成
+2025-06-03 14:40:31,613 - inverted_index - INFO - 处理文件: 7927857c009699308b44278cecb0211a.txt
+2025-06-03 14:40:31,613 - inverted_index - INFO - 文件 7927857c009699308b44278cecb0211a.txt 处理完成
+2025-06-03 14:40:31,614 - inverted_index - INFO - 处理文件: 793ec20b78aaa01679da2330eb41fe3c.txt
+2025-06-03 14:40:31,614 - inverted_index - INFO - 文件 793ec20b78aaa01679da2330eb41fe3c.txt 处理完成
+2025-06-03 14:40:31,614 - inverted_index - INFO - 处理文件: 79486088d00748ffd259fe9f7815f0b8.txt
+2025-06-03 14:40:31,615 - inverted_index - INFO - 文件 79486088d00748ffd259fe9f7815f0b8.txt 处理完成
+2025-06-03 14:40:31,615 - inverted_index - INFO - 处理文件: 795b0b72c2409718e7908f055ab987d6.txt
+2025-06-03 14:40:31,616 - inverted_index - INFO - 文件 795b0b72c2409718e7908f055ab987d6.txt 处理完成
+2025-06-03 14:40:31,616 - inverted_index - INFO - 处理文件: 79abdbf4b351c1958ffa3c8cc404d1ed.txt
+2025-06-03 14:40:31,616 - inverted_index - INFO - 文件 79abdbf4b351c1958ffa3c8cc404d1ed.txt 处理完成
+2025-06-03 14:40:31,617 - inverted_index - INFO - 处理文件: 79adb03196dbe88e9139a5483b00001f.txt
+2025-06-03 14:40:31,617 - inverted_index - INFO - 文件 79adb03196dbe88e9139a5483b00001f.txt 处理完成
+2025-06-03 14:40:31,618 - inverted_index - INFO - 处理文件: 7a8b190d59ac3e6d01064f2cf0133831.txt
+2025-06-03 14:40:31,618 - inverted_index - INFO - 文件 7a8b190d59ac3e6d01064f2cf0133831.txt 处理完成
+2025-06-03 14:40:31,619 - inverted_index - INFO - 处理文件: 7acff5e39630fb2e3f5ed0bd91960c00.txt
+2025-06-03 14:40:31,619 - inverted_index - INFO - 文件 7acff5e39630fb2e3f5ed0bd91960c00.txt 处理完成
+2025-06-03 14:40:31,619 - inverted_index - INFO - 处理文件: 7b045a2a0e4b690952c5dc39276fae32.txt
+2025-06-03 14:40:31,619 - inverted_index - INFO - 文件 7b045a2a0e4b690952c5dc39276fae32.txt 处理完成
+2025-06-03 14:40:31,620 - inverted_index - INFO - 处理文件: 7b5b8bcfeeabd685e7298f37b4b122a2.txt
+2025-06-03 14:40:31,620 - inverted_index - INFO - 文件 7b5b8bcfeeabd685e7298f37b4b122a2.txt 处理完成
+2025-06-03 14:40:31,620 - inverted_index - INFO - 处理文件: 7bb8eb5eeb557247b5cd04d05127806b.txt
+2025-06-03 14:40:31,620 - inverted_index - INFO - 文件 7bb8eb5eeb557247b5cd04d05127806b.txt 处理完成
+2025-06-03 14:40:31,621 - inverted_index - INFO - 处理文件: 7c176ae64a1346b5022c1a559761ffd6.txt
+2025-06-03 14:40:31,622 - inverted_index - INFO - 文件 7c176ae64a1346b5022c1a559761ffd6.txt 处理完成
+2025-06-03 14:40:31,622 - inverted_index - INFO - 处理文件: 7c342a13923a35d155403067cda39818.txt
+2025-06-03 14:40:31,622 - inverted_index - INFO - 文件 7c342a13923a35d155403067cda39818.txt 处理完成
+2025-06-03 14:40:31,622 - inverted_index - INFO - 处理文件: 7c5d719fc208bb26bc5d942174999c66.txt
+2025-06-03 14:40:31,622 - inverted_index - INFO - 文件 7c5d719fc208bb26bc5d942174999c66.txt 处理完成
+2025-06-03 14:40:31,622 - inverted_index - INFO - 处理文件: 7c755c888f215dc204a58be29fad77c4.txt
+2025-06-03 14:40:31,623 - inverted_index - INFO - 文件 7c755c888f215dc204a58be29fad77c4.txt 处理完成
+2025-06-03 14:40:31,623 - inverted_index - INFO - 处理文件: 7cfd271a2dbf890873c4dab9c54b107d.txt
+2025-06-03 14:40:31,623 - inverted_index - INFO - 文件 7cfd271a2dbf890873c4dab9c54b107d.txt 处理完成
+2025-06-03 14:40:31,624 - inverted_index - INFO - 处理文件: 7d262176f9e53c1ebddc66f07a53688b.txt
+2025-06-03 14:40:31,624 - inverted_index - INFO - 文件 7d262176f9e53c1ebddc66f07a53688b.txt 处理完成
+2025-06-03 14:40:31,624 - inverted_index - INFO - 处理文件: 7d58e587621062a1493b348b41cb70d7.txt
+2025-06-03 14:40:31,624 - inverted_index - INFO - 文件 7d58e587621062a1493b348b41cb70d7.txt 处理完成
+2025-06-03 14:40:31,625 - inverted_index - INFO - 处理文件: 7da942af789d30f730364a98655c8368.txt
+2025-06-03 14:40:31,625 - inverted_index - INFO - 文件 7da942af789d30f730364a98655c8368.txt 处理完成
+2025-06-03 14:40:31,625 - inverted_index - INFO - 处理文件: 7dc01f63850ce23d573032942aff0976.txt
+2025-06-03 14:40:31,625 - inverted_index - INFO - 文件 7dc01f63850ce23d573032942aff0976.txt 处理完成
+2025-06-03 14:40:31,626 - inverted_index - INFO - 处理文件: 7de63ead49452387f508ccaf9eb73b74.txt
+2025-06-03 14:40:31,626 - inverted_index - INFO - 文件 7de63ead49452387f508ccaf9eb73b74.txt 处理完成
+2025-06-03 14:40:31,626 - inverted_index - INFO - 处理文件: 7e3ca7199eb0d4f6a00017fbd5d36aa6.txt
+2025-06-03 14:40:31,626 - inverted_index - INFO - 文件 7e3ca7199eb0d4f6a00017fbd5d36aa6.txt 处理完成
+2025-06-03 14:40:31,627 - inverted_index - INFO - 处理文件: 7e3d13a0ac50e2034baa5b5568aaa7e6.txt
+2025-06-03 14:40:31,627 - inverted_index - INFO - 文件 7e3d13a0ac50e2034baa5b5568aaa7e6.txt 处理完成
+2025-06-03 14:40:31,627 - inverted_index - INFO - 处理文件: 7e57c92bae8e3cfcdd26f03e494568a3.txt
+2025-06-03 14:40:31,628 - inverted_index - INFO - 文件 7e57c92bae8e3cfcdd26f03e494568a3.txt 处理完成
+2025-06-03 14:40:31,628 - inverted_index - INFO - 处理文件: 7e74d620d18dbd831012cb66c01b3cc4.txt
+2025-06-03 14:40:31,628 - inverted_index - INFO - 文件 7e74d620d18dbd831012cb66c01b3cc4.txt 处理完成
+2025-06-03 14:40:31,629 - inverted_index - INFO - 处理文件: 7ecda3a55bebd54d1ea099b41b888b13.txt
+2025-06-03 14:40:31,629 - inverted_index - INFO - 文件 7ecda3a55bebd54d1ea099b41b888b13.txt 处理完成
+2025-06-03 14:40:31,629 - inverted_index - INFO - 处理文件: 7f2cb1c66d1d990c375334ca62a6162a.txt
+2025-06-03 14:40:31,630 - inverted_index - INFO - 文件 7f2cb1c66d1d990c375334ca62a6162a.txt 处理完成
+2025-06-03 14:40:31,630 - inverted_index - INFO - 处理文件: 7f2ff746593f74a63ba49303bcc5b1dc.txt
+2025-06-03 14:40:31,630 - inverted_index - INFO - 文件 7f2ff746593f74a63ba49303bcc5b1dc.txt 处理完成
+2025-06-03 14:40:31,630 - inverted_index - INFO - 处理文件: 7ff7d744ff640e43f3fbe951a2b51b45.txt
+2025-06-03 14:40:31,631 - inverted_index - INFO - 文件 7ff7d744ff640e43f3fbe951a2b51b45.txt 处理完成
+2025-06-03 14:40:31,631 - inverted_index - INFO - 处理文件: 8011e019759ab2cd205cc48da5f3ce71.txt
+2025-06-03 14:40:31,632 - inverted_index - INFO - 文件 8011e019759ab2cd205cc48da5f3ce71.txt 处理完成
+2025-06-03 14:40:31,632 - inverted_index - INFO - 处理文件: 806564e3d599a23b3dce07f15670de07.txt
+2025-06-03 14:40:31,633 - inverted_index - INFO - 文件 806564e3d599a23b3dce07f15670de07.txt 处理完成
+2025-06-03 14:40:31,633 - inverted_index - INFO - 处理文件: 80c8a9e3700556c77c7d203191a463e3.txt
+2025-06-03 14:40:31,633 - inverted_index - INFO - 文件 80c8a9e3700556c77c7d203191a463e3.txt 处理完成
+2025-06-03 14:40:31,634 - inverted_index - INFO - 处理文件: 80fb510d0a40a7750ad6ac674c3e32ed.txt
+2025-06-03 14:40:31,634 - inverted_index - INFO - 文件 80fb510d0a40a7750ad6ac674c3e32ed.txt 处理完成
+2025-06-03 14:40:31,634 - inverted_index - INFO - 处理文件: 816f7ec774a49047775ecb2be2888f87.txt
+2025-06-03 14:40:31,635 - inverted_index - INFO - 文件 816f7ec774a49047775ecb2be2888f87.txt 处理完成
+2025-06-03 14:40:31,635 - inverted_index - INFO - 处理文件: 817054f447d834e61d85e42272f2d35f.txt
+2025-06-03 14:40:31,635 - inverted_index - INFO - 文件 817054f447d834e61d85e42272f2d35f.txt 处理完成
+2025-06-03 14:40:31,635 - inverted_index - INFO - 处理文件: 817e3d1a4f26db3b77baa32e828fe663.txt
+2025-06-03 14:40:31,636 - inverted_index - INFO - 文件 817e3d1a4f26db3b77baa32e828fe663.txt 处理完成
+2025-06-03 14:40:31,636 - inverted_index - INFO - 处理文件: 819e0c2fdc80d9f0ae3e92b85e107167.txt
+2025-06-03 14:40:31,636 - inverted_index - INFO - 文件 819e0c2fdc80d9f0ae3e92b85e107167.txt 处理完成
+2025-06-03 14:40:31,636 - inverted_index - INFO - 处理文件: 82374d71048361823eb21b5cf86544fe.txt
+2025-06-03 14:40:31,638 - inverted_index - INFO - 文件 82374d71048361823eb21b5cf86544fe.txt 处理完成
+2025-06-03 14:40:31,638 - inverted_index - INFO - 处理文件: 8292a28262044ab65fb5a46d974930fa.txt
+2025-06-03 14:40:31,639 - inverted_index - INFO - 文件 8292a28262044ab65fb5a46d974930fa.txt 处理完成
+2025-06-03 14:40:31,639 - inverted_index - INFO - 处理文件: 82d2e107232a57210c401766572e92f2.txt
+2025-06-03 14:40:31,639 - inverted_index - INFO - 文件 82d2e107232a57210c401766572e92f2.txt 处理完成
+2025-06-03 14:40:31,640 - inverted_index - INFO - 处理文件: 82e407cd1648679645635179f4a6c996.txt
+2025-06-03 14:40:31,640 - inverted_index - INFO - 文件 82e407cd1648679645635179f4a6c996.txt 处理完成
+2025-06-03 14:40:31,641 - inverted_index - INFO - 处理文件: 8326f6f33c879039ed6c165da7fcb71d.txt
+2025-06-03 14:40:31,641 - inverted_index - INFO - 文件 8326f6f33c879039ed6c165da7fcb71d.txt 处理完成
+2025-06-03 14:40:31,641 - inverted_index - INFO - 处理文件: 832785f16b153b42d06de685cc314af9.txt
+2025-06-03 14:40:31,642 - inverted_index - INFO - 文件 832785f16b153b42d06de685cc314af9.txt 处理完成
+2025-06-03 14:40:31,642 - inverted_index - INFO - 处理文件: 835c172cae906d4dabe560e19783146d.txt
+2025-06-03 14:40:31,642 - inverted_index - INFO - 文件 835c172cae906d4dabe560e19783146d.txt 处理完成
+2025-06-03 14:40:31,642 - inverted_index - INFO - 处理文件: 837f05f398419517f5de9c377dcedcca.txt
+2025-06-03 14:40:31,643 - inverted_index - INFO - 文件 837f05f398419517f5de9c377dcedcca.txt 处理完成
+2025-06-03 14:40:31,643 - inverted_index - INFO - 处理文件: 838a931addf55219f36aa029888a63f7.txt
+2025-06-03 14:40:31,643 - inverted_index - INFO - 文件 838a931addf55219f36aa029888a63f7.txt 处理完成
+2025-06-03 14:40:31,644 - inverted_index - INFO - 处理文件: 83b08ae389992ca8d6b373dc84273167.txt
+2025-06-03 14:40:31,644 - inverted_index - INFO - 文件 83b08ae389992ca8d6b373dc84273167.txt 处理完成
+2025-06-03 14:40:31,644 - inverted_index - INFO - 处理文件: 83fe146c5432d1002978113b990f1eb8.txt
+2025-06-03 14:40:31,645 - inverted_index - INFO - 文件 83fe146c5432d1002978113b990f1eb8.txt 处理完成
+2025-06-03 14:40:31,645 - inverted_index - INFO - 处理文件: 840eed0fb3bef35cd91130ce63434a26.txt
+2025-06-03 14:40:31,645 - inverted_index - INFO - 文件 840eed0fb3bef35cd91130ce63434a26.txt 处理完成
+2025-06-03 14:40:31,646 - inverted_index - INFO - 处理文件: 841aa5cbdeaba00976dfd68ed3716336.txt
+2025-06-03 14:40:31,646 - inverted_index - INFO - 文件 841aa5cbdeaba00976dfd68ed3716336.txt 处理完成
+2025-06-03 14:40:31,646 - inverted_index - INFO - 处理文件: 844060b332e97a994aa3343a59c5e4f4.txt
+2025-06-03 14:40:31,646 - inverted_index - INFO - 文件 844060b332e97a994aa3343a59c5e4f4.txt 处理完成
+2025-06-03 14:40:31,647 - inverted_index - INFO - 处理文件: 84a5bdf137d6879473778c5457c130d7.txt
+2025-06-03 14:40:31,647 - inverted_index - INFO - 文件 84a5bdf137d6879473778c5457c130d7.txt 处理完成
+2025-06-03 14:40:31,647 - inverted_index - INFO - 处理文件: 853c52867a5c36fb00ac0a373c6e7597.txt
+2025-06-03 14:40:31,648 - inverted_index - INFO - 文件 853c52867a5c36fb00ac0a373c6e7597.txt 处理完成
+2025-06-03 14:40:31,648 - inverted_index - INFO - 处理文件: 855e16d9b0a926758a3a4a24c41ad70c.txt
+2025-06-03 14:40:31,649 - inverted_index - INFO - 文件 855e16d9b0a926758a3a4a24c41ad70c.txt 处理完成
+2025-06-03 14:40:31,649 - inverted_index - INFO - 处理文件: 861e384afd4a645ab8a38fe9ec68b636.txt
+2025-06-03 14:40:31,649 - inverted_index - INFO - 文件 861e384afd4a645ab8a38fe9ec68b636.txt 处理完成
+2025-06-03 14:40:31,650 - inverted_index - INFO - 处理文件: 8672c9b94a75e9266d50a7d2582fbbc9.txt
+2025-06-03 14:40:31,650 - inverted_index - INFO - 文件 8672c9b94a75e9266d50a7d2582fbbc9.txt 处理完成
+2025-06-03 14:40:31,650 - inverted_index - INFO - 处理文件: 868b3355d146bcb69c02b4241d4fa78c.txt
+2025-06-03 14:40:31,651 - inverted_index - INFO - 文件 868b3355d146bcb69c02b4241d4fa78c.txt 处理完成
+2025-06-03 14:40:31,651 - inverted_index - INFO - 处理文件: 868b62048db48b382b6ec0602b035b7e.txt
+2025-06-03 14:40:31,651 - inverted_index - INFO - 文件 868b62048db48b382b6ec0602b035b7e.txt 处理完成
+2025-06-03 14:40:31,652 - inverted_index - INFO - 处理文件: 86b4d09a5dfc0fdbb9624c3af5890306.txt
+2025-06-03 14:40:31,652 - inverted_index - INFO - 文件 86b4d09a5dfc0fdbb9624c3af5890306.txt 处理完成
+2025-06-03 14:40:31,652 - inverted_index - INFO - 处理文件: 86d84a35938687badb0d19ee2b4ec860.txt
+2025-06-03 14:40:31,653 - inverted_index - INFO - 文件 86d84a35938687badb0d19ee2b4ec860.txt 处理完成
+2025-06-03 14:40:31,653 - inverted_index - INFO - 处理文件: 870b6b6dcc45cc3ba707e565fc3e852e.txt
+2025-06-03 14:40:31,653 - inverted_index - INFO - 文件 870b6b6dcc45cc3ba707e565fc3e852e.txt 处理完成
+2025-06-03 14:40:31,653 - inverted_index - INFO - 处理文件: 870f6fb28bb116914d9b80b430a0a362.txt
+2025-06-03 14:40:31,655 - inverted_index - INFO - 文件 870f6fb28bb116914d9b80b430a0a362.txt 处理完成
+2025-06-03 14:40:31,655 - inverted_index - INFO - 处理文件: 8716f43bdc466430ea9f011fa3b0ce20.txt
+2025-06-03 14:40:31,655 - inverted_index - INFO - 文件 8716f43bdc466430ea9f011fa3b0ce20.txt 处理完成
+2025-06-03 14:40:31,655 - inverted_index - INFO - 处理文件: 8722b53be95ce6daa646d80104263a10.txt
+2025-06-03 14:40:31,656 - inverted_index - INFO - 文件 8722b53be95ce6daa646d80104263a10.txt 处理完成
+2025-06-03 14:40:31,656 - inverted_index - INFO - 处理文件: 8751fa58d6580f10c1d96e58c81dbf8b.txt
+2025-06-03 14:40:31,656 - inverted_index - INFO - 文件 8751fa58d6580f10c1d96e58c81dbf8b.txt 处理完成
+2025-06-03 14:40:31,657 - inverted_index - INFO - 处理文件: 87a36a449957166bb1e1eb88df8d872d.txt
+2025-06-03 14:40:31,657 - inverted_index - INFO - 文件 87a36a449957166bb1e1eb88df8d872d.txt 处理完成
+2025-06-03 14:40:31,657 - inverted_index - INFO - 处理文件: 87c254398ed438ac903021d91fd0acbf.txt
+2025-06-03 14:40:31,657 - inverted_index - INFO - 文件 87c254398ed438ac903021d91fd0acbf.txt 处理完成
+2025-06-03 14:40:31,658 - inverted_index - INFO - 处理文件: 87d3cee3782b6e38ac6044193896d71f.txt
+2025-06-03 14:40:31,658 - inverted_index - INFO - 文件 87d3cee3782b6e38ac6044193896d71f.txt 处理完成
+2025-06-03 14:40:31,658 - inverted_index - INFO - 处理文件: 87f7eb95dde71ed00bccee53b339fb16.txt
+2025-06-03 14:40:31,659 - inverted_index - INFO - 文件 87f7eb95dde71ed00bccee53b339fb16.txt 处理完成
+2025-06-03 14:40:31,659 - inverted_index - INFO - 处理文件: 883bd2cd4ce532b5e08f76c140092a96.txt
+2025-06-03 14:40:31,660 - inverted_index - INFO - 文件 883bd2cd4ce532b5e08f76c140092a96.txt 处理完成
+2025-06-03 14:40:31,660 - inverted_index - INFO - 处理文件: 8874b7ef48c13b394213888a61fdb61c.txt
+2025-06-03 14:40:31,660 - inverted_index - INFO - 文件 8874b7ef48c13b394213888a61fdb61c.txt 处理完成
+2025-06-03 14:40:31,660 - inverted_index - INFO - 处理文件: 888c80f8cdb71316433414c892d7957f.txt
+2025-06-03 14:40:31,661 - inverted_index - INFO - 文件 888c80f8cdb71316433414c892d7957f.txt 处理完成
+2025-06-03 14:40:31,661 - inverted_index - INFO - 处理文件: 88db07e5ba0c58d9eae41f27ca254de8.txt
+2025-06-03 14:40:31,661 - inverted_index - INFO - 文件 88db07e5ba0c58d9eae41f27ca254de8.txt 处理完成
+2025-06-03 14:40:31,661 - inverted_index - INFO - 处理文件: 893aa92cb2d6eb82a73df834e84d76a2.txt
+2025-06-03 14:40:31,662 - inverted_index - INFO - 文件 893aa92cb2d6eb82a73df834e84d76a2.txt 处理完成
+2025-06-03 14:40:31,662 - inverted_index - INFO - 处理文件: 8a48026ad00c8c08e30b171d4b6da9f6.txt
+2025-06-03 14:40:31,662 - inverted_index - INFO - 文件 8a48026ad00c8c08e30b171d4b6da9f6.txt 处理完成
+2025-06-03 14:40:31,663 - inverted_index - INFO - 处理文件: 8a60320003507e8c4305a0ed7097a91b.txt
+2025-06-03 14:40:31,663 - inverted_index - INFO - 文件 8a60320003507e8c4305a0ed7097a91b.txt 处理完成
+2025-06-03 14:40:31,663 - inverted_index - INFO - 处理文件: 8a6ba4387967f12f6307fb6c2ca07127.txt
+2025-06-03 14:40:31,664 - inverted_index - INFO - 文件 8a6ba4387967f12f6307fb6c2ca07127.txt 处理完成
+2025-06-03 14:40:31,664 - inverted_index - INFO - 处理文件: 8a8dc15e4c2266f840c31a4eef7b8cfb.txt
+2025-06-03 14:40:31,665 - inverted_index - INFO - 文件 8a8dc15e4c2266f840c31a4eef7b8cfb.txt 处理完成
+2025-06-03 14:40:31,665 - inverted_index - INFO - 处理文件: 8aafb8f52fd5741c20e953baad4519bc.txt
+2025-06-03 14:40:31,665 - inverted_index - INFO - 文件 8aafb8f52fd5741c20e953baad4519bc.txt 处理完成
+2025-06-03 14:40:31,665 - inverted_index - INFO - 处理文件: 8b7d7c155686a2cd655cc4241e6beb49.txt
+2025-06-03 14:40:31,666 - inverted_index - INFO - 文件 8b7d7c155686a2cd655cc4241e6beb49.txt 处理完成
+2025-06-03 14:40:31,667 - inverted_index - INFO - 处理文件: 8b83101d626e08a3847eb44c4639ebff.txt
+2025-06-03 14:40:31,667 - inverted_index - INFO - 文件 8b83101d626e08a3847eb44c4639ebff.txt 处理完成
+2025-06-03 14:40:31,668 - inverted_index - INFO - 处理文件: 8ba8668747100a16affeeed7ca9a883c.txt
+2025-06-03 14:40:31,668 - inverted_index - INFO - 文件 8ba8668747100a16affeeed7ca9a883c.txt 处理完成
+2025-06-03 14:40:31,669 - inverted_index - INFO - 处理文件: 8c104bb95394c0efc93c23cfaa4640ff.txt
+2025-06-03 14:40:31,669 - inverted_index - INFO - 文件 8c104bb95394c0efc93c23cfaa4640ff.txt 处理完成
+2025-06-03 14:40:31,669 - inverted_index - INFO - 处理文件: 8c1ea0e6024f49166b61271f2dfd4243.txt
+2025-06-03 14:40:31,669 - inverted_index - INFO - 文件 8c1ea0e6024f49166b61271f2dfd4243.txt 处理完成
+2025-06-03 14:40:31,670 - inverted_index - INFO - 处理文件: 8c997f799c31685b56a6c3274e1b7aeb.txt
+2025-06-03 14:40:31,670 - inverted_index - INFO - 文件 8c997f799c31685b56a6c3274e1b7aeb.txt 处理完成
+2025-06-03 14:40:31,670 - inverted_index - INFO - 处理文件: 8ca8e7ecb92bf4ce2cd33607235d450a.txt
+2025-06-03 14:40:31,671 - inverted_index - INFO - 文件 8ca8e7ecb92bf4ce2cd33607235d450a.txt 处理完成
+2025-06-03 14:40:31,671 - inverted_index - INFO - 处理文件: 8d178a44bc806a6ff3d3882f9c8783a1.txt
+2025-06-03 14:40:31,672 - inverted_index - INFO - 文件 8d178a44bc806a6ff3d3882f9c8783a1.txt 处理完成
+2025-06-03 14:40:31,672 - inverted_index - INFO - 处理文件: 8d5622014a92331fc83cb23224edf57f.txt
+2025-06-03 14:40:31,673 - inverted_index - INFO - 文件 8d5622014a92331fc83cb23224edf57f.txt 处理完成
+2025-06-03 14:40:31,673 - inverted_index - INFO - 处理文件: 8d96e2e9d239018673931da6326a2378.txt
+2025-06-03 14:40:31,673 - inverted_index - INFO - 文件 8d96e2e9d239018673931da6326a2378.txt 处理完成
+2025-06-03 14:40:31,674 - inverted_index - INFO - 处理文件: 8df693a14e792171e4b7f460ec072a05.txt
+2025-06-03 14:40:31,674 - inverted_index - INFO - 文件 8df693a14e792171e4b7f460ec072a05.txt 处理完成
+2025-06-03 14:40:31,674 - inverted_index - INFO - 处理文件: 8f2e9b7e403467685db9ac103bbddb66.txt
+2025-06-03 14:40:31,675 - inverted_index - INFO - 文件 8f2e9b7e403467685db9ac103bbddb66.txt 处理完成
+2025-06-03 14:40:31,675 - inverted_index - INFO - 处理文件: 8f8278a58ac5c15fa7b4a1d257522984.txt
+2025-06-03 14:40:31,675 - inverted_index - INFO - 文件 8f8278a58ac5c15fa7b4a1d257522984.txt 处理完成
+2025-06-03 14:40:31,675 - inverted_index - INFO - 处理文件: 8f9d2695f23209baec0988df28997c6f.txt
+2025-06-03 14:40:31,675 - inverted_index - INFO - 文件 8f9d2695f23209baec0988df28997c6f.txt 处理完成
+2025-06-03 14:40:31,676 - inverted_index - INFO - 处理文件: 8faac14b52c03ce18c9ed0028e25e50a.txt
+2025-06-03 14:40:31,676 - inverted_index - INFO - 文件 8faac14b52c03ce18c9ed0028e25e50a.txt 处理完成
+2025-06-03 14:40:31,676 - inverted_index - INFO - 处理文件: 8fe88f434c67a54655bae9bef944bc96.txt
+2025-06-03 14:40:31,676 - inverted_index - INFO - 文件 8fe88f434c67a54655bae9bef944bc96.txt 处理完成
+2025-06-03 14:40:31,676 - inverted_index - INFO - 处理文件: 8fead81ec3c45d3532810c08a1abd38c.txt
+2025-06-03 14:40:31,676 - inverted_index - INFO - 文件 8fead81ec3c45d3532810c08a1abd38c.txt 处理完成
+2025-06-03 14:40:31,676 - inverted_index - INFO - 处理文件: 9080ef7ac6fd92b884e1f72db6c987a5.txt
+2025-06-03 14:40:31,677 - inverted_index - INFO - 文件 9080ef7ac6fd92b884e1f72db6c987a5.txt 处理完成
+2025-06-03 14:40:31,677 - inverted_index - INFO - 处理文件: 908180378581fbee67ef1665862c059b.txt
+2025-06-03 14:40:31,677 - inverted_index - INFO - 文件 908180378581fbee67ef1665862c059b.txt 处理完成
+2025-06-03 14:40:31,678 - inverted_index - INFO - 处理文件: 9097737017a9fa880e054293dafaf716.txt
+2025-06-03 14:40:31,678 - inverted_index - INFO - 文件 9097737017a9fa880e054293dafaf716.txt 处理完成
+2025-06-03 14:40:31,678 - inverted_index - INFO - 处理文件: 90ce27e6eae8425da1c869ba05d65351.txt
+2025-06-03 14:40:31,678 - inverted_index - INFO - 文件 90ce27e6eae8425da1c869ba05d65351.txt 处理完成
+2025-06-03 14:40:31,678 - inverted_index - INFO - 处理文件: 90f8a0d639609260663ad56b0196f42d.txt
+2025-06-03 14:40:31,679 - inverted_index - INFO - 文件 90f8a0d639609260663ad56b0196f42d.txt 处理完成
+2025-06-03 14:40:31,679 - inverted_index - INFO - 处理文件: 90ffc932678ae35cc73fd36b18dc47d4.txt
+2025-06-03 14:40:31,679 - inverted_index - INFO - 文件 90ffc932678ae35cc73fd36b18dc47d4.txt 处理完成
+2025-06-03 14:40:31,679 - inverted_index - INFO - 处理文件: 9132a59c76460fb878f5bbe0581cee38.txt
+2025-06-03 14:40:31,679 - inverted_index - INFO - 文件 9132a59c76460fb878f5bbe0581cee38.txt 处理完成
+2025-06-03 14:40:31,680 - inverted_index - INFO - 处理文件: 917cba02b6bf79fd073fca7afbba9775.txt
+2025-06-03 14:40:31,680 - inverted_index - INFO - 文件 917cba02b6bf79fd073fca7afbba9775.txt 处理完成
+2025-06-03 14:40:31,680 - inverted_index - INFO - 处理文件: 919e07d471011796ed5e3416870f95af.txt
+2025-06-03 14:40:31,680 - inverted_index - INFO - 文件 919e07d471011796ed5e3416870f95af.txt 处理完成
+2025-06-03 14:40:31,681 - inverted_index - INFO - 处理文件: 91c8500f7a485f667ed10685b22f7394.txt
+2025-06-03 14:40:31,681 - inverted_index - INFO - 文件 91c8500f7a485f667ed10685b22f7394.txt 处理完成
+2025-06-03 14:40:31,681 - inverted_index - INFO - 处理文件: 91ea450edb8f4c0a3b9dc0ee96a8d564.txt
+2025-06-03 14:40:31,682 - inverted_index - INFO - 文件 91ea450edb8f4c0a3b9dc0ee96a8d564.txt 处理完成
+2025-06-03 14:40:31,682 - inverted_index - INFO - 处理文件: 92570bf586db7abdb59ea2f0b338b6c4.txt
+2025-06-03 14:40:31,683 - inverted_index - INFO - 文件 92570bf586db7abdb59ea2f0b338b6c4.txt 处理完成
+2025-06-03 14:40:31,683 - inverted_index - INFO - 处理文件: 92f1f65854147042ca59fb602582d735.txt
+2025-06-03 14:40:31,683 - inverted_index - INFO - 文件 92f1f65854147042ca59fb602582d735.txt 处理完成
+2025-06-03 14:40:31,684 - inverted_index - INFO - 处理文件: 93c6df4b32770cba80c851c007848474.txt
+2025-06-03 14:40:31,684 - inverted_index - INFO - 文件 93c6df4b32770cba80c851c007848474.txt 处理完成
+2025-06-03 14:40:31,684 - inverted_index - INFO - 处理文件: 93d107ea161aa976b7a6a22036b18d34.txt
+2025-06-03 14:40:31,684 - inverted_index - INFO - 文件 93d107ea161aa976b7a6a22036b18d34.txt 处理完成
+2025-06-03 14:40:31,685 - inverted_index - INFO - 处理文件: 94014ebe77bc1daa0a4e0554a5860ab5.txt
+2025-06-03 14:40:31,685 - inverted_index - INFO - 文件 94014ebe77bc1daa0a4e0554a5860ab5.txt 处理完成
+2025-06-03 14:40:31,685 - inverted_index - INFO - 处理文件: 940a04e30f507e7949928ee8aa680a81.txt
+2025-06-03 14:40:31,685 - inverted_index - INFO - 文件 940a04e30f507e7949928ee8aa680a81.txt 处理完成
+2025-06-03 14:40:31,686 - inverted_index - INFO - 处理文件: 941e214d1782056f4e0ac446f59b65c7.txt
+2025-06-03 14:40:31,686 - inverted_index - INFO - 文件 941e214d1782056f4e0ac446f59b65c7.txt 处理完成
+2025-06-03 14:40:31,686 - inverted_index - INFO - 处理文件: 942426da0084243fc43fbc5f76a9a04e.txt
+2025-06-03 14:40:31,686 - inverted_index - INFO - 文件 942426da0084243fc43fbc5f76a9a04e.txt 处理完成
+2025-06-03 14:40:31,687 - inverted_index - INFO - 处理文件: 943430aa0e29b4c8bb43c03afd34a95f.txt
+2025-06-03 14:40:31,687 - inverted_index - INFO - 文件 943430aa0e29b4c8bb43c03afd34a95f.txt 处理完成
+2025-06-03 14:40:31,687 - inverted_index - INFO - 处理文件: 948fd3d690759c9f18b5c3f7ce6a17b0.txt
+2025-06-03 14:40:31,688 - inverted_index - INFO - 文件 948fd3d690759c9f18b5c3f7ce6a17b0.txt 处理完成
+2025-06-03 14:40:31,688 - inverted_index - INFO - 处理文件: 94a827a244607fa3399942021abf3ef6.txt
+2025-06-03 14:40:31,688 - inverted_index - INFO - 文件 94a827a244607fa3399942021abf3ef6.txt 处理完成
+2025-06-03 14:40:31,688 - inverted_index - INFO - 处理文件: 94bad3d3de544aa23e145aa7d849e379.txt
+2025-06-03 14:40:31,688 - inverted_index - INFO - 文件 94bad3d3de544aa23e145aa7d849e379.txt 处理完成
+2025-06-03 14:40:31,688 - inverted_index - INFO - 处理文件: 94c0f1c506ca2a1de93c8b0b666253a9.txt
+2025-06-03 14:40:31,689 - inverted_index - INFO - 文件 94c0f1c506ca2a1de93c8b0b666253a9.txt 处理完成
+2025-06-03 14:40:31,689 - inverted_index - INFO - 处理文件: 9527b0ae1f49fa51a0e72c8f0b20d7e5.txt
+2025-06-03 14:40:31,689 - inverted_index - INFO - 文件 9527b0ae1f49fa51a0e72c8f0b20d7e5.txt 处理完成
+2025-06-03 14:40:31,689 - inverted_index - INFO - 处理文件: 953a1c37f0555a50ca679942ae3eb1f7.txt
+2025-06-03 14:40:31,690 - inverted_index - INFO - 文件 953a1c37f0555a50ca679942ae3eb1f7.txt 处理完成
+2025-06-03 14:40:31,690 - inverted_index - INFO - 处理文件: 95524f292cb74d74a4d721ea843504ac.txt
+2025-06-03 14:40:31,690 - inverted_index - INFO - 文件 95524f292cb74d74a4d721ea843504ac.txt 处理完成
+2025-06-03 14:40:31,690 - inverted_index - INFO - 处理文件: 95a3b9206f57de174fbe012ce14ce202.txt
+2025-06-03 14:40:31,691 - inverted_index - INFO - 文件 95a3b9206f57de174fbe012ce14ce202.txt 处理完成
+2025-06-03 14:40:31,691 - inverted_index - INFO - 处理文件: 95dec6d4f990ebaa026b08e0b6010af1.txt
+2025-06-03 14:40:31,691 - inverted_index - INFO - 文件 95dec6d4f990ebaa026b08e0b6010af1.txt 处理完成
+2025-06-03 14:40:31,691 - inverted_index - INFO - 处理文件: 96c987828f2e90ddea8dabafed115615.txt
+2025-06-03 14:40:31,691 - inverted_index - INFO - 文件 96c987828f2e90ddea8dabafed115615.txt 处理完成
+2025-06-03 14:40:31,692 - inverted_index - INFO - 处理文件: 9746a527950d5409db02e020abe8cf69.txt
+2025-06-03 14:40:31,692 - inverted_index - INFO - 文件 9746a527950d5409db02e020abe8cf69.txt 处理完成
+2025-06-03 14:40:31,692 - inverted_index - INFO - 处理文件: 975cd45718fa23699807a2cdb1aae4e1.txt
+2025-06-03 14:40:31,692 - inverted_index - INFO - 文件 975cd45718fa23699807a2cdb1aae4e1.txt 处理完成
+2025-06-03 14:40:31,693 - inverted_index - INFO - 处理文件: 97767704cb572dc14387152e6ca6b62d.txt
+2025-06-03 14:40:31,693 - inverted_index - INFO - 文件 97767704cb572dc14387152e6ca6b62d.txt 处理完成
+2025-06-03 14:40:31,693 - inverted_index - INFO - 处理文件: 97a656231e21369b908054002a80d9cc.txt
+2025-06-03 14:40:31,693 - inverted_index - INFO - 文件 97a656231e21369b908054002a80d9cc.txt 处理完成
+2025-06-03 14:40:31,693 - inverted_index - INFO - 处理文件: 97aeec4a72ff636f94f5ed455899e26c.txt
+2025-06-03 14:40:31,694 - inverted_index - INFO - 文件 97aeec4a72ff636f94f5ed455899e26c.txt 处理完成
+2025-06-03 14:40:31,694 - inverted_index - INFO - 处理文件: 97d8ec0d1d32e227e0584e50513a9b87.txt
+2025-06-03 14:40:31,694 - inverted_index - INFO - 文件 97d8ec0d1d32e227e0584e50513a9b87.txt 处理完成
+2025-06-03 14:40:31,694 - inverted_index - INFO - 处理文件: 987b1efd0649d6dd95d60601b3d3a6cd.txt
+2025-06-03 14:40:31,695 - inverted_index - INFO - 文件 987b1efd0649d6dd95d60601b3d3a6cd.txt 处理完成
+2025-06-03 14:40:31,695 - inverted_index - INFO - 处理文件: 98d79e07ea7eb87402cc2a081f7d9620.txt
+2025-06-03 14:40:31,695 - inverted_index - INFO - 文件 98d79e07ea7eb87402cc2a081f7d9620.txt 处理完成
+2025-06-03 14:40:31,695 - inverted_index - INFO - 处理文件: 98f5937385ef31997139c420bbffeb22.txt
+2025-06-03 14:40:31,696 - inverted_index - INFO - 文件 98f5937385ef31997139c420bbffeb22.txt 处理完成
+2025-06-03 14:40:31,696 - inverted_index - INFO - 处理文件: 9945de61caf46779c03a323997728776.txt
+2025-06-03 14:40:31,696 - inverted_index - INFO - 文件 9945de61caf46779c03a323997728776.txt 处理完成
+2025-06-03 14:40:31,696 - inverted_index - INFO - 处理文件: 99c49f5e8758b6f3febb88349fdd5f38.txt
+2025-06-03 14:40:31,697 - inverted_index - INFO - 文件 99c49f5e8758b6f3febb88349fdd5f38.txt 处理完成
+2025-06-03 14:40:31,697 - inverted_index - INFO - 处理文件: 9ae3eeb220356f776d97cd2fc7517963.txt
+2025-06-03 14:40:31,697 - inverted_index - INFO - 文件 9ae3eeb220356f776d97cd2fc7517963.txt 处理完成
+2025-06-03 14:40:31,697 - inverted_index - INFO - 处理文件: 9b3932d16228ceab1f3fb69b7359b206.txt
+2025-06-03 14:40:31,699 - inverted_index - INFO - 文件 9b3932d16228ceab1f3fb69b7359b206.txt 处理完成
+2025-06-03 14:40:31,699 - inverted_index - INFO - 处理文件: 9b89496a5dd9e3080966589a07a1e0db.txt
+2025-06-03 14:40:31,699 - inverted_index - INFO - 文件 9b89496a5dd9e3080966589a07a1e0db.txt 处理完成
+2025-06-03 14:40:31,700 - inverted_index - INFO - 处理文件: 9bbef71facfaadeb697148a1d6623693.txt
+2025-06-03 14:40:31,700 - inverted_index - INFO - 文件 9bbef71facfaadeb697148a1d6623693.txt 处理完成
+2025-06-03 14:40:31,700 - inverted_index - INFO - 处理文件: 9becd58c10836967df2571614aa24eba.txt
+2025-06-03 14:40:31,701 - inverted_index - INFO - 文件 9becd58c10836967df2571614aa24eba.txt 处理完成
+2025-06-03 14:40:31,701 - inverted_index - INFO - 处理文件: 9bfeb43963247dc4738ae90afb664665.txt
+2025-06-03 14:40:31,701 - inverted_index - INFO - 文件 9bfeb43963247dc4738ae90afb664665.txt 处理完成
+2025-06-03 14:40:31,701 - inverted_index - INFO - 处理文件: 9c6a1f24442b7de177327db7217f8b6c.txt
+2025-06-03 14:40:31,701 - inverted_index - INFO - 文件 9c6a1f24442b7de177327db7217f8b6c.txt 处理完成
+2025-06-03 14:40:31,701 - inverted_index - INFO - 处理文件: 9c820df9fa83ced7118a59a9c0a48522.txt
+2025-06-03 14:40:31,701 - inverted_index - INFO - 文件 9c820df9fa83ced7118a59a9c0a48522.txt 处理完成
+2025-06-03 14:40:31,701 - inverted_index - INFO - 处理文件: 9c924576ecbddb13bf990238cd97fc62.txt
+2025-06-03 14:40:31,703 - inverted_index - INFO - 文件 9c924576ecbddb13bf990238cd97fc62.txt 处理完成
+2025-06-03 14:40:31,703 - inverted_index - INFO - 处理文件: 9c94ca5055f27773ba165a8cd156ea9d.txt
+2025-06-03 14:40:31,703 - inverted_index - INFO - 文件 9c94ca5055f27773ba165a8cd156ea9d.txt 处理完成
+2025-06-03 14:40:31,704 - inverted_index - INFO - 处理文件: 9d0cc7af8616bb8887a12abafad898e8.txt
+2025-06-03 14:40:31,704 - inverted_index - INFO - 文件 9d0cc7af8616bb8887a12abafad898e8.txt 处理完成
+2025-06-03 14:40:31,704 - inverted_index - INFO - 处理文件: 9d34af4f33e7e5d184209170d1b5266b.txt
+2025-06-03 14:40:31,705 - inverted_index - INFO - 文件 9d34af4f33e7e5d184209170d1b5266b.txt 处理完成
+2025-06-03 14:40:31,705 - inverted_index - INFO - 处理文件: 9d9f1a14a2409c6e5c96ddb4c01d00e1.txt
+2025-06-03 14:40:31,705 - inverted_index - INFO - 文件 9d9f1a14a2409c6e5c96ddb4c01d00e1.txt 处理完成
+2025-06-03 14:40:31,705 - inverted_index - INFO - 处理文件: 9dceeff6eea68c5898dc7400dc091b98.txt
+2025-06-03 14:40:31,706 - inverted_index - INFO - 文件 9dceeff6eea68c5898dc7400dc091b98.txt 处理完成
+2025-06-03 14:40:31,706 - inverted_index - INFO - 处理文件: 9e148458accd7a521739995fdd565319.txt
+2025-06-03 14:40:31,706 - inverted_index - INFO - 文件 9e148458accd7a521739995fdd565319.txt 处理完成
+2025-06-03 14:40:31,706 - inverted_index - INFO - 处理文件: 9e2d781de42310033bb11670a864bdad.txt
+2025-06-03 14:40:31,706 - inverted_index - INFO - 文件 9e2d781de42310033bb11670a864bdad.txt 处理完成
+2025-06-03 14:40:31,706 - inverted_index - INFO - 处理文件: 9e404420ac7cfb5d229b6f1b3b8a25e0.txt
+2025-06-03 14:40:31,707 - inverted_index - INFO - 文件 9e404420ac7cfb5d229b6f1b3b8a25e0.txt 处理完成
+2025-06-03 14:40:31,707 - inverted_index - INFO - 处理文件: 9e75c3fb673da1815c022e2ac3f9fdb5.txt
+2025-06-03 14:40:31,707 - inverted_index - INFO - 文件 9e75c3fb673da1815c022e2ac3f9fdb5.txt 处理完成
+2025-06-03 14:40:31,707 - inverted_index - INFO - 处理文件: 9f25aea1b09317264f4a2641fc0fa998.txt
+2025-06-03 14:40:31,707 - inverted_index - INFO - 文件 9f25aea1b09317264f4a2641fc0fa998.txt 处理完成
+2025-06-03 14:40:31,708 - inverted_index - INFO - 处理文件: 9f8230bdc48e066a3530f9d05dad5bc5.txt
+2025-06-03 14:40:31,708 - inverted_index - INFO - 文件 9f8230bdc48e066a3530f9d05dad5bc5.txt 处理完成
+2025-06-03 14:40:31,708 - inverted_index - INFO - 处理文件: 9f8bc4219255e44222a01c74c3162643.txt
+2025-06-03 14:40:31,708 - inverted_index - INFO - 文件 9f8bc4219255e44222a01c74c3162643.txt 处理完成
+2025-06-03 14:40:31,709 - inverted_index - INFO - 处理文件: 9fb2b7d5f3ec8c5d47862b952d6220ba.txt
+2025-06-03 14:40:31,709 - inverted_index - INFO - 文件 9fb2b7d5f3ec8c5d47862b952d6220ba.txt 处理完成
+2025-06-03 14:40:31,709 - inverted_index - INFO - 处理文件: a045ebe3a865b4c8011ae7304a2ae6ea.txt
+2025-06-03 14:40:31,709 - inverted_index - INFO - 文件 a045ebe3a865b4c8011ae7304a2ae6ea.txt 处理完成
+2025-06-03 14:40:31,709 - inverted_index - INFO - 处理文件: a073d6e3a576288a4e804b937eac4621.txt
+2025-06-03 14:40:31,710 - inverted_index - INFO - 文件 a073d6e3a576288a4e804b937eac4621.txt 处理完成
+2025-06-03 14:40:31,710 - inverted_index - INFO - 处理文件: a113ed6ed8469afe245976e505648367.txt
+2025-06-03 14:40:31,710 - inverted_index - INFO - 文件 a113ed6ed8469afe245976e505648367.txt 处理完成
+2025-06-03 14:40:31,710 - inverted_index - INFO - 处理文件: a2a2b42970e6fbeec99335805251f286.txt
+2025-06-03 14:40:31,711 - inverted_index - INFO - 文件 a2a2b42970e6fbeec99335805251f286.txt 处理完成
+2025-06-03 14:40:31,711 - inverted_index - INFO - 处理文件: a2eb96a68b70ec464ab15654660d7c55.txt
+2025-06-03 14:40:31,711 - inverted_index - INFO - 文件 a2eb96a68b70ec464ab15654660d7c55.txt 处理完成
+2025-06-03 14:40:31,711 - inverted_index - INFO - 处理文件: a30206b6c41396db7191ed7cbf0453ef.txt
+2025-06-03 14:40:31,711 - inverted_index - INFO - 文件 a30206b6c41396db7191ed7cbf0453ef.txt 处理完成
+2025-06-03 14:40:31,711 - inverted_index - INFO - 处理文件: a357f6788710f7a65b67243f7776524f.txt
+2025-06-03 14:40:31,712 - inverted_index - INFO - 文件 a357f6788710f7a65b67243f7776524f.txt 处理完成
+2025-06-03 14:40:31,712 - inverted_index - INFO - 处理文件: a37bacbf5f769048a0b72557fc28aedc.txt
+2025-06-03 14:40:31,712 - inverted_index - INFO - 文件 a37bacbf5f769048a0b72557fc28aedc.txt 处理完成
+2025-06-03 14:40:31,712 - inverted_index - INFO - 处理文件: a40770d3af18b57a09b2c63e40beba1e.txt
+2025-06-03 14:40:31,713 - inverted_index - INFO - 文件 a40770d3af18b57a09b2c63e40beba1e.txt 处理完成
+2025-06-03 14:40:31,713 - inverted_index - INFO - 处理文件: a42e962668ca91c3f97ab3b6550d07e0.txt
+2025-06-03 14:40:31,713 - inverted_index - INFO - 文件 a42e962668ca91c3f97ab3b6550d07e0.txt 处理完成
+2025-06-03 14:40:31,713 - inverted_index - INFO - 处理文件: a4326bee2e4dc89e0dc666527d072a4f.txt
+2025-06-03 14:40:31,714 - inverted_index - INFO - 文件 a4326bee2e4dc89e0dc666527d072a4f.txt 处理完成
+2025-06-03 14:40:31,714 - inverted_index - INFO - 处理文件: a4800dda363bbc63f158e1b3ff8365c2.txt
+2025-06-03 14:40:31,714 - inverted_index - INFO - 文件 a4800dda363bbc63f158e1b3ff8365c2.txt 处理完成
+2025-06-03 14:40:31,714 - inverted_index - INFO - 处理文件: a4fbe466c0c510aef1f7812164a79c47.txt
+2025-06-03 14:40:31,715 - inverted_index - INFO - 文件 a4fbe466c0c510aef1f7812164a79c47.txt 处理完成
+2025-06-03 14:40:31,715 - inverted_index - INFO - 处理文件: a51970a96c1d59fcfc2cc8b0a47bb033.txt
+2025-06-03 14:40:31,715 - inverted_index - INFO - 文件 a51970a96c1d59fcfc2cc8b0a47bb033.txt 处理完成
+2025-06-03 14:40:31,715 - inverted_index - INFO - 处理文件: a51afd689abf67f46303ba11b05c5eab.txt
+2025-06-03 14:40:31,715 - inverted_index - INFO - 文件 a51afd689abf67f46303ba11b05c5eab.txt 处理完成
+2025-06-03 14:40:31,715 - inverted_index - INFO - 处理文件: a51e98f9bd827bdaa156406bc121ad0d.txt
+2025-06-03 14:40:31,715 - inverted_index - INFO - 文件 a51e98f9bd827bdaa156406bc121ad0d.txt 处理完成
+2025-06-03 14:40:31,716 - inverted_index - INFO - 处理文件: a5c5ebf41ab5d665b8209a184704ba9f.txt
+2025-06-03 14:40:31,716 - inverted_index - INFO - 文件 a5c5ebf41ab5d665b8209a184704ba9f.txt 处理完成
+2025-06-03 14:40:31,716 - inverted_index - INFO - 处理文件: a60748fe308225317f93474b0255db9c.txt
+2025-06-03 14:40:31,718 - inverted_index - INFO - 文件 a60748fe308225317f93474b0255db9c.txt 处理完成
+2025-06-03 14:40:31,718 - inverted_index - INFO - 处理文件: a6245f0fb8a334b68a50c9fe76560243.txt
+2025-06-03 14:40:31,718 - inverted_index - INFO - 文件 a6245f0fb8a334b68a50c9fe76560243.txt 处理完成
+2025-06-03 14:40:31,719 - inverted_index - INFO - 处理文件: a625e60fd31d6abf4b98b369a7e8a8a0.txt
+2025-06-03 14:40:31,719 - inverted_index - INFO - 文件 a625e60fd31d6abf4b98b369a7e8a8a0.txt 处理完成
+2025-06-03 14:40:31,719 - inverted_index - INFO - 处理文件: a6356da27f350494dcd672b74cc3ec69.txt
+2025-06-03 14:40:31,719 - inverted_index - INFO - 文件 a6356da27f350494dcd672b74cc3ec69.txt 处理完成
+2025-06-03 14:40:31,719 - inverted_index - INFO - 处理文件: a6708d05eacb888037cf1c2e24963e3e.txt
+2025-06-03 14:40:31,720 - inverted_index - INFO - 文件 a6708d05eacb888037cf1c2e24963e3e.txt 处理完成
+2025-06-03 14:40:31,720 - inverted_index - INFO - 处理文件: a6a066864005fdb7eb7721dbd0c51973.txt
+2025-06-03 14:40:31,720 - inverted_index - INFO - 文件 a6a066864005fdb7eb7721dbd0c51973.txt 处理完成
+2025-06-03 14:40:31,720 - inverted_index - INFO - 处理文件: a6ca35e614447771806ecddba8752a42.txt
+2025-06-03 14:40:31,720 - inverted_index - INFO - 文件 a6ca35e614447771806ecddba8752a42.txt 处理完成
+2025-06-03 14:40:31,720 - inverted_index - INFO - 处理文件: a6efdee2659d1b5ede27231337b81be2.txt
+2025-06-03 14:40:31,720 - inverted_index - INFO - 文件 a6efdee2659d1b5ede27231337b81be2.txt 处理完成
+2025-06-03 14:40:31,720 - inverted_index - INFO - 处理文件: a727e1f5c3d169f0f5111486c16f1650.txt
+2025-06-03 14:40:31,720 - inverted_index - INFO - 文件 a727e1f5c3d169f0f5111486c16f1650.txt 处理完成
+2025-06-03 14:40:31,720 - inverted_index - INFO - 处理文件: a7463bcf8a12a67835ef3364b911257b.txt
+2025-06-03 14:40:31,720 - inverted_index - INFO - 文件 a7463bcf8a12a67835ef3364b911257b.txt 处理完成
+2025-06-03 14:40:31,721 - inverted_index - INFO - 处理文件: a7989e0010620d039452e840a1480563.txt
+2025-06-03 14:40:31,721 - inverted_index - INFO - 文件 a7989e0010620d039452e840a1480563.txt 处理完成
+2025-06-03 14:40:31,721 - inverted_index - INFO - 处理文件: a7b46e57a42a914f43b881fe41088523.txt
+2025-06-03 14:40:31,721 - inverted_index - INFO - 文件 a7b46e57a42a914f43b881fe41088523.txt 处理完成
+2025-06-03 14:40:31,722 - inverted_index - INFO - 处理文件: a7dbef2ef8894503bf22f02219c7b1a3.txt
+2025-06-03 14:40:31,722 - inverted_index - INFO - 文件 a7dbef2ef8894503bf22f02219c7b1a3.txt 处理完成
+2025-06-03 14:40:31,722 - inverted_index - INFO - 处理文件: a84d1c46760c382917223a7a1d38916b.txt
+2025-06-03 14:40:31,722 - inverted_index - INFO - 文件 a84d1c46760c382917223a7a1d38916b.txt 处理完成
+2025-06-03 14:40:31,723 - inverted_index - INFO - 处理文件: a85ef8967474a8ab56cef42717d31934.txt
+2025-06-03 14:40:31,723 - inverted_index - INFO - 文件 a85ef8967474a8ab56cef42717d31934.txt 处理完成
+2025-06-03 14:40:31,723 - inverted_index - INFO - 处理文件: a866c8fe351316efcefc6facf43cb286.txt
+2025-06-03 14:40:31,723 - inverted_index - INFO - 文件 a866c8fe351316efcefc6facf43cb286.txt 处理完成
+2025-06-03 14:40:31,725 - inverted_index - INFO - 处理文件: a88501805b961651fc9e586627da4c53.txt
+2025-06-03 14:40:31,725 - inverted_index - INFO - 文件 a88501805b961651fc9e586627da4c53.txt 处理完成
+2025-06-03 14:40:31,725 - inverted_index - INFO - 处理文件: a885f43eb2dda57be1538a5cf42b84a8.txt
+2025-06-03 14:40:31,725 - inverted_index - INFO - 文件 a885f43eb2dda57be1538a5cf42b84a8.txt 处理完成
+2025-06-03 14:40:31,725 - inverted_index - INFO - 处理文件: a8a7621b63a8de1b0c597fe4a9ab148c.txt
+2025-06-03 14:40:31,725 - inverted_index - INFO - 文件 a8a7621b63a8de1b0c597fe4a9ab148c.txt 处理完成
+2025-06-03 14:40:31,725 - inverted_index - INFO - 处理文件: a8c8acf947edfd2c5ea8f5b6eb14425a.txt
+2025-06-03 14:40:31,725 - inverted_index - INFO - 文件 a8c8acf947edfd2c5ea8f5b6eb14425a.txt 处理完成
+2025-06-03 14:40:31,725 - inverted_index - INFO - 处理文件: a8e4884417885e9e6a04412ef80fc4e9.txt
+2025-06-03 14:40:31,725 - inverted_index - INFO - 文件 a8e4884417885e9e6a04412ef80fc4e9.txt 处理完成
+2025-06-03 14:40:31,725 - inverted_index - INFO - 处理文件: a90ae433d06a7e841080ae6064ee37d2.txt
+2025-06-03 14:40:31,725 - inverted_index - INFO - 文件 a90ae433d06a7e841080ae6064ee37d2.txt 处理完成
+2025-06-03 14:40:31,725 - inverted_index - INFO - 处理文件: a97e2aee8688d3ee41c1e4223342d337.txt
+2025-06-03 14:40:31,725 - inverted_index - INFO - 文件 a97e2aee8688d3ee41c1e4223342d337.txt 处理完成
+2025-06-03 14:40:31,727 - inverted_index - INFO - 处理文件: a9c535dcef33f44dd9dcb22ccca68d85.txt
+2025-06-03 14:40:31,727 - inverted_index - INFO - 文件 a9c535dcef33f44dd9dcb22ccca68d85.txt 处理完成
+2025-06-03 14:40:31,727 - inverted_index - INFO - 处理文件: aa29334245325e7f752c6f19be368d68.txt
+2025-06-03 14:40:31,728 - inverted_index - INFO - 文件 aa29334245325e7f752c6f19be368d68.txt 处理完成
+2025-06-03 14:40:31,728 - inverted_index - INFO - 处理文件: aa3737bf232b6cc4995b961c8b9fdb6a.txt
+2025-06-03 14:40:31,728 - inverted_index - INFO - 文件 aa3737bf232b6cc4995b961c8b9fdb6a.txt 处理完成
+2025-06-03 14:40:31,728 - inverted_index - INFO - 处理文件: aa3ff9c5a0cf85f440316377cdccf220.txt
+2025-06-03 14:40:31,729 - inverted_index - INFO - 文件 aa3ff9c5a0cf85f440316377cdccf220.txt 处理完成
+2025-06-03 14:40:31,729 - inverted_index - INFO - 处理文件: aa640e5a253ed4582242ab156b30f4ca.txt
+2025-06-03 14:40:31,729 - inverted_index - INFO - 文件 aa640e5a253ed4582242ab156b30f4ca.txt 处理完成
+2025-06-03 14:40:31,729 - inverted_index - INFO - 处理文件: aaf13d8319bc1f88f36cb2e7dedbb744.txt
+2025-06-03 14:40:31,729 - inverted_index - INFO - 文件 aaf13d8319bc1f88f36cb2e7dedbb744.txt 处理完成
+2025-06-03 14:40:31,730 - inverted_index - INFO - 处理文件: aba60fe7557769b21d5fc2921b561c51.txt
+2025-06-03 14:40:31,730 - inverted_index - INFO - 文件 aba60fe7557769b21d5fc2921b561c51.txt 处理完成
+2025-06-03 14:40:31,730 - inverted_index - INFO - 处理文件: ac850184c387e8defa0eff4703f1e1f9.txt
+2025-06-03 14:40:31,730 - inverted_index - INFO - 文件 ac850184c387e8defa0eff4703f1e1f9.txt 处理完成
+2025-06-03 14:40:31,730 - inverted_index - INFO - 处理文件: accfdd650c6652bfac6f6470cfbbfe11.txt
+2025-06-03 14:40:31,731 - inverted_index - INFO - 文件 accfdd650c6652bfac6f6470cfbbfe11.txt 处理完成
+2025-06-03 14:40:31,731 - inverted_index - INFO - 处理文件: ad0d76c127d51f1d2a14b8289c9135ea.txt
+2025-06-03 14:40:31,732 - inverted_index - INFO - 文件 ad0d76c127d51f1d2a14b8289c9135ea.txt 处理完成
+2025-06-03 14:40:31,732 - inverted_index - INFO - 处理文件: ad31cdb919db6ca56b3043d785c389bf.txt
+2025-06-03 14:40:31,732 - inverted_index - INFO - 文件 ad31cdb919db6ca56b3043d785c389bf.txt 处理完成
+2025-06-03 14:40:31,733 - inverted_index - INFO - 处理文件: ad391dc5c820ecb91b5a53e5fdcede28.txt
+2025-06-03 14:40:31,733 - inverted_index - INFO - 文件 ad391dc5c820ecb91b5a53e5fdcede28.txt 处理完成
+2025-06-03 14:40:31,733 - inverted_index - INFO - 处理文件: ad43328837aaaa0f4aa93518f73ecb32.txt
+2025-06-03 14:40:31,734 - inverted_index - INFO - 文件 ad43328837aaaa0f4aa93518f73ecb32.txt 处理完成
+2025-06-03 14:40:31,734 - inverted_index - INFO - 处理文件: adc9bbd5eb21c82ee0852402647349e2.txt
+2025-06-03 14:40:31,734 - inverted_index - INFO - 文件 adc9bbd5eb21c82ee0852402647349e2.txt 处理完成
+2025-06-03 14:40:31,735 - inverted_index - INFO - 处理文件: adde4c54d5027a6f10e11a5197a8391a.txt
+2025-06-03 14:40:31,735 - inverted_index - INFO - 文件 adde4c54d5027a6f10e11a5197a8391a.txt 处理完成
+2025-06-03 14:40:31,735 - inverted_index - INFO - 处理文件: ae1dfb90ebd2fa39cee52c91f054c07c.txt
+2025-06-03 14:40:31,735 - inverted_index - INFO - 文件 ae1dfb90ebd2fa39cee52c91f054c07c.txt 处理完成
+2025-06-03 14:40:31,735 - inverted_index - INFO - 处理文件: ae38b9e8968c75d4cdc6e8127bd9993f.txt
+2025-06-03 14:40:31,736 - inverted_index - INFO - 文件 ae38b9e8968c75d4cdc6e8127bd9993f.txt 处理完成
+2025-06-03 14:40:31,736 - inverted_index - INFO - 处理文件: aea1ea7e666dc727db706074b95cf1af.txt
+2025-06-03 14:40:31,736 - inverted_index - INFO - 文件 aea1ea7e666dc727db706074b95cf1af.txt 处理完成
+2025-06-03 14:40:31,736 - inverted_index - INFO - 处理文件: aeebf1e5a2a969d1838ed275bb96455c.txt
+2025-06-03 14:40:31,736 - inverted_index - INFO - 文件 aeebf1e5a2a969d1838ed275bb96455c.txt 处理完成
+2025-06-03 14:40:31,737 - inverted_index - INFO - 处理文件: af6c6665c42b957f4f051b7d9ff17676.txt
+2025-06-03 14:40:31,737 - inverted_index - INFO - 文件 af6c6665c42b957f4f051b7d9ff17676.txt 处理完成
+2025-06-03 14:40:31,737 - inverted_index - INFO - 处理文件: afa946ad6acc01c8c31b78621d1f4467.txt
+2025-06-03 14:40:31,737 - inverted_index - INFO - 文件 afa946ad6acc01c8c31b78621d1f4467.txt 处理完成
+2025-06-03 14:40:31,738 - inverted_index - INFO - 处理文件: b013203c0497d896d61fb11f588656ed.txt
+2025-06-03 14:40:31,738 - inverted_index - INFO - 文件 b013203c0497d896d61fb11f588656ed.txt 处理完成
+2025-06-03 14:40:31,738 - inverted_index - INFO - 处理文件: b0fae9f42d349a9e13da1cccc00d0293.txt
+2025-06-03 14:40:31,738 - inverted_index - INFO - 文件 b0fae9f42d349a9e13da1cccc00d0293.txt 处理完成
+2025-06-03 14:40:31,738 - inverted_index - INFO - 处理文件: b151c7cb3a0ca2ba555ad634c1639882.txt
+2025-06-03 14:40:31,739 - inverted_index - INFO - 文件 b151c7cb3a0ca2ba555ad634c1639882.txt 处理完成
+2025-06-03 14:40:31,739 - inverted_index - INFO - 处理文件: b176004a57cbcd8db85a9cb1af0bb0b5.txt
+2025-06-03 14:40:31,739 - inverted_index - INFO - 文件 b176004a57cbcd8db85a9cb1af0bb0b5.txt 处理完成
+2025-06-03 14:40:31,739 - inverted_index - INFO - 处理文件: b17f3296ddde0ece15b3e7670b4c376f.txt
+2025-06-03 14:40:31,739 - inverted_index - INFO - 文件 b17f3296ddde0ece15b3e7670b4c376f.txt 处理完成
+2025-06-03 14:40:31,739 - inverted_index - INFO - 处理文件: b1817024a3bbe657ca2774ed7419af38.txt
+2025-06-03 14:40:31,740 - inverted_index - INFO - 文件 b1817024a3bbe657ca2774ed7419af38.txt 处理完成
+2025-06-03 14:40:31,740 - inverted_index - INFO - 处理文件: b24bdc553448b5383dd234a9f5d48ed8.txt
+2025-06-03 14:40:31,740 - inverted_index - INFO - 文件 b24bdc553448b5383dd234a9f5d48ed8.txt 处理完成
+2025-06-03 14:40:31,740 - inverted_index - INFO - 处理文件: b264b1f6e771b68bfe97ac7ee677db1a.txt
+2025-06-03 14:40:31,740 - inverted_index - INFO - 文件 b264b1f6e771b68bfe97ac7ee677db1a.txt 处理完成
+2025-06-03 14:40:31,740 - inverted_index - INFO - 处理文件: b2c03d7c0ac1e66ca32db22d41302241.txt
+2025-06-03 14:40:31,741 - inverted_index - INFO - 文件 b2c03d7c0ac1e66ca32db22d41302241.txt 处理完成
+2025-06-03 14:40:31,741 - inverted_index - INFO - 处理文件: b3eab1741702dda690b0c5362bf88422.txt
+2025-06-03 14:40:31,741 - inverted_index - INFO - 文件 b3eab1741702dda690b0c5362bf88422.txt 处理完成
+2025-06-03 14:40:31,741 - inverted_index - INFO - 处理文件: b40058b5d685d498ca60643e23308913.txt
+2025-06-03 14:40:31,741 - inverted_index - INFO - 文件 b40058b5d685d498ca60643e23308913.txt 处理完成
+2025-06-03 14:40:31,741 - inverted_index - INFO - 处理文件: b40f1034361567d9df4adac6362bbd39.txt
+2025-06-03 14:40:31,742 - inverted_index - INFO - 文件 b40f1034361567d9df4adac6362bbd39.txt 处理完成
+2025-06-03 14:40:31,742 - inverted_index - INFO - 处理文件: b47a52150768e6526eea92b3225da50d.txt
+2025-06-03 14:40:31,742 - inverted_index - INFO - 文件 b47a52150768e6526eea92b3225da50d.txt 处理完成
+2025-06-03 14:40:31,742 - inverted_index - INFO - 处理文件: b5018e8c336fd00d129ad65f7a72294d.txt
+2025-06-03 14:40:31,743 - inverted_index - INFO - 文件 b5018e8c336fd00d129ad65f7a72294d.txt 处理完成
+2025-06-03 14:40:31,743 - inverted_index - INFO - 处理文件: b5057cd4388ff3e026c8b47f3b6eb859.txt
+2025-06-03 14:40:31,743 - inverted_index - INFO - 文件 b5057cd4388ff3e026c8b47f3b6eb859.txt 处理完成
+2025-06-03 14:40:31,743 - inverted_index - INFO - 处理文件: b58ddd55f8b6e3eff4ed38fcbfa044b1.txt
+2025-06-03 14:40:31,743 - inverted_index - INFO - 文件 b58ddd55f8b6e3eff4ed38fcbfa044b1.txt 处理完成
+2025-06-03 14:40:31,744 - inverted_index - INFO - 处理文件: b5a495cf4a4abcee4188233f512250eb.txt
+2025-06-03 14:40:31,744 - inverted_index - INFO - 文件 b5a495cf4a4abcee4188233f512250eb.txt 处理完成
+2025-06-03 14:40:31,744 - inverted_index - INFO - 处理文件: b5d074bf9f99fdadb398a9e9b3cbfb45.txt
+2025-06-03 14:40:31,744 - inverted_index - INFO - 文件 b5d074bf9f99fdadb398a9e9b3cbfb45.txt 处理完成
+2025-06-03 14:40:31,744 - inverted_index - INFO - 处理文件: b60be28ce76d1211a4d185d89335f8de.txt
+2025-06-03 14:40:31,744 - inverted_index - INFO - 文件 b60be28ce76d1211a4d185d89335f8de.txt 处理完成
+2025-06-03 14:40:31,745 - inverted_index - INFO - 处理文件: b73c5ab83d3247dc291e8b154fed9575.txt
+2025-06-03 14:40:31,745 - inverted_index - INFO - 文件 b73c5ab83d3247dc291e8b154fed9575.txt 处理完成
+2025-06-03 14:40:31,745 - inverted_index - INFO - 处理文件: b7609b5c04bbc16d74036960d8cf36e2.txt
+2025-06-03 14:40:31,745 - inverted_index - INFO - 文件 b7609b5c04bbc16d74036960d8cf36e2.txt 处理完成
+2025-06-03 14:40:31,745 - inverted_index - INFO - 处理文件: b76b1d0e0bcac9a78aff8ed002ab5735.txt
+2025-06-03 14:40:31,745 - inverted_index - INFO - 文件 b76b1d0e0bcac9a78aff8ed002ab5735.txt 处理完成
+2025-06-03 14:40:31,746 - inverted_index - INFO - 处理文件: b791ca398ca6ad6e59d390f134d3d8d4.txt
+2025-06-03 14:40:31,746 - inverted_index - INFO - 文件 b791ca398ca6ad6e59d390f134d3d8d4.txt 处理完成
+2025-06-03 14:40:31,746 - inverted_index - INFO - 处理文件: b7a083827cb2c35ec064981e1aba5654.txt
+2025-06-03 14:40:31,746 - inverted_index - INFO - 文件 b7a083827cb2c35ec064981e1aba5654.txt 处理完成
+2025-06-03 14:40:31,746 - inverted_index - INFO - 处理文件: b7b1054b857e37c03c1e265946dd17c2.txt
+2025-06-03 14:40:31,746 - inverted_index - INFO - 文件 b7b1054b857e37c03c1e265946dd17c2.txt 处理完成
+2025-06-03 14:40:31,747 - inverted_index - INFO - 处理文件: b7b70f3bdebc131cc2ce60b504a5c225.txt
+2025-06-03 14:40:31,747 - inverted_index - INFO - 文件 b7b70f3bdebc131cc2ce60b504a5c225.txt 处理完成
+2025-06-03 14:40:31,747 - inverted_index - INFO - 处理文件: b8c7a08b44db490b68d7f6bc2fea3705.txt
+2025-06-03 14:40:31,747 - inverted_index - INFO - 文件 b8c7a08b44db490b68d7f6bc2fea3705.txt 处理完成
+2025-06-03 14:40:31,748 - inverted_index - INFO - 处理文件: b8c7b8eb215df91c9bc4291433b6381f.txt
+2025-06-03 14:40:31,749 - inverted_index - INFO - 文件 b8c7b8eb215df91c9bc4291433b6381f.txt 处理完成
+2025-06-03 14:40:31,749 - inverted_index - INFO - 处理文件: b8cfbb2c59dbbc8ff15324826134da25.txt
+2025-06-03 14:40:31,750 - inverted_index - INFO - 文件 b8cfbb2c59dbbc8ff15324826134da25.txt 处理完成
+2025-06-03 14:40:31,750 - inverted_index - INFO - 处理文件: b8f4e634bc010852785e53ff0e63387f.txt
+2025-06-03 14:40:31,750 - inverted_index - INFO - 文件 b8f4e634bc010852785e53ff0e63387f.txt 处理完成
+2025-06-03 14:40:31,751 - inverted_index - INFO - 处理文件: b92a06f39110041722bb155102e6e47e.txt
+2025-06-03 14:40:31,751 - inverted_index - INFO - 文件 b92a06f39110041722bb155102e6e47e.txt 处理完成
+2025-06-03 14:40:31,751 - inverted_index - INFO - 处理文件: b9386d6676e6277ed38388065aca83ab.txt
+2025-06-03 14:40:31,752 - inverted_index - INFO - 文件 b9386d6676e6277ed38388065aca83ab.txt 处理完成
+2025-06-03 14:40:31,752 - inverted_index - INFO - 处理文件: b9763f24837d75bf75a103adb21fd6e3.txt
+2025-06-03 14:40:31,752 - inverted_index - INFO - 文件 b9763f24837d75bf75a103adb21fd6e3.txt 处理完成
+2025-06-03 14:40:31,753 - inverted_index - INFO - 处理文件: b9a35da73ae1d68bf6a0d2194b851637.txt
+2025-06-03 14:40:31,753 - inverted_index - INFO - 文件 b9a35da73ae1d68bf6a0d2194b851637.txt 处理完成
+2025-06-03 14:40:31,753 - inverted_index - INFO - 处理文件: b9a71442d5ecc8733b8ca39eadda3488.txt
+2025-06-03 14:40:31,753 - inverted_index - INFO - 文件 b9a71442d5ecc8733b8ca39eadda3488.txt 处理完成
+2025-06-03 14:40:31,754 - inverted_index - INFO - 处理文件: ba2a3c26b7b14d3f063a34c99ba5fdb9.txt
+2025-06-03 14:40:31,754 - inverted_index - INFO - 文件 ba2a3c26b7b14d3f063a34c99ba5fdb9.txt 处理完成
+2025-06-03 14:40:31,754 - inverted_index - INFO - 处理文件: ba3a0ba7b5252cf55747ea76ee55c74c.txt
+2025-06-03 14:40:31,754 - inverted_index - INFO - 文件 ba3a0ba7b5252cf55747ea76ee55c74c.txt 处理完成
+2025-06-03 14:40:31,755 - inverted_index - INFO - 处理文件: baaf1487120e590b2d6b1236bd95270b.txt
+2025-06-03 14:40:31,755 - inverted_index - INFO - 文件 baaf1487120e590b2d6b1236bd95270b.txt 处理完成
+2025-06-03 14:40:31,755 - inverted_index - INFO - 处理文件: bacaee8b66d4169616b23d44a97ae1cf.txt
+2025-06-03 14:40:31,755 - inverted_index - INFO - 文件 bacaee8b66d4169616b23d44a97ae1cf.txt 处理完成
+2025-06-03 14:40:31,755 - inverted_index - INFO - 处理文件: bacda5a36c3ab96e048031c304eb3248.txt
+2025-06-03 14:40:31,756 - inverted_index - INFO - 文件 bacda5a36c3ab96e048031c304eb3248.txt 处理完成
+2025-06-03 14:40:31,756 - inverted_index - INFO - 处理文件: bae2586d45446e0cf82917c3f5f010b0.txt
+2025-06-03 14:40:31,756 - inverted_index - INFO - 文件 bae2586d45446e0cf82917c3f5f010b0.txt 处理完成
+2025-06-03 14:40:31,756 - inverted_index - INFO - 处理文件: bafcccf1abc3b8afa9b7181c300bb527.txt
+2025-06-03 14:40:31,756 - inverted_index - INFO - 文件 bafcccf1abc3b8afa9b7181c300bb527.txt 处理完成
+2025-06-03 14:40:31,756 - inverted_index - INFO - 处理文件: bb372766b9b359a153d53c56c2230b9d.txt
+2025-06-03 14:40:31,757 - inverted_index - INFO - 文件 bb372766b9b359a153d53c56c2230b9d.txt 处理完成
+2025-06-03 14:40:31,757 - inverted_index - INFO - 处理文件: bb72a1a62a8acd39d3fbdccf0bebe087.txt
+2025-06-03 14:40:31,757 - inverted_index - INFO - 文件 bb72a1a62a8acd39d3fbdccf0bebe087.txt 处理完成
+2025-06-03 14:40:31,758 - inverted_index - INFO - 处理文件: bb7ca66bd8f367df6c7bb1d90c148307.txt
+2025-06-03 14:40:31,758 - inverted_index - INFO - 文件 bb7ca66bd8f367df6c7bb1d90c148307.txt 处理完成
+2025-06-03 14:40:31,758 - inverted_index - INFO - 处理文件: bc992f6153ab4e292e9ec8c8e30a265b.txt
+2025-06-03 14:40:31,758 - inverted_index - INFO - 文件 bc992f6153ab4e292e9ec8c8e30a265b.txt 处理完成
+2025-06-03 14:40:31,759 - inverted_index - INFO - 处理文件: bcd714db0407b55d9ed68c6e0259f402.txt
+2025-06-03 14:40:31,759 - inverted_index - INFO - 文件 bcd714db0407b55d9ed68c6e0259f402.txt 处理完成
+2025-06-03 14:40:31,759 - inverted_index - INFO - 处理文件: bcee0c87093779521eab3c8d2710e145.txt
+2025-06-03 14:40:31,759 - inverted_index - INFO - 文件 bcee0c87093779521eab3c8d2710e145.txt 处理完成
+2025-06-03 14:40:31,759 - inverted_index - INFO - 处理文件: bd33f04aa7190b95b334a8b9f9885ac8.txt
+2025-06-03 14:40:31,760 - inverted_index - INFO - 文件 bd33f04aa7190b95b334a8b9f9885ac8.txt 处理完成
+2025-06-03 14:40:31,760 - inverted_index - INFO - 处理文件: bd389f2801e15f79de7df0318a040f77.txt
+2025-06-03 14:40:31,760 - inverted_index - INFO - 文件 bd389f2801e15f79de7df0318a040f77.txt 处理完成
+2025-06-03 14:40:31,760 - inverted_index - INFO - 处理文件: bd57b6caee8e588b915889be25dbc860.txt
+2025-06-03 14:40:31,760 - inverted_index - INFO - 文件 bd57b6caee8e588b915889be25dbc860.txt 处理完成
+2025-06-03 14:40:31,760 - inverted_index - INFO - 处理文件: bd591b17752ef665dade5b2b55686170.txt
+2025-06-03 14:40:31,761 - inverted_index - INFO - 文件 bd591b17752ef665dade5b2b55686170.txt 处理完成
+2025-06-03 14:40:31,761 - inverted_index - INFO - 处理文件: bd59f807e02c242ea69465d7498ad1f2.txt
+2025-06-03 14:40:31,761 - inverted_index - INFO - 文件 bd59f807e02c242ea69465d7498ad1f2.txt 处理完成
+2025-06-03 14:40:31,761 - inverted_index - INFO - 处理文件: be0bf762f6cd020c83e3a9e55d78cd1d.txt
+2025-06-03 14:40:31,761 - inverted_index - INFO - 文件 be0bf762f6cd020c83e3a9e55d78cd1d.txt 处理完成
+2025-06-03 14:40:31,761 - inverted_index - INFO - 处理文件: be3e96e6e8943564af14a9ea4b7b37d7.txt
+2025-06-03 14:40:31,762 - inverted_index - INFO - 文件 be3e96e6e8943564af14a9ea4b7b37d7.txt 处理完成
+2025-06-03 14:40:31,762 - inverted_index - INFO - 处理文件: be856be3af7618bb98c9aba77d9f16d8.txt
+2025-06-03 14:40:31,762 - inverted_index - INFO - 文件 be856be3af7618bb98c9aba77d9f16d8.txt 处理完成
+2025-06-03 14:40:31,762 - inverted_index - INFO - 处理文件: be89040ac9cee453652f64cdb33024fd.txt
+2025-06-03 14:40:31,763 - inverted_index - INFO - 文件 be89040ac9cee453652f64cdb33024fd.txt 处理完成
+2025-06-03 14:40:31,763 - inverted_index - INFO - 处理文件: bf438e511d8ac959fa2af51a9c738e38.txt
+2025-06-03 14:40:31,763 - inverted_index - INFO - 文件 bf438e511d8ac959fa2af51a9c738e38.txt 处理完成
+2025-06-03 14:40:31,763 - inverted_index - INFO - 处理文件: bf6391e4657336ab58a7582519ce4dc0.txt
+2025-06-03 14:40:31,763 - inverted_index - INFO - 文件 bf6391e4657336ab58a7582519ce4dc0.txt 处理完成
+2025-06-03 14:40:31,764 - inverted_index - INFO - 处理文件: bf7e523f2dc743f3ad1c3817fc80b479.txt
+2025-06-03 14:40:31,764 - inverted_index - INFO - 文件 bf7e523f2dc743f3ad1c3817fc80b479.txt 处理完成
+2025-06-03 14:40:31,764 - inverted_index - INFO - 处理文件: bf95f7b88611b28b8a81d52511e0b7d1.txt
+2025-06-03 14:40:31,765 - inverted_index - INFO - 文件 bf95f7b88611b28b8a81d52511e0b7d1.txt 处理完成
+2025-06-03 14:40:31,765 - inverted_index - INFO - 处理文件: bfa5296f0dbbdfb8bc482c1715849258.txt
+2025-06-03 14:40:31,766 - inverted_index - INFO - 文件 bfa5296f0dbbdfb8bc482c1715849258.txt 处理完成
+2025-06-03 14:40:31,766 - inverted_index - INFO - 处理文件: c016aa71a23c95cf9687a659127328f3.txt
+2025-06-03 14:40:31,767 - inverted_index - INFO - 文件 c016aa71a23c95cf9687a659127328f3.txt 处理完成
+2025-06-03 14:40:31,767 - inverted_index - INFO - 处理文件: c019f10272a4e8cdd18ed340195dae55.txt
+2025-06-03 14:40:31,767 - inverted_index - INFO - 文件 c019f10272a4e8cdd18ed340195dae55.txt 处理完成
+2025-06-03 14:40:31,768 - inverted_index - INFO - 处理文件: c07aa5703eab80329ca1e2abe38ebfd2.txt
+2025-06-03 14:40:31,768 - inverted_index - INFO - 文件 c07aa5703eab80329ca1e2abe38ebfd2.txt 处理完成
+2025-06-03 14:40:31,768 - inverted_index - INFO - 处理文件: c0b46ef050488b48a20cfbda5ded535d.txt
+2025-06-03 14:40:31,769 - inverted_index - INFO - 文件 c0b46ef050488b48a20cfbda5ded535d.txt 处理完成
+2025-06-03 14:40:31,769 - inverted_index - INFO - 处理文件: c0be7ec8e5ad6ef7fc60b3832e2ef490.txt
+2025-06-03 14:40:31,769 - inverted_index - INFO - 文件 c0be7ec8e5ad6ef7fc60b3832e2ef490.txt 处理完成
+2025-06-03 14:40:31,769 - inverted_index - INFO - 处理文件: c0d9bb97888653ac5541f524dedc3e4a.txt
+2025-06-03 14:40:31,770 - inverted_index - INFO - 文件 c0d9bb97888653ac5541f524dedc3e4a.txt 处理完成
+2025-06-03 14:40:31,770 - inverted_index - INFO - 处理文件: c113f085f3ae2d7ae5b08d5bd05f3928.txt
+2025-06-03 14:40:31,770 - inverted_index - INFO - 文件 c113f085f3ae2d7ae5b08d5bd05f3928.txt 处理完成
+2025-06-03 14:40:31,770 - inverted_index - INFO - 处理文件: c1d7d120f9addd35e22bbaf95fbea54a.txt
+2025-06-03 14:40:31,771 - inverted_index - INFO - 文件 c1d7d120f9addd35e22bbaf95fbea54a.txt 处理完成
+2025-06-03 14:40:31,771 - inverted_index - INFO - 处理文件: c22a5c62855bbc3d90f54a106df5e31a.txt
+2025-06-03 14:40:31,771 - inverted_index - INFO - 文件 c22a5c62855bbc3d90f54a106df5e31a.txt 处理完成
+2025-06-03 14:40:31,772 - inverted_index - INFO - 处理文件: c23f90f089a25a0eed934371707c4c3c.txt
+2025-06-03 14:40:31,772 - inverted_index - INFO - 文件 c23f90f089a25a0eed934371707c4c3c.txt 处理完成
+2025-06-03 14:40:31,772 - inverted_index - INFO - 处理文件: c24146c80d1ce06fbee6c2a52a01c53d.txt
+2025-06-03 14:40:31,773 - inverted_index - INFO - 文件 c24146c80d1ce06fbee6c2a52a01c53d.txt 处理完成
+2025-06-03 14:40:31,773 - inverted_index - INFO - 处理文件: c26107c1b3f16aedbf117161bdee0850.txt
+2025-06-03 14:40:31,773 - inverted_index - INFO - 文件 c26107c1b3f16aedbf117161bdee0850.txt 处理完成
+2025-06-03 14:40:31,774 - inverted_index - INFO - 处理文件: c27e8b1cb51a3ce95ad1670c4a661f86.txt
+2025-06-03 14:40:31,774 - inverted_index - INFO - 文件 c27e8b1cb51a3ce95ad1670c4a661f86.txt 处理完成
+2025-06-03 14:40:31,774 - inverted_index - INFO - 处理文件: c290bb5f9561410aab69d26125a0f7ce.txt
+2025-06-03 14:40:31,774 - inverted_index - INFO - 文件 c290bb5f9561410aab69d26125a0f7ce.txt 处理完成
+2025-06-03 14:40:31,774 - inverted_index - INFO - 处理文件: c30c7e0e3dfccff700518a3399175bbc.txt
+2025-06-03 14:40:31,775 - inverted_index - INFO - 文件 c30c7e0e3dfccff700518a3399175bbc.txt 处理完成
+2025-06-03 14:40:31,775 - inverted_index - INFO - 处理文件: c34a2bc092fb2a48cb68354de7b6937a.txt
+2025-06-03 14:40:31,775 - inverted_index - INFO - 文件 c34a2bc092fb2a48cb68354de7b6937a.txt 处理完成
+2025-06-03 14:40:31,775 - inverted_index - INFO - 处理文件: c3b278a8dcc7a5b5235452a65712c2bd.txt
+2025-06-03 14:40:31,775 - inverted_index - INFO - 文件 c3b278a8dcc7a5b5235452a65712c2bd.txt 处理完成
+2025-06-03 14:40:31,776 - inverted_index - INFO - 处理文件: c45908183eca5a37ac6e28615b71bdb2.txt
+2025-06-03 14:40:31,776 - inverted_index - INFO - 文件 c45908183eca5a37ac6e28615b71bdb2.txt 处理完成
+2025-06-03 14:40:31,776 - inverted_index - INFO - 处理文件: c4df3ff80f665b6fedf90f90c0c79da2.txt
+2025-06-03 14:40:31,776 - inverted_index - INFO - 文件 c4df3ff80f665b6fedf90f90c0c79da2.txt 处理完成
+2025-06-03 14:40:31,776 - inverted_index - INFO - 处理文件: c53d2dd61686cf63e7f1ef15698b0c79.txt
+2025-06-03 14:40:31,777 - inverted_index - INFO - 文件 c53d2dd61686cf63e7f1ef15698b0c79.txt 处理完成
+2025-06-03 14:40:31,777 - inverted_index - INFO - 处理文件: c542d4ee2d8b28f13dc17fe4be83e77d.txt
+2025-06-03 14:40:31,777 - inverted_index - INFO - 文件 c542d4ee2d8b28f13dc17fe4be83e77d.txt 处理完成
+2025-06-03 14:40:31,777 - inverted_index - INFO - 处理文件: c58671c27719112b84a8283e1bca16a9.txt
+2025-06-03 14:40:31,778 - inverted_index - INFO - 文件 c58671c27719112b84a8283e1bca16a9.txt 处理完成
+2025-06-03 14:40:31,778 - inverted_index - INFO - 处理文件: c588a3262e050ff32c87008c7e47817d.txt
+2025-06-03 14:40:31,778 - inverted_index - INFO - 文件 c588a3262e050ff32c87008c7e47817d.txt 处理完成
+2025-06-03 14:40:31,778 - inverted_index - INFO - 处理文件: c6145db7daa1c8169df7d8abace18e74.txt
+2025-06-03 14:40:31,778 - inverted_index - INFO - 文件 c6145db7daa1c8169df7d8abace18e74.txt 处理完成
+2025-06-03 14:40:31,778 - inverted_index - INFO - 处理文件: c61e64fdc25698ec463a2df77835554c.txt
+2025-06-03 14:40:31,779 - inverted_index - INFO - 文件 c61e64fdc25698ec463a2df77835554c.txt 处理完成
+2025-06-03 14:40:31,779 - inverted_index - INFO - 处理文件: c6375be2e51350242255a9d0808d43b6.txt
+2025-06-03 14:40:31,779 - inverted_index - INFO - 文件 c6375be2e51350242255a9d0808d43b6.txt 处理完成
+2025-06-03 14:40:31,779 - inverted_index - INFO - 处理文件: c6a7caee068402f85b2b0267f9db8f52.txt
+2025-06-03 14:40:31,779 - inverted_index - INFO - 文件 c6a7caee068402f85b2b0267f9db8f52.txt 处理完成
+2025-06-03 14:40:31,779 - inverted_index - INFO - 处理文件: c72b45ea8ec0f51af5f017b41df1eadb.txt
+2025-06-03 14:40:31,780 - inverted_index - INFO - 文件 c72b45ea8ec0f51af5f017b41df1eadb.txt 处理完成
+2025-06-03 14:40:31,780 - inverted_index - INFO - 处理文件: c74e2a03896e33449a9053f18fd6ff4f.txt
+2025-06-03 14:40:31,780 - inverted_index - INFO - 文件 c74e2a03896e33449a9053f18fd6ff4f.txt 处理完成
+2025-06-03 14:40:31,781 - inverted_index - INFO - 处理文件: c7989b366eab470a53d4e0081ffca42d.txt
+2025-06-03 14:40:31,781 - inverted_index - INFO - 文件 c7989b366eab470a53d4e0081ffca42d.txt 处理完成
+2025-06-03 14:40:31,781 - inverted_index - INFO - 处理文件: c7ca74532bbd706047a5a0ee5f46c4c8.txt
+2025-06-03 14:40:31,782 - inverted_index - INFO - 文件 c7ca74532bbd706047a5a0ee5f46c4c8.txt 处理完成
+2025-06-03 14:40:31,782 - inverted_index - INFO - 处理文件: c7d9f60e9985f2d54fb51baddece17b2.txt
+2025-06-03 14:40:31,783 - inverted_index - INFO - 文件 c7d9f60e9985f2d54fb51baddece17b2.txt 处理完成
+2025-06-03 14:40:31,783 - inverted_index - INFO - 处理文件: c7ef5d2eae6277a7dd65057f56cd8351.txt
+2025-06-03 14:40:31,783 - inverted_index - INFO - 文件 c7ef5d2eae6277a7dd65057f56cd8351.txt 处理完成
+2025-06-03 14:40:31,784 - inverted_index - INFO - 处理文件: c8300e83e429db4c924763f46edcec40.txt
+2025-06-03 14:40:31,784 - inverted_index - INFO - 文件 c8300e83e429db4c924763f46edcec40.txt 处理完成
+2025-06-03 14:40:31,784 - inverted_index - INFO - 处理文件: c8450e86f9920f99b6e6ba4bba148697.txt
+2025-06-03 14:40:31,784 - inverted_index - INFO - 文件 c8450e86f9920f99b6e6ba4bba148697.txt 处理完成
+2025-06-03 14:40:31,785 - inverted_index - INFO - 处理文件: c8c53f9dd78e85e37e951612384513bb.txt
+2025-06-03 14:40:31,785 - inverted_index - INFO - 文件 c8c53f9dd78e85e37e951612384513bb.txt 处理完成
+2025-06-03 14:40:31,785 - inverted_index - INFO - 处理文件: c93e9a98342f6517ef484697a7306eb0.txt
+2025-06-03 14:40:31,785 - inverted_index - INFO - 文件 c93e9a98342f6517ef484697a7306eb0.txt 处理完成
+2025-06-03 14:40:31,785 - inverted_index - INFO - 处理文件: c9587447360e2aae6694fd0e9e825335.txt
+2025-06-03 14:40:31,786 - inverted_index - INFO - 文件 c9587447360e2aae6694fd0e9e825335.txt 处理完成
+2025-06-03 14:40:31,786 - inverted_index - INFO - 处理文件: ca42fc7c3c0da04c194eae5391e664a0.txt
+2025-06-03 14:40:31,786 - inverted_index - INFO - 文件 ca42fc7c3c0da04c194eae5391e664a0.txt 处理完成
+2025-06-03 14:40:31,787 - inverted_index - INFO - 处理文件: ca4c1d111b14fe0cda0ea8b7224acf2e.txt
+2025-06-03 14:40:31,787 - inverted_index - INFO - 文件 ca4c1d111b14fe0cda0ea8b7224acf2e.txt 处理完成
+2025-06-03 14:40:31,787 - inverted_index - INFO - 处理文件: ca6945120b86c9eae99037d7c138d5d8.txt
+2025-06-03 14:40:31,787 - inverted_index - INFO - 文件 ca6945120b86c9eae99037d7c138d5d8.txt 处理完成
+2025-06-03 14:40:31,788 - inverted_index - INFO - 处理文件: cae4ab585157b4567cb341763544427d.txt
+2025-06-03 14:40:31,788 - inverted_index - INFO - 文件 cae4ab585157b4567cb341763544427d.txt 处理完成
+2025-06-03 14:40:31,788 - inverted_index - INFO - 处理文件: cb189d3b41a9ae512c87c4370a77e55a.txt
+2025-06-03 14:40:31,788 - inverted_index - INFO - 文件 cb189d3b41a9ae512c87c4370a77e55a.txt 处理完成
+2025-06-03 14:40:31,788 - inverted_index - INFO - 处理文件: cb303d2fd381d5ff672f3d37945aae4a.txt
+2025-06-03 14:40:31,788 - inverted_index - INFO - 文件 cb303d2fd381d5ff672f3d37945aae4a.txt 处理完成
+2025-06-03 14:40:31,789 - inverted_index - INFO - 处理文件: cb438c747f9d471731f7ba51635611d6.txt
+2025-06-03 14:40:31,789 - inverted_index - INFO - 文件 cb438c747f9d471731f7ba51635611d6.txt 处理完成
+2025-06-03 14:40:31,789 - inverted_index - INFO - 处理文件: cb53b46cc547befbe7a5464f9d4cb4ec.txt
+2025-06-03 14:40:31,789 - inverted_index - INFO - 文件 cb53b46cc547befbe7a5464f9d4cb4ec.txt 处理完成
+2025-06-03 14:40:31,791 - inverted_index - INFO - 处理文件: cbf52ec28b3bf0ff4b4332773ebc8093.txt
+2025-06-03 14:40:31,791 - inverted_index - INFO - 文件 cbf52ec28b3bf0ff4b4332773ebc8093.txt 处理完成
+2025-06-03 14:40:31,791 - inverted_index - INFO - 处理文件: cc3f8878653fde68ac0035e66c44a25f.txt
+2025-06-03 14:40:31,791 - inverted_index - INFO - 文件 cc3f8878653fde68ac0035e66c44a25f.txt 处理完成
+2025-06-03 14:40:31,791 - inverted_index - INFO - 处理文件: ccae92d3ef80096539cf7d3295f872ba.txt
+2025-06-03 14:40:31,792 - inverted_index - INFO - 文件 ccae92d3ef80096539cf7d3295f872ba.txt 处理完成
+2025-06-03 14:40:31,792 - inverted_index - INFO - 处理文件: ccec5b1777ec49ea5782e846840440c1.txt
+2025-06-03 14:40:31,792 - inverted_index - INFO - 文件 ccec5b1777ec49ea5782e846840440c1.txt 处理完成
+2025-06-03 14:40:31,792 - inverted_index - INFO - 处理文件: cd69a95e30d797a9da5d1bce223bd0e1.txt
+2025-06-03 14:40:31,792 - inverted_index - INFO - 文件 cd69a95e30d797a9da5d1bce223bd0e1.txt 处理完成
+2025-06-03 14:40:31,793 - inverted_index - INFO - 处理文件: cdbfbb14990cadab9922aa093260522c.txt
+2025-06-03 14:40:31,793 - inverted_index - INFO - 文件 cdbfbb14990cadab9922aa093260522c.txt 处理完成
+2025-06-03 14:40:31,793 - inverted_index - INFO - 处理文件: cdc9cedb33740675199516ca494886fc.txt
+2025-06-03 14:40:31,793 - inverted_index - INFO - 文件 cdc9cedb33740675199516ca494886fc.txt 处理完成
+2025-06-03 14:40:31,794 - inverted_index - INFO - 处理文件: cdf0971b1bf221f06ff4fc6f892a957e.txt
+2025-06-03 14:40:31,794 - inverted_index - INFO - 文件 cdf0971b1bf221f06ff4fc6f892a957e.txt 处理完成
+2025-06-03 14:40:31,794 - inverted_index - INFO - 处理文件: ce30dc48e6970a21c23f33d232bad88d.txt
+2025-06-03 14:40:31,794 - inverted_index - INFO - 文件 ce30dc48e6970a21c23f33d232bad88d.txt 处理完成
+2025-06-03 14:40:31,795 - inverted_index - INFO - 处理文件: ceaa9a8da7ad3df71e02b1258b7b8e35.txt
+2025-06-03 14:40:31,795 - inverted_index - INFO - 文件 ceaa9a8da7ad3df71e02b1258b7b8e35.txt 处理完成
+2025-06-03 14:40:31,795 - inverted_index - INFO - 处理文件: ced07d99ed14f2f42205df29e17544ef.txt
+2025-06-03 14:40:31,796 - inverted_index - INFO - 文件 ced07d99ed14f2f42205df29e17544ef.txt 处理完成
+2025-06-03 14:40:31,796 - inverted_index - INFO - 处理文件: cf044ddebd175c9c2aca505419e58d30.txt
+2025-06-03 14:40:31,796 - inverted_index - INFO - 文件 cf044ddebd175c9c2aca505419e58d30.txt 处理完成
+2025-06-03 14:40:31,797 - inverted_index - INFO - 处理文件: cf253032ba9d1cd54ecd40372729231f.txt
+2025-06-03 14:40:31,798 - inverted_index - INFO - 文件 cf253032ba9d1cd54ecd40372729231f.txt 处理完成
+2025-06-03 14:40:31,798 - inverted_index - INFO - 处理文件: cf6b7308b144cbe2a13d3d281e18b5b7.txt
+2025-06-03 14:40:31,799 - inverted_index - INFO - 文件 cf6b7308b144cbe2a13d3d281e18b5b7.txt 处理完成
+2025-06-03 14:40:31,799 - inverted_index - INFO - 处理文件: cf7e0f0935e79dacf5c0ebfc043bd86f.txt
+2025-06-03 14:40:31,799 - inverted_index - INFO - 文件 cf7e0f0935e79dacf5c0ebfc043bd86f.txt 处理完成
+2025-06-03 14:40:31,800 - inverted_index - INFO - 处理文件: cff1a59d3aea1307586889e6f5c975bd.txt
+2025-06-03 14:40:31,800 - inverted_index - INFO - 文件 cff1a59d3aea1307586889e6f5c975bd.txt 处理完成
+2025-06-03 14:40:31,800 - inverted_index - INFO - 处理文件: d0269006e6e93f86b0bd3e1ae83c4cdf.txt
+2025-06-03 14:40:31,801 - inverted_index - INFO - 文件 d0269006e6e93f86b0bd3e1ae83c4cdf.txt 处理完成
+2025-06-03 14:40:31,801 - inverted_index - INFO - 处理文件: d07628f9f024509ae0fbba4aa9005c36.txt
+2025-06-03 14:40:31,801 - inverted_index - INFO - 文件 d07628f9f024509ae0fbba4aa9005c36.txt 处理完成
+2025-06-03 14:40:31,802 - inverted_index - INFO - 处理文件: d0c8cce60f16f279bcf374df902815f3.txt
+2025-06-03 14:40:31,802 - inverted_index - INFO - 文件 d0c8cce60f16f279bcf374df902815f3.txt 处理完成
+2025-06-03 14:40:31,802 - inverted_index - INFO - 处理文件: d10faa4075ad7e1ab13891ee68ddae18.txt
+2025-06-03 14:40:31,802 - inverted_index - INFO - 文件 d10faa4075ad7e1ab13891ee68ddae18.txt 处理完成
+2025-06-03 14:40:31,803 - inverted_index - INFO - 处理文件: d13e98769284ac9b2d11734eae266459.txt
+2025-06-03 14:40:31,803 - inverted_index - INFO - 文件 d13e98769284ac9b2d11734eae266459.txt 处理完成
+2025-06-03 14:40:31,803 - inverted_index - INFO - 处理文件: d1cc12d1bb42b6d1b9ead081a5f9a0e3.txt
+2025-06-03 14:40:31,803 - inverted_index - INFO - 文件 d1cc12d1bb42b6d1b9ead081a5f9a0e3.txt 处理完成
+2025-06-03 14:40:31,804 - inverted_index - INFO - 处理文件: d1d4499f71a7e4c74cc1d1ab6c82e890.txt
+2025-06-03 14:40:31,804 - inverted_index - INFO - 文件 d1d4499f71a7e4c74cc1d1ab6c82e890.txt 处理完成
+2025-06-03 14:40:31,804 - inverted_index - INFO - 处理文件: d1ebd2f350f01fd6e53185cf932963a9.txt
+2025-06-03 14:40:31,804 - inverted_index - INFO - 文件 d1ebd2f350f01fd6e53185cf932963a9.txt 处理完成
+2025-06-03 14:40:31,805 - inverted_index - INFO - 处理文件: d2028b18b3d90c9a89b54db01a82eb56.txt
+2025-06-03 14:40:31,805 - inverted_index - INFO - 文件 d2028b18b3d90c9a89b54db01a82eb56.txt 处理完成
+2025-06-03 14:40:31,805 - inverted_index - INFO - 处理文件: d24043932758e6fe921db39cd7fe7631.txt
+2025-06-03 14:40:31,805 - inverted_index - INFO - 文件 d24043932758e6fe921db39cd7fe7631.txt 处理完成
+2025-06-03 14:40:31,805 - inverted_index - INFO - 处理文件: d2661f7285ccdbc8b85ce3c2df8fb1d7.txt
+2025-06-03 14:40:31,806 - inverted_index - INFO - 文件 d2661f7285ccdbc8b85ce3c2df8fb1d7.txt 处理完成
+2025-06-03 14:40:31,806 - inverted_index - INFO - 处理文件: d29e8b105bf8e51695477c77646f7bdf.txt
+2025-06-03 14:40:31,806 - inverted_index - INFO - 文件 d29e8b105bf8e51695477c77646f7bdf.txt 处理完成
+2025-06-03 14:40:31,806 - inverted_index - INFO - 处理文件: d33166d02ed4f0a202b8d76bcfe58b77.txt
+2025-06-03 14:40:31,807 - inverted_index - INFO - 文件 d33166d02ed4f0a202b8d76bcfe58b77.txt 处理完成
+2025-06-03 14:40:31,807 - inverted_index - INFO - 处理文件: d334ec7b6c36022ac1047c063ac368e9.txt
+2025-06-03 14:40:31,807 - inverted_index - INFO - 文件 d334ec7b6c36022ac1047c063ac368e9.txt 处理完成
+2025-06-03 14:40:31,808 - inverted_index - INFO - 处理文件: d3f767646043ee484c29915b11e8ca65.txt
+2025-06-03 14:40:31,808 - inverted_index - INFO - 文件 d3f767646043ee484c29915b11e8ca65.txt 处理完成
+2025-06-03 14:40:31,808 - inverted_index - INFO - 处理文件: d468a2245e320acb39dfb6c9c1d1acf5.txt
+2025-06-03 14:40:31,808 - inverted_index - INFO - 文件 d468a2245e320acb39dfb6c9c1d1acf5.txt 处理完成
+2025-06-03 14:40:31,808 - inverted_index - INFO - 处理文件: d4b2aaa1a29ad6e6a7fbd3d0c053cae3.txt
+2025-06-03 14:40:31,808 - inverted_index - INFO - 文件 d4b2aaa1a29ad6e6a7fbd3d0c053cae3.txt 处理完成
+2025-06-03 14:40:31,809 - inverted_index - INFO - 处理文件: d50a7258e70235b116931356e4cf1190.txt
+2025-06-03 14:40:31,809 - inverted_index - INFO - 文件 d50a7258e70235b116931356e4cf1190.txt 处理完成
+2025-06-03 14:40:31,809 - inverted_index - INFO - 处理文件: d56ebf7aa8438d38219aa3724716a6c4.txt
+2025-06-03 14:40:31,809 - inverted_index - INFO - 文件 d56ebf7aa8438d38219aa3724716a6c4.txt 处理完成
+2025-06-03 14:40:31,809 - inverted_index - INFO - 处理文件: d60b6544231dc53f79f1a082dbdd8f5d.txt
+2025-06-03 14:40:31,810 - inverted_index - INFO - 文件 d60b6544231dc53f79f1a082dbdd8f5d.txt 处理完成
+2025-06-03 14:40:31,810 - inverted_index - INFO - 处理文件: d61bee37d988374015599258f0c70678.txt
+2025-06-03 14:40:31,810 - inverted_index - INFO - 文件 d61bee37d988374015599258f0c70678.txt 处理完成
+2025-06-03 14:40:31,810 - inverted_index - INFO - 处理文件: d6613392456dfcda11c00d1cc6d624a8.txt
+2025-06-03 14:40:31,810 - inverted_index - INFO - 文件 d6613392456dfcda11c00d1cc6d624a8.txt 处理完成
+2025-06-03 14:40:31,811 - inverted_index - INFO - 处理文件: d6a64fb3ba33874337f5ead7c014743a.txt
+2025-06-03 14:40:31,811 - inverted_index - INFO - 文件 d6a64fb3ba33874337f5ead7c014743a.txt 处理完成
+2025-06-03 14:40:31,811 - inverted_index - INFO - 处理文件: d6bb5158be87a4fb3e996113a44bc7dd.txt
+2025-06-03 14:40:31,811 - inverted_index - INFO - 文件 d6bb5158be87a4fb3e996113a44bc7dd.txt 处理完成
+2025-06-03 14:40:31,812 - inverted_index - INFO - 处理文件: d6e285a989991988fd75f5d591b5ecde.txt
+2025-06-03 14:40:31,812 - inverted_index - INFO - 文件 d6e285a989991988fd75f5d591b5ecde.txt 处理完成
+2025-06-03 14:40:31,812 - inverted_index - INFO - 处理文件: d71ae6e3336b76ed1af9297fc469a2b5.txt
+2025-06-03 14:40:31,813 - inverted_index - INFO - 文件 d71ae6e3336b76ed1af9297fc469a2b5.txt 处理完成
+2025-06-03 14:40:31,813 - inverted_index - INFO - 处理文件: d80b79e826c5be66d19bfde9c9e0922a.txt
+2025-06-03 14:40:31,813 - inverted_index - INFO - 文件 d80b79e826c5be66d19bfde9c9e0922a.txt 处理完成
+2025-06-03 14:40:31,813 - inverted_index - INFO - 处理文件: d83341db695791862c759b4e9f55932d.txt
+2025-06-03 14:40:31,814 - inverted_index - INFO - 文件 d83341db695791862c759b4e9f55932d.txt 处理完成
+2025-06-03 14:40:31,814 - inverted_index - INFO - 处理文件: d84ff6d31a00e4903e8332d8069d8887.txt
+2025-06-03 14:40:31,814 - inverted_index - INFO - 文件 d84ff6d31a00e4903e8332d8069d8887.txt 处理完成
+2025-06-03 14:40:31,815 - inverted_index - INFO - 处理文件: d878ff3643ecf2a1e5b3920b1c48f1e7.txt
+2025-06-03 14:40:31,815 - inverted_index - INFO - 文件 d878ff3643ecf2a1e5b3920b1c48f1e7.txt 处理完成
+2025-06-03 14:40:31,815 - inverted_index - INFO - 处理文件: d8cda7588c248dc58839cb08ac3303a5.txt
+2025-06-03 14:40:31,816 - inverted_index - INFO - 文件 d8cda7588c248dc58839cb08ac3303a5.txt 处理完成
+2025-06-03 14:40:31,816 - inverted_index - INFO - 处理文件: d8d0e5eed3dacca02418ef742cc0cbb4.txt
+2025-06-03 14:40:31,816 - inverted_index - INFO - 文件 d8d0e5eed3dacca02418ef742cc0cbb4.txt 处理完成
+2025-06-03 14:40:31,816 - inverted_index - INFO - 处理文件: d924526d33d6aaa947d0afbf87029913.txt
+2025-06-03 14:40:31,817 - inverted_index - INFO - 文件 d924526d33d6aaa947d0afbf87029913.txt 处理完成
+2025-06-03 14:40:31,817 - inverted_index - INFO - 处理文件: d95bc6312bd9f6b995aaec57ab48669c.txt
+2025-06-03 14:40:31,817 - inverted_index - INFO - 文件 d95bc6312bd9f6b995aaec57ab48669c.txt 处理完成
+2025-06-03 14:40:31,818 - inverted_index - INFO - 处理文件: d9daa368b7a98f32981d9f9e6089e90d.txt
+2025-06-03 14:40:31,818 - inverted_index - INFO - 文件 d9daa368b7a98f32981d9f9e6089e90d.txt 处理完成
+2025-06-03 14:40:31,818 - inverted_index - INFO - 处理文件: da156388ca18f166f8ac171ab3bb7a76.txt
+2025-06-03 14:40:31,818 - inverted_index - INFO - 文件 da156388ca18f166f8ac171ab3bb7a76.txt 处理完成
+2025-06-03 14:40:31,818 - inverted_index - INFO - 处理文件: da591f14b79f05d37a89a40b22dd8898.txt
+2025-06-03 14:40:31,818 - inverted_index - INFO - 文件 da591f14b79f05d37a89a40b22dd8898.txt 处理完成
+2025-06-03 14:40:31,819 - inverted_index - INFO - 处理文件: da5cd99c31cbf36d5c4b003c5a67b43e.txt
+2025-06-03 14:40:31,819 - inverted_index - INFO - 文件 da5cd99c31cbf36d5c4b003c5a67b43e.txt 处理完成
+2025-06-03 14:40:31,819 - inverted_index - INFO - 处理文件: daa4d0bbf9a7d6432dcdc38be3602342.txt
+2025-06-03 14:40:31,819 - inverted_index - INFO - 文件 daa4d0bbf9a7d6432dcdc38be3602342.txt 处理完成
+2025-06-03 14:40:31,819 - inverted_index - INFO - 处理文件: db1822ba481ac33fbf542fc604ec5637.txt
+2025-06-03 14:40:31,819 - inverted_index - INFO - 文件 db1822ba481ac33fbf542fc604ec5637.txt 处理完成
+2025-06-03 14:40:31,820 - inverted_index - INFO - 处理文件: db67d85ad00f5748dec5db39e4e762f5.txt
+2025-06-03 14:40:31,820 - inverted_index - INFO - 文件 db67d85ad00f5748dec5db39e4e762f5.txt 处理完成
+2025-06-03 14:40:31,820 - inverted_index - INFO - 处理文件: db6ad073b0964baa5d59bcd8fc93051e.txt
+2025-06-03 14:40:31,820 - inverted_index - INFO - 文件 db6ad073b0964baa5d59bcd8fc93051e.txt 处理完成
+2025-06-03 14:40:31,820 - inverted_index - INFO - 处理文件: db9bd9629f9513515bdba5fdedd10fb8.txt
+2025-06-03 14:40:31,820 - inverted_index - INFO - 文件 db9bd9629f9513515bdba5fdedd10fb8.txt 处理完成
+2025-06-03 14:40:31,821 - inverted_index - INFO - 处理文件: dd40c960680eb46a6f353a25e859835f.txt
+2025-06-03 14:40:31,821 - inverted_index - INFO - 文件 dd40c960680eb46a6f353a25e859835f.txt 处理完成
+2025-06-03 14:40:31,821 - inverted_index - INFO - 处理文件: dd8688583ea37950055bc917cc437cf4.txt
+2025-06-03 14:40:31,821 - inverted_index - INFO - 文件 dd8688583ea37950055bc917cc437cf4.txt 处理完成
+2025-06-03 14:40:31,822 - inverted_index - INFO - 处理文件: ddb0e995e86bbad7d93937852b678778.txt
+2025-06-03 14:40:31,822 - inverted_index - INFO - 文件 ddb0e995e86bbad7d93937852b678778.txt 处理完成
+2025-06-03 14:40:31,822 - inverted_index - INFO - 处理文件: ddf4187f3543dfdd053f2ecedc51940e.txt
+2025-06-03 14:40:31,823 - inverted_index - INFO - 文件 ddf4187f3543dfdd053f2ecedc51940e.txt 处理完成
+2025-06-03 14:40:31,823 - inverted_index - INFO - 处理文件: de5ae048b0c953b09714a5d1754184a6.txt
+2025-06-03 14:40:31,823 - inverted_index - INFO - 文件 de5ae048b0c953b09714a5d1754184a6.txt 处理完成
+2025-06-03 14:40:31,823 - inverted_index - INFO - 处理文件: de689dbb740c63c2a8aa1b4f5d09efd8.txt
+2025-06-03 14:40:31,823 - inverted_index - INFO - 文件 de689dbb740c63c2a8aa1b4f5d09efd8.txt 处理完成
+2025-06-03 14:40:31,824 - inverted_index - INFO - 处理文件: de93816b9b09168e1960d86a075f3455.txt
+2025-06-03 14:40:31,824 - inverted_index - INFO - 文件 de93816b9b09168e1960d86a075f3455.txt 处理完成
+2025-06-03 14:40:31,824 - inverted_index - INFO - 处理文件: dec0b4d2ae298328c70689084e5e8f8e.txt
+2025-06-03 14:40:31,824 - inverted_index - INFO - 文件 dec0b4d2ae298328c70689084e5e8f8e.txt 处理完成
+2025-06-03 14:40:31,824 - inverted_index - INFO - 处理文件: dee5716ec264b4148cd2f1ab49811e2f.txt
+2025-06-03 14:40:31,825 - inverted_index - INFO - 文件 dee5716ec264b4148cd2f1ab49811e2f.txt 处理完成
+2025-06-03 14:40:31,825 - inverted_index - INFO - 处理文件: df1fe759578f3c34ea98f108dd04d222.txt
+2025-06-03 14:40:31,825 - inverted_index - INFO - 文件 df1fe759578f3c34ea98f108dd04d222.txt 处理完成
+2025-06-03 14:40:31,825 - inverted_index - INFO - 处理文件: df4cba4e74c5680569ba8e850d7dfc94.txt
+2025-06-03 14:40:31,825 - inverted_index - INFO - 文件 df4cba4e74c5680569ba8e850d7dfc94.txt 处理完成
+2025-06-03 14:40:31,825 - inverted_index - INFO - 处理文件: df7d8cfd1e200870db8204f41d29f936.txt
+2025-06-03 14:40:31,826 - inverted_index - INFO - 文件 df7d8cfd1e200870db8204f41d29f936.txt 处理完成
+2025-06-03 14:40:31,826 - inverted_index - INFO - 处理文件: dfca7085387e3d60cd7ffb287e6b630a.txt
+2025-06-03 14:40:31,826 - inverted_index - INFO - 文件 dfca7085387e3d60cd7ffb287e6b630a.txt 处理完成
+2025-06-03 14:40:31,826 - inverted_index - INFO - 处理文件: dfdaa6d20f8d782d6648e2a6403ae6fc.txt
+2025-06-03 14:40:31,826 - inverted_index - INFO - 文件 dfdaa6d20f8d782d6648e2a6403ae6fc.txt 处理完成
+2025-06-03 14:40:31,827 - inverted_index - INFO - 处理文件: e042f655d4e570e1440102aa0d45b51d.txt
+2025-06-03 14:40:31,827 - inverted_index - INFO - 文件 e042f655d4e570e1440102aa0d45b51d.txt 处理完成
+2025-06-03 14:40:31,827 - inverted_index - INFO - 处理文件: e096095f239406bcde56cd5c89dcd649.txt
+2025-06-03 14:40:31,829 - inverted_index - INFO - 文件 e096095f239406bcde56cd5c89dcd649.txt 处理完成
+2025-06-03 14:40:31,829 - inverted_index - INFO - 处理文件: e10a921aeb8dcdfb24e67b05ad8a92fc.txt
+2025-06-03 14:40:31,829 - inverted_index - INFO - 文件 e10a921aeb8dcdfb24e67b05ad8a92fc.txt 处理完成
+2025-06-03 14:40:31,829 - inverted_index - INFO - 处理文件: e1431d54c01a578cdcbf391437409d83.txt
+2025-06-03 14:40:31,830 - inverted_index - INFO - 文件 e1431d54c01a578cdcbf391437409d83.txt 处理完成
+2025-06-03 14:40:31,830 - inverted_index - INFO - 处理文件: e1c6e9cdeb2f63a7d438c47c3449ee23.txt
+2025-06-03 14:40:31,830 - inverted_index - INFO - 文件 e1c6e9cdeb2f63a7d438c47c3449ee23.txt 处理完成
+2025-06-03 14:40:31,830 - inverted_index - INFO - 处理文件: e2623ea7412feeab0a2ef214987a49bf.txt
+2025-06-03 14:40:31,830 - inverted_index - INFO - 文件 e2623ea7412feeab0a2ef214987a49bf.txt 处理完成
+2025-06-03 14:40:31,831 - inverted_index - INFO - 处理文件: e263c69d7946ab989a36da417c660dd7.txt
+2025-06-03 14:40:31,831 - inverted_index - INFO - 文件 e263c69d7946ab989a36da417c660dd7.txt 处理完成
+2025-06-03 14:40:31,832 - inverted_index - INFO - 处理文件: e27d9f20957f0615063da9c5248e1b38.txt
+2025-06-03 14:40:31,832 - inverted_index - INFO - 文件 e27d9f20957f0615063da9c5248e1b38.txt 处理完成
+2025-06-03 14:40:31,832 - inverted_index - INFO - 处理文件: e304562877746a7e8a4f8f975d7ae3dc.txt
+2025-06-03 14:40:31,833 - inverted_index - INFO - 文件 e304562877746a7e8a4f8f975d7ae3dc.txt 处理完成
+2025-06-03 14:40:31,833 - inverted_index - INFO - 处理文件: e3076f5c6e2a3d59d793ba787dd54cca.txt
+2025-06-03 14:40:31,834 - inverted_index - INFO - 文件 e3076f5c6e2a3d59d793ba787dd54cca.txt 处理完成
+2025-06-03 14:40:31,834 - inverted_index - INFO - 处理文件: e316ee8a06d362ec1b5e1dddf48adb99.txt
+2025-06-03 14:40:31,834 - inverted_index - INFO - 文件 e316ee8a06d362ec1b5e1dddf48adb99.txt 处理完成
+2025-06-03 14:40:31,835 - inverted_index - INFO - 处理文件: e38769d759f296b526921d413f508d65.txt
+2025-06-03 14:40:31,835 - inverted_index - INFO - 文件 e38769d759f296b526921d413f508d65.txt 处理完成
+2025-06-03 14:40:31,835 - inverted_index - INFO - 处理文件: e387fa0784570b255508b53dbaebdcc1.txt
+2025-06-03 14:40:31,836 - inverted_index - INFO - 文件 e387fa0784570b255508b53dbaebdcc1.txt 处理完成
+2025-06-03 14:40:31,836 - inverted_index - INFO - 处理文件: e3b593b18a4595d172235caacfd9f4eb.txt
+2025-06-03 14:40:31,837 - inverted_index - INFO - 文件 e3b593b18a4595d172235caacfd9f4eb.txt 处理完成
+2025-06-03 14:40:31,837 - inverted_index - INFO - 处理文件: e401bc126bd8bcffa4559e652548864b.txt
+2025-06-03 14:40:31,837 - inverted_index - INFO - 文件 e401bc126bd8bcffa4559e652548864b.txt 处理完成
+2025-06-03 14:40:31,838 - inverted_index - INFO - 处理文件: e4530fb9b552622797b353e7da429be4.txt
+2025-06-03 14:40:31,838 - inverted_index - INFO - 文件 e4530fb9b552622797b353e7da429be4.txt 处理完成
+2025-06-03 14:40:31,838 - inverted_index - INFO - 处理文件: e523443ca301d23b3d16eb73e90d40df.txt
+2025-06-03 14:40:31,838 - inverted_index - INFO - 文件 e523443ca301d23b3d16eb73e90d40df.txt 处理完成
+2025-06-03 14:40:31,838 - inverted_index - INFO - 处理文件: e5d53da8cff99e1c1072cf973ad3f86a.txt
+2025-06-03 14:40:31,839 - inverted_index - INFO - 文件 e5d53da8cff99e1c1072cf973ad3f86a.txt 处理完成
+2025-06-03 14:40:31,839 - inverted_index - INFO - 处理文件: e5e0c19d0981cfaf967474a533ddd298.txt
+2025-06-03 14:40:31,839 - inverted_index - INFO - 文件 e5e0c19d0981cfaf967474a533ddd298.txt 处理完成
+2025-06-03 14:40:31,839 - inverted_index - INFO - 处理文件: e637a9354a2dab8ea84132e12d5cdd12.txt
+2025-06-03 14:40:31,839 - inverted_index - INFO - 文件 e637a9354a2dab8ea84132e12d5cdd12.txt 处理完成
+2025-06-03 14:40:31,840 - inverted_index - INFO - 处理文件: e6a94c3ca38411620bb773e5f841ccc6.txt
+2025-06-03 14:40:31,840 - inverted_index - INFO - 文件 e6a94c3ca38411620bb773e5f841ccc6.txt 处理完成
+2025-06-03 14:40:31,840 - inverted_index - INFO - 处理文件: e6e5982ce5d9bfe8d29382f2414faecf.txt
+2025-06-03 14:40:31,840 - inverted_index - INFO - 文件 e6e5982ce5d9bfe8d29382f2414faecf.txt 处理完成
+2025-06-03 14:40:31,840 - inverted_index - INFO - 处理文件: e6f23cf83790af931d0e35cdc5ca14d0.txt
+2025-06-03 14:40:31,841 - inverted_index - INFO - 文件 e6f23cf83790af931d0e35cdc5ca14d0.txt 处理完成
+2025-06-03 14:40:31,841 - inverted_index - INFO - 处理文件: e7418ae89ec4c5493de9f8f2014ea264.txt
+2025-06-03 14:40:31,841 - inverted_index - INFO - 文件 e7418ae89ec4c5493de9f8f2014ea264.txt 处理完成
+2025-06-03 14:40:31,841 - inverted_index - INFO - 处理文件: e754aa5c34607abb5af4d0fa97246475.txt
+2025-06-03 14:40:31,842 - inverted_index - INFO - 文件 e754aa5c34607abb5af4d0fa97246475.txt 处理完成
+2025-06-03 14:40:31,842 - inverted_index - INFO - 处理文件: e766de41e76cf789e9e8b9ff3653af26.txt
+2025-06-03 14:40:31,842 - inverted_index - INFO - 文件 e766de41e76cf789e9e8b9ff3653af26.txt 处理完成
+2025-06-03 14:40:31,842 - inverted_index - INFO - 处理文件: e79a195586f5ad541bf527253fb0d90c.txt
+2025-06-03 14:40:31,843 - inverted_index - INFO - 文件 e79a195586f5ad541bf527253fb0d90c.txt 处理完成
+2025-06-03 14:40:31,843 - inverted_index - INFO - 处理文件: e954a8d74018535e82fa0267751d4810.txt
+2025-06-03 14:40:31,843 - inverted_index - INFO - 文件 e954a8d74018535e82fa0267751d4810.txt 处理完成
+2025-06-03 14:40:31,844 - inverted_index - INFO - 处理文件: e97a13c4ec9daeee2dc34ef731ab6e5f.txt
+2025-06-03 14:40:31,844 - inverted_index - INFO - 文件 e97a13c4ec9daeee2dc34ef731ab6e5f.txt 处理完成
+2025-06-03 14:40:31,844 - inverted_index - INFO - 处理文件: e9a5af18d632bb52ee64663f2a873a7e.txt
+2025-06-03 14:40:31,844 - inverted_index - INFO - 文件 e9a5af18d632bb52ee64663f2a873a7e.txt 处理完成
+2025-06-03 14:40:31,844 - inverted_index - INFO - 处理文件: e9aba320bb37247cf31cc51641a6baae.txt
+2025-06-03 14:40:31,844 - inverted_index - INFO - 文件 e9aba320bb37247cf31cc51641a6baae.txt 处理完成
+2025-06-03 14:40:31,845 - inverted_index - INFO - 处理文件: eaa4e9e7e1f3af5e316aaf4c61555b94.txt
+2025-06-03 14:40:31,845 - inverted_index - INFO - 文件 eaa4e9e7e1f3af5e316aaf4c61555b94.txt 处理完成
+2025-06-03 14:40:31,845 - inverted_index - INFO - 处理文件: eb011a4d0db20e46710f1686beda695f.txt
+2025-06-03 14:40:31,845 - inverted_index - INFO - 文件 eb011a4d0db20e46710f1686beda695f.txt 处理完成
+2025-06-03 14:40:31,845 - inverted_index - INFO - 处理文件: eb0a0e0794a36af4221be175e6676771.txt
+2025-06-03 14:40:31,846 - inverted_index - INFO - 文件 eb0a0e0794a36af4221be175e6676771.txt 处理完成
+2025-06-03 14:40:31,846 - inverted_index - INFO - 处理文件: ec14ab709876b005fd3946f17bf1fd04.txt
+2025-06-03 14:40:31,846 - inverted_index - INFO - 文件 ec14ab709876b005fd3946f17bf1fd04.txt 处理完成
+2025-06-03 14:40:31,846 - inverted_index - INFO - 处理文件: ec20f80490891f8d2e532e046ab72c4d.txt
+2025-06-03 14:40:31,846 - inverted_index - INFO - 文件 ec20f80490891f8d2e532e046ab72c4d.txt 处理完成
+2025-06-03 14:40:31,846 - inverted_index - INFO - 处理文件: ec2fb878c331519f1ab70367bd15604b.txt
+2025-06-03 14:40:31,846 - inverted_index - INFO - 文件 ec2fb878c331519f1ab70367bd15604b.txt 处理完成
+2025-06-03 14:40:31,847 - inverted_index - INFO - 处理文件: ec6d0328f2a9f71cea3df482eaadfff0.txt
+2025-06-03 14:40:31,847 - inverted_index - INFO - 文件 ec6d0328f2a9f71cea3df482eaadfff0.txt 处理完成
+2025-06-03 14:40:31,848 - inverted_index - INFO - 处理文件: ec89fae717f0fbe40fbc83ab410c418f.txt
+2025-06-03 14:40:31,848 - inverted_index - INFO - 文件 ec89fae717f0fbe40fbc83ab410c418f.txt 处理完成
+2025-06-03 14:40:31,849 - inverted_index - INFO - 处理文件: ec946f838483cfd6912cb28b9332ad1a.txt
+2025-06-03 14:40:31,849 - inverted_index - INFO - 文件 ec946f838483cfd6912cb28b9332ad1a.txt 处理完成
+2025-06-03 14:40:31,849 - inverted_index - INFO - 处理文件: ecbe6832f457f827ed160ecd4a5359db.txt
+2025-06-03 14:40:31,850 - inverted_index - INFO - 文件 ecbe6832f457f827ed160ecd4a5359db.txt 处理完成
+2025-06-03 14:40:31,850 - inverted_index - INFO - 处理文件: ed111f03300f23347624c98cab4849db.txt
+2025-06-03 14:40:31,850 - inverted_index - INFO - 文件 ed111f03300f23347624c98cab4849db.txt 处理完成
+2025-06-03 14:40:31,851 - inverted_index - INFO - 处理文件: ed78692d49a5ddd2dd5aa3147f27b060.txt
+2025-06-03 14:40:31,851 - inverted_index - INFO - 文件 ed78692d49a5ddd2dd5aa3147f27b060.txt 处理完成
+2025-06-03 14:40:31,851 - inverted_index - INFO - 处理文件: ee164c9571a877e194ed9022def8643a.txt
+2025-06-03 14:40:31,851 - inverted_index - INFO - 文件 ee164c9571a877e194ed9022def8643a.txt 处理完成
+2025-06-03 14:40:31,852 - inverted_index - INFO - 处理文件: ee223effb26971c45476ff2984274220.txt
+2025-06-03 14:40:31,852 - inverted_index - INFO - 文件 ee223effb26971c45476ff2984274220.txt 处理完成
+2025-06-03 14:40:31,852 - inverted_index - INFO - 处理文件: eeede8fcd7fbacb3fcd131ac22636677.txt
+2025-06-03 14:40:31,852 - inverted_index - INFO - 文件 eeede8fcd7fbacb3fcd131ac22636677.txt 处理完成
+2025-06-03 14:40:31,852 - inverted_index - INFO - 处理文件: ef1f014c3a7f657d12bdc3524d55a794.txt
+2025-06-03 14:40:31,853 - inverted_index - INFO - 文件 ef1f014c3a7f657d12bdc3524d55a794.txt 处理完成
+2025-06-03 14:40:31,853 - inverted_index - INFO - 处理文件: ef851f0e2c66cdecc520d24d220a2efe.txt
+2025-06-03 14:40:31,853 - inverted_index - INFO - 文件 ef851f0e2c66cdecc520d24d220a2efe.txt 处理完成
+2025-06-03 14:40:31,853 - inverted_index - INFO - 处理文件: ef97edaf8012bb2a562d52d0609551ee.txt
+2025-06-03 14:40:31,854 - inverted_index - INFO - 文件 ef97edaf8012bb2a562d52d0609551ee.txt 处理完成
+2025-06-03 14:40:31,854 - inverted_index - INFO - 处理文件: efa7e75a196740474869b45350f74389.txt
+2025-06-03 14:40:31,854 - inverted_index - INFO - 文件 efa7e75a196740474869b45350f74389.txt 处理完成
+2025-06-03 14:40:31,854 - inverted_index - INFO - 处理文件: efd0d6a61e3ec8191624331bdb64dac8.txt
+2025-06-03 14:40:31,854 - inverted_index - INFO - 文件 efd0d6a61e3ec8191624331bdb64dac8.txt 处理完成
+2025-06-03 14:40:31,854 - inverted_index - INFO - 处理文件: f02a70d6da1b18c2d04be4078c7fdec1.txt
+2025-06-03 14:40:31,855 - inverted_index - INFO - 文件 f02a70d6da1b18c2d04be4078c7fdec1.txt 处理完成
+2025-06-03 14:40:31,855 - inverted_index - INFO - 处理文件: f03bb167158c4e843d719a36d0133f7d.txt
+2025-06-03 14:40:31,855 - inverted_index - INFO - 文件 f03bb167158c4e843d719a36d0133f7d.txt 处理完成
+2025-06-03 14:40:31,855 - inverted_index - INFO - 处理文件: f0528f24b6df6f94dbca8b58c3316f1e.txt
+2025-06-03 14:40:31,855 - inverted_index - INFO - 文件 f0528f24b6df6f94dbca8b58c3316f1e.txt 处理完成
+2025-06-03 14:40:31,855 - inverted_index - INFO - 处理文件: f0a60a1d8c17f0323b5398b4f07d8c5f.txt
+2025-06-03 14:40:31,856 - inverted_index - INFO - 文件 f0a60a1d8c17f0323b5398b4f07d8c5f.txt 处理完成
+2025-06-03 14:40:31,856 - inverted_index - INFO - 处理文件: f0b2b57b85504193d92ebea932cb238a.txt
+2025-06-03 14:40:31,856 - inverted_index - INFO - 文件 f0b2b57b85504193d92ebea932cb238a.txt 处理完成
+2025-06-03 14:40:31,856 - inverted_index - INFO - 处理文件: f0f43533ceaf16010f3ca5326a1a4df3.txt
+2025-06-03 14:40:31,856 - inverted_index - INFO - 文件 f0f43533ceaf16010f3ca5326a1a4df3.txt 处理完成
+2025-06-03 14:40:31,857 - inverted_index - INFO - 处理文件: f1bd31d15f37232c399bbd92349a3dcd.txt
+2025-06-03 14:40:31,857 - inverted_index - INFO - 文件 f1bd31d15f37232c399bbd92349a3dcd.txt 处理完成
+2025-06-03 14:40:31,857 - inverted_index - INFO - 处理文件: f1e0aa651e63aa7c35eb0ad6dc40e311.txt
+2025-06-03 14:40:31,857 - inverted_index - INFO - 文件 f1e0aa651e63aa7c35eb0ad6dc40e311.txt 处理完成
+2025-06-03 14:40:31,858 - inverted_index - INFO - 处理文件: f1f14d6d4e7737326c26bfa5051779b3.txt
+2025-06-03 14:40:31,858 - inverted_index - INFO - 文件 f1f14d6d4e7737326c26bfa5051779b3.txt 处理完成
+2025-06-03 14:40:31,858 - inverted_index - INFO - 处理文件: f25dbb5c321ec71d910d297aa87a78de.txt
+2025-06-03 14:40:31,858 - inverted_index - INFO - 文件 f25dbb5c321ec71d910d297aa87a78de.txt 处理完成
+2025-06-03 14:40:31,859 - inverted_index - INFO - 处理文件: f2650397fe146b4864a7bf3783ed16de.txt
+2025-06-03 14:40:31,859 - inverted_index - INFO - 文件 f2650397fe146b4864a7bf3783ed16de.txt 处理完成
+2025-06-03 14:40:31,860 - inverted_index - INFO - 处理文件: f31aa6b56c5893f4d71fa30edd3ec667.txt
+2025-06-03 14:40:31,860 - inverted_index - INFO - 文件 f31aa6b56c5893f4d71fa30edd3ec667.txt 处理完成
+2025-06-03 14:40:31,860 - inverted_index - INFO - 处理文件: f39f0153f094839cf31e2b1fe260ea5d.txt
+2025-06-03 14:40:31,860 - inverted_index - INFO - 文件 f39f0153f094839cf31e2b1fe260ea5d.txt 处理完成
+2025-06-03 14:40:31,860 - inverted_index - INFO - 处理文件: f3a0b655f74adc6b8e5e3f0356dc3cdb.txt
+2025-06-03 14:40:31,860 - inverted_index - INFO - 文件 f3a0b655f74adc6b8e5e3f0356dc3cdb.txt 处理完成
+2025-06-03 14:40:31,860 - inverted_index - INFO - 处理文件: f3b0a17a7a084288f630bd645bdb4d1a.txt
+2025-06-03 14:40:31,861 - inverted_index - INFO - 文件 f3b0a17a7a084288f630bd645bdb4d1a.txt 处理完成
+2025-06-03 14:40:31,861 - inverted_index - INFO - 处理文件: f427157bdc365448d8e8584fe95cfde8.txt
+2025-06-03 14:40:31,861 - inverted_index - INFO - 文件 f427157bdc365448d8e8584fe95cfde8.txt 处理完成
+2025-06-03 14:40:31,861 - inverted_index - INFO - 处理文件: f4595ad1f796220c6356ba775a69424a.txt
+2025-06-03 14:40:31,861 - inverted_index - INFO - 文件 f4595ad1f796220c6356ba775a69424a.txt 处理完成
+2025-06-03 14:40:31,862 - inverted_index - INFO - 处理文件: f4cddceb5aa4f6617ea3c4c2e593d262.txt
+2025-06-03 14:40:31,862 - inverted_index - INFO - 文件 f4cddceb5aa4f6617ea3c4c2e593d262.txt 处理完成
+2025-06-03 14:40:31,862 - inverted_index - INFO - 处理文件: f58b923372c64b8983641b86c7501ac4.txt
+2025-06-03 14:40:31,862 - inverted_index - INFO - 文件 f58b923372c64b8983641b86c7501ac4.txt 处理完成
+2025-06-03 14:40:31,863 - inverted_index - INFO - 处理文件: f5dca9e0a6c6eb558c537eaf07a44fe4.txt
+2025-06-03 14:40:31,863 - inverted_index - INFO - 文件 f5dca9e0a6c6eb558c537eaf07a44fe4.txt 处理完成
+2025-06-03 14:40:31,863 - inverted_index - INFO - 处理文件: f68050d1bd0530bda9df1df09098b53c.txt
+2025-06-03 14:40:31,863 - inverted_index - INFO - 文件 f68050d1bd0530bda9df1df09098b53c.txt 处理完成
+2025-06-03 14:40:31,863 - inverted_index - INFO - 处理文件: f6f27ac69a23a994d0158df035b3e87a.txt
+2025-06-03 14:40:31,864 - inverted_index - INFO - 文件 f6f27ac69a23a994d0158df035b3e87a.txt 处理完成
+2025-06-03 14:40:31,864 - inverted_index - INFO - 处理文件: f70cf26f036dc63155aa0d601fb2c527.txt
+2025-06-03 14:40:31,864 - inverted_index - INFO - 文件 f70cf26f036dc63155aa0d601fb2c527.txt 处理完成
+2025-06-03 14:40:31,865 - inverted_index - INFO - 处理文件: f748957fc034ae19ab007d3da141cc84.txt
+2025-06-03 14:40:31,865 - inverted_index - INFO - 文件 f748957fc034ae19ab007d3da141cc84.txt 处理完成
+2025-06-03 14:40:31,866 - inverted_index - INFO - 处理文件: f760e8a751594b342a6ce90b53e2ab64.txt
+2025-06-03 14:40:31,866 - inverted_index - INFO - 文件 f760e8a751594b342a6ce90b53e2ab64.txt 处理完成
+2025-06-03 14:40:31,866 - inverted_index - INFO - 处理文件: f7ce34bee7c0432fb75b9c174f87c272.txt
+2025-06-03 14:40:31,867 - inverted_index - INFO - 文件 f7ce34bee7c0432fb75b9c174f87c272.txt 处理完成
+2025-06-03 14:40:31,867 - inverted_index - INFO - 处理文件: f82ee1aa2b855cbfe2f40acb10844730.txt
+2025-06-03 14:40:31,868 - inverted_index - INFO - 文件 f82ee1aa2b855cbfe2f40acb10844730.txt 处理完成
+2025-06-03 14:40:31,868 - inverted_index - INFO - 处理文件: f87aa0280a4bbbaa112b215a17f26649.txt
+2025-06-03 14:40:31,868 - inverted_index - INFO - 文件 f87aa0280a4bbbaa112b215a17f26649.txt 处理完成
+2025-06-03 14:40:31,868 - inverted_index - INFO - 处理文件: f951199ae60b7199a991e542b529fbb8.txt
+2025-06-03 14:40:31,868 - inverted_index - INFO - 文件 f951199ae60b7199a991e542b529fbb8.txt 处理完成
+2025-06-03 14:40:31,868 - inverted_index - INFO - 处理文件: f96c978b24ca00221975f0463e4c328e.txt
+2025-06-03 14:40:31,870 - inverted_index - INFO - 文件 f96c978b24ca00221975f0463e4c328e.txt 处理完成
+2025-06-03 14:40:31,870 - inverted_index - INFO - 处理文件: f9bdd369b21f5587b7db726d1b6c5673.txt
+2025-06-03 14:40:31,870 - inverted_index - INFO - 文件 f9bdd369b21f5587b7db726d1b6c5673.txt 处理完成
+2025-06-03 14:40:31,870 - inverted_index - INFO - 处理文件: f9d2c2812fd103fa040178a6c1b1603b.txt
+2025-06-03 14:40:31,870 - inverted_index - INFO - 文件 f9d2c2812fd103fa040178a6c1b1603b.txt 处理完成
+2025-06-03 14:40:31,870 - inverted_index - INFO - 处理文件: fa1068d357d6b461b5ee7efd044c9980.txt
+2025-06-03 14:40:31,872 - inverted_index - INFO - 文件 fa1068d357d6b461b5ee7efd044c9980.txt 处理完成
+2025-06-03 14:40:31,872 - inverted_index - INFO - 处理文件: fa26362820276fbc9d07c2055b08e1be.txt
+2025-06-03 14:40:31,872 - inverted_index - INFO - 文件 fa26362820276fbc9d07c2055b08e1be.txt 处理完成
+2025-06-03 14:40:31,873 - inverted_index - INFO - 处理文件: fa443541938a56d6030d6770d868c8e9.txt
+2025-06-03 14:40:31,873 - inverted_index - INFO - 文件 fa443541938a56d6030d6770d868c8e9.txt 处理完成
+2025-06-03 14:40:31,874 - inverted_index - INFO - 处理文件: fa48190a16b5832fa53bdc626605c314.txt
+2025-06-03 14:40:31,874 - inverted_index - INFO - 文件 fa48190a16b5832fa53bdc626605c314.txt 处理完成
+2025-06-03 14:40:31,874 - inverted_index - INFO - 处理文件: fa6119db10e450c3f5dd2f8be07d711a.txt
+2025-06-03 14:40:31,875 - inverted_index - INFO - 文件 fa6119db10e450c3f5dd2f8be07d711a.txt 处理完成
+2025-06-03 14:40:31,875 - inverted_index - INFO - 处理文件: fa7661341b80583367d7f8eeb1eadb06.txt
+2025-06-03 14:40:31,875 - inverted_index - INFO - 文件 fa7661341b80583367d7f8eeb1eadb06.txt 处理完成
+2025-06-03 14:40:31,875 - inverted_index - INFO - 处理文件: fb793cc2b43425d352e40c5a4c00841b.txt
+2025-06-03 14:40:31,876 - inverted_index - INFO - 文件 fb793cc2b43425d352e40c5a4c00841b.txt 处理完成
+2025-06-03 14:40:31,876 - inverted_index - INFO - 处理文件: fb86b0e0571ee964f33346e4fb468399.txt
+2025-06-03 14:40:31,876 - inverted_index - INFO - 文件 fb86b0e0571ee964f33346e4fb468399.txt 处理完成
+2025-06-03 14:40:31,876 - inverted_index - INFO - 处理文件: fc227569495974fc4fb40069905b8580.txt
+2025-06-03 14:40:31,876 - inverted_index - INFO - 文件 fc227569495974fc4fb40069905b8580.txt 处理完成
+2025-06-03 14:40:31,877 - inverted_index - INFO - 处理文件: fcbb5e4c91400b1baf0b1e63f4e7af20.txt
+2025-06-03 14:40:31,877 - inverted_index - INFO - 文件 fcbb5e4c91400b1baf0b1e63f4e7af20.txt 处理完成
+2025-06-03 14:40:31,877 - inverted_index - INFO - 处理文件: fce91445246f6f99b588eae90d55aa33.txt
+2025-06-03 14:40:31,877 - inverted_index - INFO - 文件 fce91445246f6f99b588eae90d55aa33.txt 处理完成
+2025-06-03 14:40:31,877 - inverted_index - INFO - 处理文件: fd2bf1e6e990c18180d3805810ade110.txt
+2025-06-03 14:40:31,877 - inverted_index - INFO - 文件 fd2bf1e6e990c18180d3805810ade110.txt 处理完成
+2025-06-03 14:40:31,878 - inverted_index - INFO - 处理文件: fd4c59c9dd78a0cf4a2ed1c33e0b07e3.txt
+2025-06-03 14:40:31,878 - inverted_index - INFO - 文件 fd4c59c9dd78a0cf4a2ed1c33e0b07e3.txt 处理完成
+2025-06-03 14:40:31,878 - inverted_index - INFO - 处理文件: fd887704f26fb20e394ced054e348a75.txt
+2025-06-03 14:40:31,878 - inverted_index - INFO - 文件 fd887704f26fb20e394ced054e348a75.txt 处理完成
+2025-06-03 14:40:31,878 - inverted_index - INFO - 处理文件: fdacc6773f99bc00777a07614a95fec3.txt
+2025-06-03 14:40:31,879 - inverted_index - INFO - 文件 fdacc6773f99bc00777a07614a95fec3.txt 处理完成
+2025-06-03 14:40:31,879 - inverted_index - INFO - 处理文件: fdb5b6e3cfa015cbda36c1b4b37f4707.txt
+2025-06-03 14:40:31,879 - inverted_index - INFO - 文件 fdb5b6e3cfa015cbda36c1b4b37f4707.txt 处理完成
+2025-06-03 14:40:31,879 - inverted_index - INFO - 处理文件: fe3b2f7b2c6b03bb576d7b090a98fd4e.txt
+2025-06-03 14:40:31,880 - inverted_index - INFO - 文件 fe3b2f7b2c6b03bb576d7b090a98fd4e.txt 处理完成
+2025-06-03 14:40:31,880 - inverted_index - INFO - 处理文件: fe79f2825d13d7aadd687e4099f2dc29.txt
+2025-06-03 14:40:31,880 - inverted_index - INFO - 文件 fe79f2825d13d7aadd687e4099f2dc29.txt 处理完成
+2025-06-03 14:40:31,880 - inverted_index - INFO - 处理文件: fec7d26b7d5ee958d927977a0a3057da.txt
+2025-06-03 14:40:31,880 - inverted_index - INFO - 文件 fec7d26b7d5ee958d927977a0a3057da.txt 处理完成
+2025-06-03 14:40:31,880 - inverted_index - INFO - 处理文件: ff2e8f4fe324088d59c7b7340ac9c702.txt
+2025-06-03 14:40:31,881 - inverted_index - INFO - 文件 ff2e8f4fe324088d59c7b7340ac9c702.txt 处理完成
+2025-06-03 14:40:31,881 - inverted_index - INFO - 处理文件: ff51286f33554148e16b466a36a3fbd7.txt
+2025-06-03 14:40:31,881 - inverted_index - INFO - 文件 ff51286f33554148e16b466a36a3fbd7.txt 处理完成
+2025-06-03 14:40:31,882 - inverted_index - INFO - 处理文件: ff565310ae6cb9ec160fc9b26fc33d30.txt
+2025-06-03 14:40:31,882 - inverted_index - INFO - 文件 ff565310ae6cb9ec160fc9b26fc33d30.txt 处理完成
+2025-06-03 14:40:31,882 - inverted_index - INFO - 处理文件: ff724965dcc1e9522ddf67752bcda430.txt
+2025-06-03 14:40:31,883 - inverted_index - INFO - 文件 ff724965dcc1e9522ddf67752bcda430.txt 处理完成
+2025-06-03 14:40:31,883 - inverted_index - INFO - 处理文件: ffe277220c4cef2850b65939df1c2011.txt
+2025-06-03 14:40:31,883 - inverted_index - INFO - 文件 ffe277220c4cef2850b65939df1c2011.txt 处理完成
+2025-06-03 14:40:31,883 - inverted_index - INFO - 处理文件: fffcdbe5fd8c3d106f5477b1b68692b8.txt
+2025-06-03 14:40:31,885 - inverted_index - INFO - 文件 fffcdbe5fd8c3d106f5477b1b68692b8.txt 处理完成
+2025-06-03 14:40:31,885 - inverted_index - INFO - 倒排索引构建完成
+2025-06-03 14:40:31,885 - inverted_index - INFO - 保存倒排索引到 inverted.index
+2025-06-03 14:40:31,908 - inverted_index - INFO - 倒排索引保存完成
+2025-06-03 14:40:31,909 - inverted_index - INFO - 倒排索引构建流程完成

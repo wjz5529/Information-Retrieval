@@ -1,0 +1,1673 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="webplus-main"  >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="render" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>计算机科学与技术学院</title>
+    
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/sudy-jquery-autoload.js" jquery-src="/_js/jquery-2.x.min.js" sudy-wp-context="" sudy-wp-siteId="289"></script>
+<script language="javascript" src="/_js/jquery-migrate.min.js"></script>
+<script language="javascript" src="/_js2/loadStyle.js" sys-path="/_upload/site/1/style/1/1.css"  site-path="/_upload/site/01/21/289/style/282/282.css" ></script>
+<script language="javascript" src="/_js2/grayscale.js"   ></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/winfloat/js/winfloat.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/swiper.min.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/base.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/style.css">
+    
+</head>
+<body>
+
+    <!-- Common Header -->
+    <header class="outer header">
+        <div class="inner">
+            <div class="container">
+                <div class="header-bar">
+                    <div class="header-search">
+                        <a href="javascript:void(0)" title="搜索" onclick="searchShow()">
+                            <i><img src="/_upload/tpl/04/5d/1117/template1117/static/img/icon/icon_search.png" alt="搜索"></i>
+                        </a>
+                        <div class="search-box" frag="窗口1" portletmode="search" style="display: none;">                            <form action="/_web/_search/api/search/new.rst?locale=zh_CN&request_locale=zh_CN&context=&_p=YXM9Mjg5JnQ9MTExNyZkPTQ1MTEmcD0xJm09U04m" method="POST" target="_blank">
+                                <input class="search-input" name="keyword" type="text" maxlength="40" autocomplete="off" placeholder="请输入搜索内容..."/>
+                                <button class="search-submit" type="submit"></button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="header-link">
+                        <span>
+                            <a href="http://scst.suda.edu.cn/main.htm" title="中文" target="_blank">中文</a>
+                        </span> |
+                        <span>
+                            <a href="javascript:void(0)" title="English" target="_blank">English</a>
+                        </span>
+                    </div>
+                </div>
+                <div class="header-logo">
+                    <a href="http://scst.suda.edu.cn/main.htm" title="苏州大学计算机科学与技术学院(软件学院)" target="_blank">
+                        <img src="/_upload/tpl/04/5d/1117/template1117/static/img/header_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+    <!-- Common Nav -->
+    <nav class="outer header-nav">
+        <div class="inner container" frag="窗口2">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav" aria-expanded="false"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></button>
+            <div class="site-nav collapse navbar-collapse" id="nav">
+                
+                <ul class="nav navbar-nav">
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="http://scst.suda.edu.cn/main.htm" target="_self" title="网站首页" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">网站首页</a>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11195/list.htm" target="_self" title="学院概况" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学院概况</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11238/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/11241/list.htm" target="_self" title="历史沿革">历史沿革</a></li>
+                            
+                            <li><a href="/11240/list.htm" target="_self" title="现任领导">现任领导</a></li>
+                            
+                            <li><a href="/11239/list.htm" target="_self" title="机构设置">机构设置</a></li>
+                            
+                            <li><a href="/11242/list.htm" target="_self" title="办学资源">办学资源</a></li>
+                            
+                            <li><a href="/xkqk/list.htm" target="_self" title="学科情况">学科情况</a></li>
+                            
+                            <li><a href="/11243/list.htm" target="_self" title="联系方式">联系方式</a></li>
+                            
+                            <li><a href="/ssyjx/list.htm" target="_self" title="师生意见箱">师生意见箱</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11197/list.htm" target="_self" title="师资中心" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">师资中心</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11248/list.htm" target="_self" title="师资概况">师资概况</a></li>
+                            
+                            <li><a href="/11249/list.htm" target="_self" title=" 教职工名单"> 教职工名单</a></li>
+                            
+                            <li><a href="/11250/list.htm" target="_self" title=" 导师简介"> 导师简介</a></li>
+                            
+                            <li><a href="/11251/list.htm" target="_self" title=" 兼职师资"> 兼职师资</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11198/list.htm" target="_self" title=" 科学研究" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown"> 科学研究</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/yjzx/list.htm" target="_self" title="研究中心">研究中心</a></li>
+                            
+                            <li><a href="/11253/list.htm" target="_self" title=" 科研机构"> 科研机构</a></li>
+                            
+                            <li><a href="/11254/list.htm" target="_self" title=" 科研项目"> 科研项目</a></li>
+                            
+                            <li><a href="/11255/list.htm" target="_self" title=" 科研论文"> 科研论文</a></li>
+                            
+                            <li><a href="/11256/list.htm" target="_self" title="知识产权">知识产权</a></li>
+                            
+                            <li><a href="/11257/list.htm" target="_self" title=" 科研政策"> 科研政策</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11199/list.htm" target="_self" title="人才培养" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">人才培养</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/shpgzt/list.htm" target="_self" title="审核评估专题">审核评估专题</a></li>
+                            
+                            <li><a href="/11229/list.htm" target="_self" title="博士生">博士生</a></li>
+                            
+                            <li><a href="/11230/list.htm" target="_self" title=" 硕士生"> 硕士生</a></li>
+                            
+                            <li><a href="/11231/list.htm" target="_self" title=" 本科生"> 本科生</a></li>
+                            
+                            <li><a href="/11234/list.htm" target="_self" title=" 图灵班"> 图灵班</a></li>
+                            
+                            <li><a href="/tljt/list.htm" target="_self" title="图灵讲堂">图灵讲堂</a></li>
+                            
+                            <li><a href="/zygcsb/list.htm" target="_self" title="卓越工程师班">卓越工程师班</a></li>
+                            
+                            <li><a href="/gjjl/list.htm" target="_self" title="国际交流">国际交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11201/list.htm" target="_self" title="党群工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">党群工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xydw/list.htm" target="_self" title="学院党委">学院党委</a></li>
+                            
+                            <li><a href="/jczz/list.htm" target="_self" title="基层组织">基层组织</a></li>
+                            
+                            <li><a href="/fdxgz/list.htm" target="_self" title="分党校工作">分党校工作</a></li>
+                            
+                            <li><a href="/11264/list.htm" target="_self" title=" 发展工作"> 发展工作</a></li>
+                            
+                            <li><a href="/11265/list.htm" target="_self" title=" 关工委工作"> 关工委工作</a></li>
+                            
+                            <li><a href="/11260/list.htm" target="_self" title=" 规章制度"> 规章制度</a></li>
+                            
+                            <li><a href="/11262/list.htm" target="_self" title=" 专题活动"> 专题活动</a></li>
+                            
+                            <li><a href="/xxyd/list.htm" target="_self" title="学习园地">学习园地</a></li>
+                            
+                            <li><a href="/qsdjgzybzbcj/list.htm" target="_self" title="全省党建工作样板支部创建">全省党建工作样板支部...</a></li>
+                            
+                            <li><a href="/szdxjsdzbsjsfgzscj/list.htm" target="_self" title="苏州大学教师党支部书记示范工作室创建">苏州大学教师党支部书...</a></li>
+                            
+                            <li><a href="/ghgz/list.htm" target="_self" title="工会工作">工会工作</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11200/list.htm" target="_self" title="学生工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学生工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xskc/list.htm" target="_self" title="学生科创">学生科创</a></li>
+                            
+                            <li><a href="/28212/list.htm" target="_self" title="工作队伍">工作队伍</a></li>
+                            
+                            <li><a href="/11275/list.htm" target="_self" title=" 学工通知"> 学工通知</a></li>
+                            
+                            <li><a href="/xgxw/list.htm" target="_self" title="学工新闻">学工新闻</a></li>
+                            
+                            <li><a href="/28213/list.htm" target="_self" title="规章制度">规章制度</a></li>
+                            
+                            <li><a href="/28216/list.htm" target="_self" title="志愿服务">志愿服务</a></li>
+                            
+                            <li><a href="/28218/list.htm" target="_self" title="学生组织">学生组织</a></li>
+                            
+                            <li><a href="/28219/list.htm" target="_self" title="勤工助学">勤工助学</a></li>
+                            
+                            <li><a href="/28220/list.htm" target="_self" title="心理健康">心理健康</a></li>
+                            
+                            <li><a href="/28221/list.htm" target="_self" title="就业创业">就业创业</a></li>
+                            
+                            <li><a href="/czpb/list.htm" target="_self" title="成长陪伴">成长陪伴</a></li>
+                            
+                            <li><a href="/jxpt/list.htm" target="_self" title="家校平台">家校平台</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xqhz/list.htm" target="_self" title="合作交流" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">合作交流</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xqhz_30719/list.htm" target="_self" title="校企合作与交流">校企合作与交流</a></li>
+                            
+                            <li><a href="/gjhzyjl/list.htm" target="_self" title="国际合作与交流">国际合作与交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/bmxy/list.htm" target="_self" title="保密学院" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">保密学院</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xyjj/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/bmpx/list.htm" target="_self" title="保密培训">保密培训</a></li>
+                            
+                            <li><a href="/bmyj/list.htm" target="_self" title="保密研究">保密研究</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11232/list.htm" target="_self" title="继续教育" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">继续教育</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28237/list.htm" target="_self" title="成教工作">成教工作</a></li>
+                            
+                            <li><a href="/28238/list.htm" target="_self" title="自考工作">自考工作</a></li>
+                            
+                            <li><a href="/28239/list.htm" target="_self" title="培训工作">培训工作</a></li>
+                            
+                            <li><a href="/28240/list.htm" target="_self" title="留学项目">留学项目</a></li>
+                            
+                            <li><a href="/zxkc/list.htm" target="_self" title="在线课程">在线课程</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xyfw/list.htm" target="_self" title="校友工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">校友工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28241/list.htm" target="_self" title="校友服务">校友服务</a></li>
+                            
+                            <li><a href="/28243/list.htm" target="_self" title="毕业校友录">毕业校友录</a></li>
+                            
+                            <li><a href="/28244/list.htm" target="_self" title="校友活动">校友活动</a></li>
+                            
+                            <li><a href="/xyh/list.htm" target="_self" title="校友会">校友会</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                </ul>
+                
+            </div>
+        </div>
+    </nav>
+    <script>
+        function searchShow() {
+            if($('.search-box').hasClass('active')){
+                $('.search-box').fadeOut();
+                $('.search-box').removeClass('active');
+            } else {
+                $('.search-box').addClass('active');
+                $('.search-box').fadeIn();
+            }
+        }
+    </script>
+
+
+    <!-- Home Banner -->
+    <section class="outer home-banner">
+        <div class="inner" frag="窗口3">
+            <div class="swiper-container banner-carousel">
+                <div class="swiper-wrapper">
+                    
+                    <a class="swiper-slide banner-carousel-item" style="background-image: url(/_upload/article/images/7f/06/37c1ffc24fc49f67d7e7c2288929/62c76538-97e4-4180-a1c7-34ccc2c82f44.jpg);" href="/27/ae/c11211a272302/page.htm" target="_blank">
+                        <div class="banner-carousel-text">
+                            <h3 class="text-truncate">苏州大学计算机科学与技术学院诚聘海内外人才公告（常年招聘）</h3>
+                        </div>
+                    </a>
+                    
+                    <a class="swiper-slide banner-carousel-item" style="background-image: url(/_upload/article/images/76/3a/8661638a4240858f6087ce59f94b/29b91672-3972-41d2-871e-023bf717262f.jpg);" href="https://720yun.com/t/702jv7haev2" target="_blank">
+                        <div class="banner-carousel-text">
+                            <h3 class="text-truncate">理工大楼全景图</h3>
+                        </div>
+                    </a>
+                    
+                    <a class="swiper-slide banner-carousel-item" style="background-image: url(/_upload/article/images/f0/33/8346cab74e2093acd281f87e428a/cae71be2-2f3d-49cf-8b00-67e2d75d49bd.jpg);" href="/28/01/c11211a272385/page.htm" target="_blank">
+                        <div class="banner-carousel-text">
+                            <h3 class="text-truncate">计算机科学与技术学院</h3>
+                        </div>
+                    </a>
+                    
+                    <a class="swiper-slide banner-carousel-item" style="background-image: url(/_upload/article/images/e3/7a/dd6b331743de93d311dcc312bf64/07f3a003-963d-4940-a89b-719cfedd56dd.jpg);" href="/27/b2/c11211a272306/page.htm" target="_blank">
+                        <div class="banner-carousel-text">
+                            <h3 class="text-truncate">计算机科学与技术学院</h3>
+                        </div>
+                    </a>
+                    
+                </div>
+                <div class="swiper-pagination banner-pagination"></div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Home News -->
+    <section class="outer home-news">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="block-item i1">
+                        <div class="block-title block-tab">
+                            <a class="block-tab-item active" href="javascript:void(0)" data-name="news">学院新闻</a>
+                            <span class="block-tab-split"></span>
+                            <a class="block-tab-item" href="javascript:void(0)" data-name="event1">支部风采</a>
+                            <span class="block-tab-split"></span>
+                            <a class="block-tab-item" href="javascript:void(0)" data-name="event">师生风采</a>
+                        </div>
+                        <div class="block-tab-content active" data-name="news" style="display: block;" frag="窗口4">
+                            <a class="block-tab-more" href="/11202/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="img-news-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/26/ed/c11202a665325/page.htm" title="筑牢思想防线 赋能清廉校园建设——苏州大学计算机科学与技术学院研究生第三党支部与财务处党支部联合开展主题党日活动" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/f4/b7/52680aa54984a14c31b22cf10b73/163283ac-8ee4-4d60-b4f9-46ac29042db9_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>30</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">筑牢思想防线 赋能清廉校园建设——...</h3>
+                                                    <p class="text-two-line">为深入贯彻全面从严治党战略方针，推动党纪学习教育走深走实，5月29日下午，苏州...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/24/19/c11202a664601/page.htm" title="崇德承薪火 笃行筑学风——第四届科学道德和学风建设博士生宣讲团计算机科学与技术学院专场报告会顺利举行" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/85/59/7b7206674588902fbf9dfb286039/52f3d787-aa5a-4892-b2ed-0079eddfd785_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>24</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">崇德承薪火 笃行筑学风——第四届科...</h3>
+                                                    <p class="text-two-line">2025年5月19日下午，由党委研究生工作部主办、计算机科学与技术学院研究生会承办...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/24/1a/c11202a664602/page.htm" title="我院研究生在阿里云 &quot;云工开物&quot;人工智能训练营中展现实力" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/53/2f/3f09d13449bfbaca919324ebf1db/6f9a859f-fa02-4080-8448-2000d7d43976_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>24</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">我院研究生在阿里云 &quot;云工开物&quot;人...</h3>
+                                                    <p class="text-two-line">2025年5月21日，作为&quot;铸魂·卓越&quot;研究生培养工程的重要实践平台，由我院牵头组织、...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/24/1b/c11202a664603/page.htm" title="我院举办研究生党员成长经验交流暨学院发展恳谈会" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/aa/91/0420c14545548c1de336bb5878dc/dab0a0b9-004c-401a-a026-36fb93ea5da7_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>24</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">我院举办研究生党员成长经验交流暨...</h3>
+                                                    <p class="text-two-line">为深入学习贯彻党的二十大精神，推进研究生党建与育人工作深度融合，5月22日下午...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/23/01/c11202a664321/page.htm" title="2025年“企”智育才——产业教授系列报告第25期活动圆满举办" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/e7/18/48a2a9dc4db49f23609db912433d/537c9c03-8014-4e8e-947f-fe95c4838060_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>21</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">2025年“企”智育才——产业教授系列...</h3>
+                                                    <p class="text-two-line">2025年5月20日下午，苏州大学2025年“企”智育才——产业教授系列报告会第25期在苏...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="block-tab-content" data-name="event1" style="display: none;" frag="窗口55">
+                            <a class="block-tab-more" href="/zbfc/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="img-news-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/26/ed/c34366a665325/page.htm" title="筑牢思想防线 赋能清廉校园建设——苏州大学计算机科学与技术学院研究生第三党支部与财务处党支部联合开展主题党日活动" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/f4/b7/52680aa54984a14c31b22cf10b73/163283ac-8ee4-4d60-b4f9-46ac29042db9_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>30</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate"><a href='/26/ed/c34366a665325/page.htm' target='_blank' title='筑牢思想防线 赋能清廉校园建设——苏州大学计算机科学与技术学院研究生第三党支部与财务处党支部联合开展主题党日活动'>筑牢思想防线 赋能清廉校园建设—...</a></h3>
+                                                    <p class="text-two-line"><a href='/26/ed/c34366a665325/page.htm' target='_blank' title='筑牢思想防线 赋能清廉校园建设——苏州大学计算机科学与技术学院研究生第三党支部与财务处党支部联合开展主题党日活动'>为深入贯彻全面从严治党战略方针，推动党纪学习教育走深走实，5月29日下午，苏州大学财务处党支部与计算机...</a></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/11/e1/c34366a659937/page.htm" title="学院学生党支部书记培训会顺利举行" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/4c/bb/0886e4dc4796baae3a5c37f17148/ef0c8f93-50c6-4925-ad44-8037e72e40df_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>16</span>
+                                                    <b class="dateConvert">04</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate"><a href='/11/e1/c34366a659937/page.htm' target='_blank' title='学院学生党支部书记培训会顺利举行'>学院学生党支部书记培训会顺利举...</a></h3>
+                                                    <p class="text-two-line"><a href='/11/e1/c34366a659937/page.htm' target='_blank' title='学院学生党支部书记培训会顺利举行'>4月11日，计算机科学与技术学院党委举行党支部书记培训会，学院党委副书记、副院长李恩秀，专职组织员王栋...</a></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/0e/d4/c34366a659156/page.htm" title="校企携手共绘合作新篇章—— 计算机学院赴苏州信立盛电子有限公司开展访企拓岗调研" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/8d/fe/dace57bc417ebc09d19c29a25369/5556bd08-fe8b-47df-8449-755bf3614241_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>14</span>
+                                                    <b class="dateConvert">04</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate"><a href='/0e/d4/c34366a659156/page.htm' target='_blank' title='校企携手共绘合作新篇章—— 计算机学院赴苏州信立盛电子有限公司开展访企拓岗调研'>校企携手共绘合作新篇章—— 计算...</a></h3>
+                                                    <p class="text-two-line"><a href='/0e/d4/c34366a659156/page.htm' target='_blank' title='校企携手共绘合作新篇章—— 计算机学院赴苏州信立盛电子有限公司开展访企拓岗调研'>计算机学院赴苏州信立盛电子有限公司开展访企拓岗调研—— 校企携手共绘合作新篇章2025年4月10日下午，苏州大...</a></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/0a/f6/c34366a658166/page.htm" title="清明追思砺初心，科技报国担使命  ——苏州大学计算机科学与技术学院研究生党员开展红色基因传承主题党日活动" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/c2/cf/d99f2b8b467c980ca4d67b6fd15b/77f93aca-4721-4726-83f4-d89eb5f81e4a_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>04</span>
+                                                    <b class="dateConvert">04</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate"><a href='/0a/f6/c34366a658166/page.htm' target='_blank' title='清明追思砺初心，科技报国担使命  ——苏州大学计算机科学与技术学院研究生党员开展红色基因传承主题党日活动'>清明追思砺初心，科技报国担使命...</a></h3>
+                                                    <p class="text-two-line"><a href='/0a/f6/c34366a658166/page.htm' target='_blank' title='清明追思砺初心，科技报国担使命  ——苏州大学计算机科学与技术学院研究生党员开展红色基因传承主题党日活动'>清明寄哀思，奋进正当时。4月1日，苏州大学计算机科学与技术学院研究生第一、第四、第七党支部联合开展“缅...</a></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/00/6a/c34366a655466/page.htm" title="青春向党 技术筑防——本科生第一第二党支部组织国家安全教育主题党日活动" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/a3/12/e595ddb9470395181609f7e6de43/4fa5004d-c062-44c6-a873-bab18e598cff_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>14</span>
+                                                    <b class="dateConvert">03</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate"><a href='/00/6a/c34366a655466/page.htm' target='_blank' title='青春向党 技术筑防——本科生第一第二党支部组织国家安全教育主题党日活动'>青春向党 技术筑防——本科生第一...</a></h3>
+                                                    <p class="text-two-line"><a href='/00/6a/c34366a655466/page.htm' target='_blank' title='青春向党 技术筑防——本科生第一第二党支部组织国家安全教育主题党日活动'>3月12日下午，学院本科生党支部在本部图书馆成功举办了“青春向党 技术筑防——国家安全教育”党日活动。本次...</a></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/54/98/c34366a611480/page.htm" title="生物信息交叉领域初体验——计算机学院本科生党支部、“AI+生物医药”行动党支部开展联合党日活动" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/71/6c/3d6054f043dfb15ac96f55e7e2f0/a512f938-9e5e-41b3-88e9-af87f834456c_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>13</span>
+                                                    <b class="dateConvert">12</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate"><a href='/54/98/c34366a611480/page.htm' target='_blank' title='生物信息交叉领域初体验——计算机学院本科生党支部、“AI+生物医药”行动党支部开展联合党日活动'>生物信息交叉领域初体验——计算机...</a></h3>
+                                                    <p class="text-two-line"><a href='/54/98/c34366a611480/page.htm' target='_blank' title='生物信息交叉领域初体验——计算机学院本科生党支部、“AI+生物医药”行动党支部开展联合党日活动'>为深入推进“铸魂逐梦”工程，将职业生涯规划指导工作做实做细，更好推动学生高质量升学，学院“AI+生物医...</a></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="block-tab-content" data-name="event" style="display: none;" frag="窗口5">
+                            <a class="block-tab-more" href="/ssfc/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="img-news-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/26/d5/c28102a665301/page.htm" title="跃动体心  夏趣同燃——2025年苏州大学计科院趣味运动会圆满落幕" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/e5/fd/0dd08c9947fa9e8d132312601ffa/24897f75-5688-4812-b7ad-dc28b10b9930_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>30</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">跃动体心  夏趣同燃——2025年苏州大...</h3>
+                                                    <p class="text-two-line">初夏的微风轻拂校园，绿荫场上的欢呼声与笑声交织成一首青春乐章。5月25日下午，...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/24/76/c28102a664694/page.htm" title="当青春步履邂逅千年城垣 ——苏大学子古城门毅行活动侧记" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/34/a2/28529bd44137b479570c4289a69a/8dbce68b-f7ef-4ac7-8122-d43e9d16fdbe_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>26</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">当青春步履邂逅千年城垣 ——苏大学...</h3>
+                                                    <p class="text-two-line">五月的姑苏城，烟柳画桥氤氲江南诗意。5月19日，苏州大学计算机科学与技术学院与...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/21/57/c28102a663895/page.htm" title="以“竞”促学 “算”出精彩——学院ACM普及赛成功举办" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/60/6e/068831674fa7939279dcaa4f1a33/5b2363aa-1d3c-492c-a27c-9f8386c29110_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>16</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">以“竞”促学 “算”出精彩——学院A...</h3>
+                                                    <p class="text-two-line">    为助力同学们开启ACM竞赛之旅，5月11日，由计算机爱好者协会组织的一场ACM普...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/1b/f4/c28102a662516/page.htm" title="扇舞墨香  创意“团”聚——2023级软件工程一班开展主题团日活动" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/b2/b6/8a4bc9cf4428a9d44f85c04d5c79/722b1d23-1d81-4eb0-a143-9d61015fab98_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>06</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">扇舞墨香  创意“团”聚——2023级软...</h3>
+                                                    <p class="text-two-line">五四青年节前夕，23级软工一班举办“传承非遗文化”主题团日活动，架起通往传统文...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/19/6f/c28102a661871/page.htm" title="深化协同育人 共话成长蓝图 ——我院举行2024级敬文书院学生座谈会" target="_blank">
+                                            <div class="img-news-item">
+                                                <div class="img" style="background-image: url(/_upload/article/images/d9/a9/856428a340dda29193d66b60178c/edeb73ad-383f-4ef1-b358-03eb2cbb68fe_s.jpg)"></div>
+                                                <div class="date">
+                                                    <span>28</span>
+                                                    <b class="dateConvert">04</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">深化协同育人 共话成长蓝图 ——我院...</h3>
+                                                    <p class="text-two-line">为深入实施“铸魂逐梦”工程和“成长陪伴”计划，加强对计算机科学与技术学院-敬...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="block-item i2">
+                        <div class="block-title block-tab white">
+                            <a class="block-tab-item active" href="javascript:void(0)" data-name="announcement">通知公告</a>
+                            <span class="block-tab-split"></span>
+                            <a class="block-tab-item" href="javascript:void(0)" data-name="information">公示信息</a>
+                        </div>
+                        <div class="block-tab-content active" data-name="announcement" style="display: block;" frag="窗口6">
+                            <a class="block-tab-more" href="/11205/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="date-news-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/25/a8/c11205a665000/page.htm" title="关于组织学院“砥砺奋进 逐梦远航”2025届毕业生文明离校系列活动的通知" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>28</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">关于组织学院“砥砺奋进 逐梦远航”2025届毕业生文...</h3>
+                                                    <p class="text-truncate">各办公室、中心，各系科，2025届全体毕业生：为营造“和谐、温暖、庄重、难...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/22/6c/c11205a664172/page.htm" title="苏州大学软件学院第三届“慧工云杯”工业软件实践创新大赛通知" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>20</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">苏州大学软件学院第三届“慧工云杯”工业软件实践创...</h3>
+                                                    <p class="text-truncate">为帮助在校生更好地理解工业软件开发环境，提升学生分析和解决工业领域实际...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/fc/ae/c11205a654510/page.htm" title="关于本周三下午教职工政治学习安排的通知" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>12</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">关于本周三下午教职工政治学习安排的通知</h3>
+                                                    <p class="text-truncate">各系（中心、办公室）：根据本学期教职工政治学习安排，本周学习内容为：习...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/1d/f7/c11205a663031/page.htm" title="关于本周三下午教职工政治学习安排的通知" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>29</span>
+                                                    <b class="dateConvert">04</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">关于本周三下午教职工政治学习安排的通知</h3>
+                                                    <p class="text-truncate">各系（中心、办公室）：根据本学期教职工政治学习安排，本周学习内容为：习...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/18/17/c11205a661527/page.htm" title="关于做好计算机科学与技术学院2025届毕业生毕业照拍摄工作的通知" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>25</span>
+                                                    <b class="dateConvert">04</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">关于做好计算机科学与技术学院2025届毕业生毕业照拍...</h3>
+                                                    <p class="text-truncate">各位老师、2025届毕业生：为做好学院2025届全体毕业生毕业照拍摄工作，现将...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="block-tab-content" data-name="information" style="display: none;" frag="窗口7">
+                            <a class="block-tab-more" href="/11208/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="date-news-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/24/a2/c11208a664738/page.htm" title="关于本科生第一党支部拟接收高慧等四位同志为预备党员的公示" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>24</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">关于本科生第一党支部拟接收高慧等四位同志为预备党...</h3>
+                                                    <p class="text-truncate">   高慧，女，汉族，2005年6月25日出生，河南省信阳人。2011年9月—2017年6...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/25/1e/c11208a664862/page.htm" title="关于本科生第二党支部拟接收王仁杰等三位同志为预备党员的公示" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>24</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">关于本科生第二党支部拟接收王仁杰等三位同志为预备...</h3>
+                                                    <p class="text-truncate">王仁杰，男，汉族，2004年4月22日出生，四川省南充人。2010年9月—2016年6月...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/21/fd/c11208a664061/page.htm" title="关于计算机科学与技术学院 软件学院2025-2026学年第一学期本科生选用教材的公示" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>19</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">关于计算机科学与技术学院 软件学院2025-2026学年第...</h3>
+                                                    <p class="text-truncate">根据《关于做好2025-2026学年第一学期全日制本科生教材报订工作的通知》（...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/21/58/c11208a663896/page.htm" title="计算机科学与技术学院2024年度“明朗自强自立助学金”评选结果公示" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>16</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">计算机科学与技术学院2024年度“明朗自强自立助学金...</h3>
+                                                    <p class="text-truncate">根据《苏州大学计算机科学与技术学院明朗自强自立助学金评定条例》和《关于...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/1e/03/c11208a663043/page.htm" title="关于拟转为正式党员的谷佳怡同志的公示" target="_blank">
+                                            <div class="date-news-item">
+                                                <div class="date">
+                                                    <span>12</span>
+                                                    <b class="dateConvert">05</b>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">关于拟转为正式党员的谷佳怡同志的公示</h3>
+                                                    <p class="text-truncate">谷佳怡，女，汉族，2002年12月15日出生，山西省运城人，2024级计算机技术专...</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Home Activities -->
+    <section class="outer home-activities">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="block-item i3">
+                        <div class="block-title block-tab white">
+                            <a class="block-tab-item active" href="javascript:void(0)" data-name="activities">学术活动</a>
+                            <span class="block-tab-split"></span>
+                            <a class="block-tab-item" href="javascript:void(0)" data-name="e-poster">E海报</a>
+                        </div>
+                        <div class="block-tab-content active" data-name="activities" frag="窗口8">
+                            <a class="block-tab-more" href="/11203/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="activities-list">
+                                <ul>
+                                    
+                                    <li class="activities-list-item">
+                                        <a class="text-truncate" href="/16/7e/c11203a661118/page.htm" title="学术报告：面向端侧设备的高效可信机器学习系统" target="_blank">学术报告：面向端侧设备的高效可信机器学习系统</a><span>2025-04-22</span>
+                                    </li>
+                                    
+                                    <li class="activities-list-item">
+                                        <a class="text-truncate" href="/13/2a/c11203a660266/page.htm" title="学术报告: Advancing Structured Sentiment Understanding with LLMs: From Reasoning and Multi-Task Learning to Prompt-Based Augmentation" target="_blank">学术报告: Advancing Structured Sentiment Underst...</a><span>2025-04-16</span>
+                                    </li>
+                                    
+                                    <li class="activities-list-item">
+                                        <a class="text-truncate" href="/51/91/c11203a610705/page.htm" title="跨模态图像生成" target="_blank">跨模态图像生成</a><span>2024-12-05</span>
+                                    </li>
+                                    
+                                    <li class="activities-list-item">
+                                        <a class="text-truncate" href="/51/90/c11203a610704/page.htm" title="万物互联时代的操作系统与OpenHarmony实践" target="_blank">万物互联时代的操作系统与OpenHarmony实践</a><span>2024-12-05</span>
+                                    </li>
+                                    
+                                    <li class="activities-list-item">
+                                        <a class="text-truncate" href="/4e/43/c11203a609859/page.htm" title="学术报告：基于时空关系对齐增强视频文本表示" target="_blank">学术报告：基于时空关系对齐增强视频文本表示</a><span>2024-11-27</span>
+                                    </li>
+                                    
+                                    <li class="activities-list-item">
+                                        <a class="text-truncate" href="/4e/23/c11203a609827/page.htm" title="讲座：自然科学基金项目申请的有关问题" target="_blank">讲座：自然科学基金项目申请的有关问题</a><span>2024-11-27</span>
+                                    </li>
+                                    
+                                    <li class="activities-list-item">
+                                        <a class="text-truncate" href="/4e/0f/c11203a609807/page.htm" title="学术活动：上海计算机视觉大讲堂·走进苏州大学" target="_blank">学术活动：上海计算机视觉大讲堂·走进苏州大学</a><span>2024-11-27</span>
+                                    </li>
+                                    
+                                    <li class="activities-list-item">
+                                        <a class="text-truncate" href="/38/62/c11203a604258/page.htm" title="学术报告：产学研与发展新质生产力" target="_blank">学术报告：产学研与发展新质生产力</a><span>2024-10-27</span>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="block-tab-content" data-name="e-poster" style="display: none;" frag="窗口9">
+                            <a class="block-tab-more" href="/11204/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="poster-list">
+                                <div class="row">
+                                    
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                        <a href="/26/e0/c11204a665312/page.htm" title="小米工程师训练营宣讲会" target="_blank">
+                                            <div class="poster-list-item">
+                                                <div class="photo" style="background-image: url(/_upload/article/images/48/12/6d9eae9441b3b70ac75500e96e1c/973a55c1-de19-4a3a-b8bb-5e5d0cd75d50.png);"></div>
+                                                <h3 class="title text-truncate">小米工程师训练营宣讲会</h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                        <a href="/21/ca/c11204a664010/page.htm" title="网络数据智能技术赋能行业应用——产业教授系列报告" target="_blank">
+                                            <div class="poster-list-item">
+                                                <div class="photo" style="background-image: url(/_upload/article/images/73/80/6746133541e0b5c9cf3f5382efab/da186041-ecee-465f-91ad-311b13c5f806.jpg);"></div>
+                                                <h3 class="title text-truncate">网络数据智能技术赋能行业应用——产业教授系列报告</h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                        <a href="/17/1b/c11204a661275/page.htm" title="AI+Fintech引领智慧金融——东吴证券AI菁英计划" target="_blank">
+                                            <div class="poster-list-item">
+                                                <div class="photo" style="background-image: url(/_upload/article/images/31/34/0c7fd22c4b759565f93a3d3b3ae9/992aa22a-8671-4630-8aa1-a2cf4099af9c.png);"></div>
+                                                <h3 class="title text-truncate">AI+Fintech引领智慧金融——东吴证券AI菁英计划</h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                        <a href="/16/34/c11204a661044/page.htm" title="南洋逐梦，领航未来——南洋理工大学留学专项深度解析" target="_blank">
+                                            <div class="poster-list-item">
+                                                <div class="photo" style="background-image: url(/_upload/article/images/0e/d1/4d67e8c64a90b4ca5df6803c0922/cb03b09f-78a8-4ebb-850e-8ac0af6cf016.jpg);"></div>
+                                                <h3 class="title text-truncate">南洋逐梦，领航未来——南洋理工大学留学专项深度解析</h3>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="block-item i4">
+                        <div class="block-title block-tab white">
+                            <a class="block-tab-item active" href="javascript:void(0)" data-name="innovation">学生科创</a>
+                            <span class="block-tab-split"></span>
+                            <a class="block-tab-item" href="javascript:void(0)" data-name="awards">荣誉获奖</a>
+                        </div>
+                        <div class="block-tab-content active" data-name="innovation" frag="窗口10">
+                            <a class="block-tab-more" href="/xskc/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="admission-list gary">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/21/57/c28103a663895/page.htm" title="以“竞”促学 “算”出精彩——学院ACM普及赛成功举办" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">以“竞”促学 “算”出精彩——学院ACM普及赛成功举办</h3>
+                                                <p class="date">2025-05-16</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/0f/fd/c28103a659453/page.htm" title="2025年苏州大学计算机设计大赛成功举办" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2025年苏州大学计算机设计大赛成功举办</h3>
+                                                <p class="date">2025-04-14</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/26/f0/c28103a599792/page.htm" title="2024第七届CCF开源创新大赛启动|欢迎同学们踊跃参加！" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2024第七届CCF开源创新大赛启动|欢迎同学们踊跃参加...</h3>
+                                                <p class="date">2024-09-19</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/a4/4c/c28103a566348/page.htm" title="2024年苏州大学计算机设计大赛成功举办" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2024年苏州大学计算机设计大赛成功举办</h3>
+                                                <p class="date">2024-04-09</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/9f/fb/c28103a565243/page.htm" title="我院成功举办“国产自研数字孪生引擎突围之路”讲座" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">我院成功举办“国产自研数字孪生引擎突围之路”讲座</h3>
+                                                <p class="date">2024-03-29</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/96/c9/c28103a562889/page.htm" title="本科生开学第一课：机遇与挑战——计算机专业学生如何通过科创大赛提高竞争力" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">本科生开学第一课：机遇与挑战——计算机专业学生如何...</h3>
+                                                <p class="date">2024-03-08</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="block-tab-content" data-name="awards" style="display: none;" frag="窗口11">
+                            <a class="block-tab-more" href="/ryhj/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="admission-list gary">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/fc/5f/c28104a654431/page.htm" title="我院研究生团队在计算机视觉与多媒体领域取得突破性成果" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">我院研究生团队在计算机视觉与多媒体领域取得突破性...</h3>
+                                                <p class="date">2025-02-28</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/57/5d/c28104a612189/page.htm" title="我院学生荣获全国仿真技术创新应用大赛全国总决赛一等奖" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">我院学生荣获全国仿真技术创新应用大赛全国总决赛一...</h3>
+                                                <p class="date">2024-12-18</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/53/0d/c28104a545549/page.htm" title="我校在第十六届中国大学生计算机设计大赛中荣获优秀组织奖" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">我校在第十六届中国大学生计算机设计大赛中荣获优秀...</h3>
+                                                <p class="date">2023-09-15</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/53/0c/c28104a545548/page.htm" title="我院在第十二届“中国软件杯”大学生软件设计大赛中获得最佳学校组织奖" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">我院在第十二届“中国软件杯”大学生软件设计大赛中...</h3>
+                                                <p class="date">2023-09-15</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/e0/39/c28104a516153/page.htm" title="我院“智行无碍”项目喜获第八届中国国际“互联网+”创新创业大赛国赛金奖" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">我院“智行无碍”项目喜获第八届中国国际“互联网+...</h3>
+                                                <p class="date">2022-11-16</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/b9/cc/c28104a506316/page.htm" title="我院创业项目喜获第十二届“挑战杯”江苏省大学生创业计划竞赛银奖" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">我院创业项目喜获第十二届“挑战杯”江苏省大学生创...</h3>
+                                                <p class="date">2022-08-28</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="outer home-admission">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="block-item i5">
+                        <div class="block-title block-tab ">
+                            <a class="block-tab-item active" href="javascript:void(0)" data-name="admission">招生信息</a>
+                            <span class="block-tab-split"></span>
+                            <a class="block-tab-item" href="javascript:void(0)" data-name="postgraduate">研究生</a>
+                            <span class="block-tab-split"></span>
+                            <a class="block-tab-item" href="javascript:void(0)" data-name="undergraduate">本科生</a>
+                        </div>
+                        <div class="block-tab-content active" data-name="admission" frag="窗口12">
+                            <a class="block-tab-more" href="/29557/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="admission-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/25/ae/c29557a665006/page.htm" title="2025年计算机科学与技术学院（软件学院）博士研究生专项计划招生实施细则" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2025年计算机科学与技术学院（软件学院）博士研究生专项计划招生...</h3>
+                                                <p class="date">2025-05-28</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/0a/23/c29557a657955/page.htm" title="计算机科学与技术学院2025年硕士研究生拟录取名单公示" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">计算机科学与技术学院2025年硕士研究生拟录取名单公示</h3>
+                                                <p class="date">2025-04-02</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/02/27/c29557a655911/page.htm" title="计算机科学与技术学院2025年博士学位研究生招生进入综合考核人员名单公示" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">计算机科学与技术学院2025年博士学位研究生招生进入综合考核人员...</h3>
+                                                <p class="date">2025-03-18</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/02/22/c29557a655906/page.htm" title="苏州大学计算机科学与技术学院 2025年硕士研究生复试录取工作细则" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">苏州大学计算机科学与技术学院 2025年硕士研究生复试录取工作细...</h3>
+                                                <p class="date">2025-03-18</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/fd/b0/c29557a654768/page.htm" title="2025年学院招收研究生导师名单" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2025年学院招收研究生导师名单</h3>
+                                                <p class="date">2025-03-06</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/66/9b/c29557a616091/page.htm" title="2025年计算机科学与技术学院（软件学院）博士学位研究生招生实施细则" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2025年计算机科学与技术学院（软件学院）博士学位研究生招生实施...</h3>
+                                                <p class="date">2025-02-02</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="block-tab-content" data-name="postgraduate" frag="窗口13">
+                            <a class="block-tab-more" href="http://scst.suda.edu.cn/yjs/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="admission-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/25/ae/c29555a665006/page.htm" title="2025年计算机科学与技术学院（软件学院）博士研究生专项计划招生实施细则" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2025年计算机科学与技术学院（软件学院）博士研究生专项计划招生...</h3>
+                                                <p class="date">2025-05-28</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/0a/23/c29555a657955/page.htm" title="计算机科学与技术学院2025年硕士研究生拟录取名单公示" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">计算机科学与技术学院2025年硕士研究生拟录取名单公示</h3>
+                                                <p class="date">2025-04-02</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/02/27/c29555a655911/page.htm" title="计算机科学与技术学院2025年博士学位研究生招生进入综合考核人员名单公示" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">计算机科学与技术学院2025年博士学位研究生招生进入综合考核人员...</h3>
+                                                <p class="date">2025-03-18</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/02/22/c29555a655906/page.htm" title="苏州大学计算机科学与技术学院 2025年硕士研究生复试录取工作细则" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">苏州大学计算机科学与技术学院 2025年硕士研究生复试录取工作细...</h3>
+                                                <p class="date">2025-03-18</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/fd/b0/c29555a654768/page.htm" title="2025年学院招收研究生导师名单" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2025年学院招收研究生导师名单</h3>
+                                                <p class="date">2025-03-06</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/66/9b/c29555a616091/page.htm" title="2025年计算机科学与技术学院（软件学院）博士学位研究生招生实施细则" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">2025年计算机科学与技术学院（软件学院）博士学位研究生招生实施...</h3>
+                                                <p class="date">2025-02-02</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="block-tab-content" data-name="undergraduate" frag="窗口14">
+                            <a class="block-tab-more" href="/bks/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="admission-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/3a/bb/c29554a604859/page.htm" title="计算机科学与技术学院、软件学院召开 2024级贵州、内蒙古籍本科新生见面会" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">计算机科学与技术学院、软件学院召开 2024级贵州、内蒙古籍本科...</h3>
+                                                <p class="date">2024-11-01</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://mp.weixin.qq.com/s/yuUhOJDaUev4sZX6T-P5HQ" title="【本科招生信息】苏州大学计算机科学与技术学院、软件学院历年录取分数" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">【本科招生信息】苏州大学计算机科学与技术学院、软件学院历年录...</h3>
+                                                <p class="date">2023-06-10</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://mp.weixin.qq.com/s/cKoB8EO_FoDKkIy-sCl7KA" title="【本科招生信息】学贵有恒  愿望必成 |  一图概览苏州大学计算机科学与技术学院、软件学院" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">【本科招生信息】学贵有恒  愿望必成 |  一图概览苏州大学计算机...</h3>
+                                                <p class="date">2023-06-10</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://mp.weixin.qq.com/s/HuW-dySYVgN0v5L7c0HyWg" title="【本科招生信息】科技驱动 计学修德 智创未来 | 计算机科学与技术学院、软件学院欢迎你" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">【本科招生信息】科技驱动 计学修德 智创未来 | 计算机科学与技...</h3>
+                                                <p class="date">2023-06-10</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/17/86/c29554a530310/page.htm" title="招宣快讯 | 贵州招生宣传组赴贵州省21所高中参加2023年全国名校高中巡展" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">招宣快讯 | 贵州招生宣传组赴贵州省21所高中参加2023年全国名校...</h3>
+                                                <p class="date">2023-04-24</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/14/f0/c29554a529648/page.htm" title="招宣快讯 | 贵州招生宣传组赴铜仁一中、思南中学开展优质生源基地挂牌共建活动" target="_blank">
+                                            <div class="admission-list-item">
+                                                <h3 class="text-truncate">招宣快讯 | 贵州招生宣传组赴铜仁一中、思南中学开展优质生源基...</h3>
+                                                <p class="date">2023-04-19</p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="block-item i6">
+                        <div class="block-title block-tab ">
+                            <a class="block-tab-item active" href="javascript:void(0)" data-name="innovation">就业信息</a>
+                            <span class="block-tab-split"></span>
+                            <a class="block-tab-item" href="javascript:void(0)" data-name="awards">科研动态</a>
+                        </div>
+                        <div class="block-tab-content active" data-name="innovation" frag="窗口15">
+                            <a class="block-tab-more" href="/11207/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="job-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/f9/4f/c11207a653647/page.htm" title="苏州“放大招”！毕业生们看过来，人工智能领域人才新政来啦！" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>21</span><em class="dateConvert">02</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">苏州“放大招”！毕业生们看过来，人工智能领域人才...</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/21/51/c11207a532817/page.htm" title="一周就业信息汇总|5月12日" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>12</span><em class="dateConvert">05</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">一周就业信息汇总|5月12日</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/14/6b/c11207a529515/page.htm" title="一周就业信息汇总|4月17日" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>17</span><em class="dateConvert">04</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">一周就业信息汇总|4月17日</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/ff/b0/c11207a524208/page.htm" title="一周就业信息汇总|3月4日" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>04</span><em class="dateConvert">03</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">一周就业信息汇总|3月4日</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/fe/29/c11207a523817/page.htm" title="一周就业信息汇总|3月1日" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>01</span><em class="dateConvert">03</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">一周就业信息汇总|3月1日</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/fc/de/c11207a523486/page.htm" title="一周就业信息汇总|2月27日" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>27</span><em class="dateConvert">02</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">一周就业信息汇总|2月27日</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="block-tab-content" data-name="awards" frag="窗口16">
+                            <a class="block-tab-more" href="/11206/list.htm" title="查看更多" target="_blank">MORE+</a>
+                            <div class="job-list">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/fa/38/c11206a653880/page.htm" title="计算机科学与技术学院杨壮副教授在随机优化方面取得重要进展" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>24</span><em class="dateConvert">02</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">计算机科学与技术学院杨壮副教授在随机优化方面取得...</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/f9/ac/c11206a653740/page.htm" title="热烈庆祝我院四篇论文被计算机网络及数据库领域顶级会议期刊接收" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>23</span><em class="dateConvert">02</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">热烈庆祝我院四篇论文被计算机网络及数据库领域顶级...</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/5a/e1/c11206a613089/page.htm" title="祝贺我院樊建席教授再获“全球前2%顶尖科学家”和“中国高被引学者”殊荣" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>26</span><em class="dateConvert">12</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">祝贺我院樊建席教授再获“全球前2%顶尖科学家”和“...</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/5a/d4/c11206a613076/page.htm" title="第19届国际生物启发式计算理论与应用会议（BIC-TA 2024）在苏州成功举办！" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>25</span><em class="dateConvert">12</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">第19届国际生物启发式计算理论与应用会议（BIC-TA 2...</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/50/b8/c11206a610488/page.htm" title="上海计算机视觉大讲堂 · 走进苏州大学（第三期）活动成功举行" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>03</span><em class="dateConvert">12</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">上海计算机视觉大讲堂 · 走进苏州大学（第三期）活...</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/4f/f7/c11206a610295/page.htm" title="学院召开2025年度国家自然科学基金申请工作推进会暨专家辅导会" target="_blank">
+                                            <div class="job-list-item">
+                                                <div class="date">
+                                                    <span>02</span><em class="dateConvert">12</em>
+                                                </div>
+                                                <div class="content">
+                                                    <h3 class="text-truncate">学院召开2025年度国家自然科学基金申请工作推进会暨...</h3>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Home Quick Nav -->
+    <section class="outer home-quick-nav">
+        <div class="inner container">
+            
+            <div class="block-item">
+                <div class="block-title">
+                    <h1>快捷导航</h1>
+                </div>
+                <div class="row" frag="窗口17">
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <a href="https://www.suda.edu.cn/" title="苏大首页" target="_blank">
+                            <div class="quick-nav-item">
+                                <i style="background-image: url(/_upload/article/images/b2/66/53bd50354077bb27f63e4cda852e/dd432ac7-00ea-4557-bd1e-c5d35798a8ec.png);"></i>
+                                <p>苏大首页</p>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <a href="https://www.suda.edu.cn/home/jzyg.jsp" title="公共服务" target="_blank">
+                            <div class="quick-nav-item">
+                                <i style="background-image: url(/_upload/article/images/a6/7b/fb04cc0547eeb98f1babfe2e330a/a3966ac7-cca3-465a-826d-1893f965077a.png);"></i>
+                                <p>公共服务</p>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <a href="http://csteaching.suda.edu.cn/csteaching/index.php/Home/Index/index.php " title="教育辅助平台" target="_blank">
+                            <div class="quick-nav-item">
+                                <i style="background-image: url(/_upload/article/images/0c/43/fac536d9458f863fe8ef64b68099/d966f2f4-56c2-4eaf-b62a-195cb0718d94.png);"></i>
+                                <p>教育辅助平台</p>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <a href="http://42.244.43.76:8080/" title="教学科研成果申报" target="_blank">
+                            <div class="quick-nav-item">
+                                <i style="background-image: url(/_upload/article/images/29/19/f9b0ce944e50a34ded05fbaf98da/4eb8ab9c-83ac-427f-bf86-d587661eed81.png);"></i>
+                                <p>教学科研成果申报</p>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <a href="http://192.168.125.2:9088/tm/Default.aspx" title="学院经费系统" target="_blank">
+                            <div class="quick-nav-item">
+                                <i style="background-image: url(/_upload/article/images/54/79/09dc2a264ebc9667e6354869594a/283d4203-bfce-4640-a719-aa55c47cfcda.png);"></i>
+                                <p>学院经费系统</p>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <a href="http://mail.suda.edu.cn/" title="邮件系统" target="_blank">
+                            <div class="quick-nav-item">
+                                <i style="background-image: url(/_upload/article/images/fb/13/f3c0598e49df8f4e8fbdc47c7a2c/fd852bf6-d1b8-481c-bc09-ce4796be5aae.png);"></i>
+                                <p>邮件系统</p>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <a href="http://scst.suda.edu.cn/28197/list.htm" title="下载专区" target="_blank">
+                            <div class="quick-nav-item">
+                                <i style="background-image: url(/_upload/article/images/9f/f3/8c41b8ff4d86b0192de54d968fe8/e9250e06-1c6e-441d-af3c-69e05be8f945.png);"></i>
+                                <p>下载专区</p>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <a href="http://xg.sams.suda.edu.cn" title="智慧学工" target="_blank">
+                            <div class="quick-nav-item">
+                                <i style="background-image: url(/_upload/article/images/f5/ce/a9d622b741a687afd3315d0a1bb4/32dcd7c0-6348-4086-896e-5c37c70708ee.png);"></i>
+                                <p>智慧学工</p>
+                            </div>
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Common Footer -->
+    <footer class="outer footer">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-logo">
+                            <img src="/_upload/tpl/04/5d/1117/template1117/static/img/footer_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                        </div>
+                        <div class="footer-contact">
+                            <p>联系方式：0512-65113107</p>
+                            <p>联系地址：苏州市干将东路333号</p>
+                            <p>邮编：215008</p>  
+                            <p>院长信箱：scst@suda.edu.cn</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-qrcode">
+                            <img src="http://www.suda.edu.cn/images/weixin.jpg" alt="微信公众号">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/bootstrap.min.js"></script>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/swiper.min.js"></script>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/app.js"></script>
+    <script>                      
+        var bannerCarousel = new Swiper ('.banner-carousel', {
+            loop: true,
+            autoplay: 8000,
+            effect: 'fade',
+            pagination: '.banner-pagination',
+            paginationClickable: true,
+            prevButton: '.banner-button-prev',
+            nextButton: '.banner-button-next',
+            onClick: function(swiper){
+                bannerCarousel.slideNext();
+            }
+        })
+        var arr = ['一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二']
+        $('.dateConvert').html(function () { return arr[parseInt(this.innerHTML,10)-1]+'月'})
+    </script>
+    <script>
+        $('.i1 .block-tab-item').click(function(){
+            var t = $(this).data('name');
+            $('.i1 .block-tab-item').each(function(){
+                $(this).removeClass('active');
+            })
+            $(this).addClass('active');
+            $('.i1 .block-tab-content').each(function(){
+                if( t === $(this).data('name')) {
+                    $(this).addClass('active').fadeIn();
+                } else {
+                    $(this).removeClass('active').hide()
+                }
+            })
+        })
+        $('.i2 .block-tab-item').click(function(){
+            var t = $(this).data('name');
+            $('.i2 .block-tab-item').each(function(){
+                $(this).removeClass('active');
+            })
+            $(this).addClass('active');
+            $('.i2 .block-tab-content').each(function(){
+                if( t === $(this).data('name')) {
+                    $(this).addClass('active').fadeIn();
+                } else {
+                    $(this).removeClass('active').hide()
+                }
+            })
+        })
+        $('.i3 .block-tab-item').click(function(){
+            var t = $(this).data('name');
+            $('.i3 .block-tab-item').each(function(){
+                $(this).removeClass('active');
+            })
+            $(this).addClass('active');
+            $('.i3 .block-tab-content').each(function(){
+                if( t === $(this).data('name')) {
+                    $(this).addClass('active').fadeIn();
+                } else {
+                    $(this).removeClass('active').hide()
+                }
+            })
+        })
+        $('.i4 .block-tab-item').click(function(){
+            var t = $(this).data('name');
+            $('.i4 .block-tab-item').each(function(){
+                $(this).removeClass('active');
+            })
+            $(this).addClass('active');
+            $('.i4 .block-tab-content').each(function(){
+                if( t === $(this).data('name')) {
+                    $(this).addClass('active').fadeIn();
+                } else {
+                    $(this).removeClass('active').hide()
+                }
+            })
+        })
+        $('.i5 .block-tab-item').click(function(){
+            var t = $(this).data('name');
+            $('.i5 .block-tab-item').each(function(){
+                $(this).removeClass('active');
+            })
+            $(this).addClass('active');
+            $('.i5 .block-tab-content').each(function(){
+                if( t === $(this).data('name')) {
+                    $(this).addClass('active').fadeIn();
+                } else {
+                    $(this).removeClass('active').hide()
+                }
+            })
+        })
+        $('.i6 .block-tab-item').click(function(){
+            var t = $(this).data('name');
+            $('.i6 .block-tab-item').each(function(){
+                $(this).removeClass('active');
+            })
+            $(this).addClass('active');
+            $('.i6 .block-tab-content').each(function(){
+                if( t === $(this).data('name')) {
+                    $(this).addClass('active').fadeIn();
+                } else {
+                    $(this).removeClass('active').hide()
+                }
+            })
+        })
+        
+    </script>
+    <div frag="窗口91"><!-- No Data --></div>
+</body>
+</html>
+ <img src="/_visitcount?siteId=289&type=1&columnId=10922" style="display:none" width="0" height="0"/>

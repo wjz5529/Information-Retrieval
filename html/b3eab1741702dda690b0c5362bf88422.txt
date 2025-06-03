@@ -1,0 +1,12 @@
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>body{background-color:#f4f9ff;color:#2e2e2e;height:100%;font-family:'Microsoft YaHei','微软雅黑',Helvetica,Sans-serif,'Segoe UI'}.error{max-width:600px;margin:0 auto;padding-top:40px;text-align:center}.error h1{font-size:170px;font-weight:500;margin-top:0;margin-bottom:20px;color:#1772dd}.error h3{color:#757676;font-size:48px;margin-bottom:0}.desc{margin:20px auto}.button a{border-radius:5px;font-size:inherit;display:inline-block;width:100px;height:30px;line-height:30px;background-color:#1772dd;border-color:#1772dd;color:#fff;cursor:pointer;font-size:14px;text-decoration:none}.button a:hover{background-color:#3687e3}.button{margin-top:36px;padding-top:40px}</style>
+<title>403 Forbidden</title></head>
+<body>
+<div class="error"><h3>Forbidden</h3><h1>403</h1>
+<div class="desc">HTTP Proxy</div>
+<div class="button"><a href="/">返回首页</a></div>
+</div>
+</body>
+</html>

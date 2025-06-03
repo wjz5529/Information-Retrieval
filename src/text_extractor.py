@@ -11,7 +11,7 @@ import logging
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-class TestExtractor:
+class TextExtractor:
     def __init__ (self, file_dir='html', output_dir='text', log_dir='Log'):
         """初始化文本提取器类"""
         self.file_dir = file_dir
@@ -84,18 +84,35 @@ class TestExtractor:
                         body_text = soup.body.get_text() if soup.body else ''
                         # 清理文本
                         body_text = re.sub(r'\n\s*\n+', '\n\n', body_text.strip())
+                        text = ''
+                        for line in body_text.splitlines():
+                            line = line.strip()
+                            if not line:
+                                continue
+                            # 替换多余的空格
+                            line = re.sub(r'\s+', '', line)
+                            text += line + '\n'
+ 
+
                         with open(outfilepath, 'w', encoding='utf-8') as outfile:
-                            outfile.write(body_text)
+                            outfile.write(text)
                             self.logger.info(f"成功提取{filename}文件的文本")
             self.logger.info("所有文件文本提取完成") 
                        
         except Exception as e:
             self.logger.error(f"提取文本失败：{e}")
             print(f"提取文本失败：{e}")
-        
+    
+    def run(self):
+        """运行文本提取器"""
+        self.logger.info("开始提取文本")
+        self.extract_text()
+        self.logger.info("文本提取器运行完成")
+        print("文本提取器运行完成")
+    
 
 if __name__ == "__main__":
     # 创建文本提取器实例
-    extractor = TestExtractor()
+    extractor = TextExtractor()
     # 提取文本
-    extractor.extract_text()
+    extractor.run()

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>信息检索系统</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .search-box {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        #query {
+            flex: 1;
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            padding: 10px 20px;
+            background: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        .error {
+            color: red;
+            text-align: center;
+        }
+        .result {
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .doc-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #007BFF;
+        }
+        .score {
+            color: #28a745;
+            margin-left: 10px;
+        }
+        .match {
+            margin-left: 20px;
+            margin-bottom: 5px;
+        }
+        mark {
+            background-color: yellow;
+            padding: 0 2px;
+        }
+    </style>
+</head>
+<body>
+    <h1>信息检索系统</h1>
+    <form method="POST" class="search-box">
+        <input type="text" id="query" name="query" placeholder="输入查询词（例如：李正华 招收 学生）" required>
+        <button type="submit">搜索</button>
+    </form>
+
+    {% if error %}
+        <p class="error">{{ error }}</p>
+    {% endif %}
+
+    {% if results %}
+        <h2>查询结果：{{ query }}</h2>
+        {% for result in results %}
+            <div class="result">
+                <div class="doc-title">
+                    {{ result.doc }} <span class="score">(相似度: {{ result.score }})</span>
+                </div>
+                {% for match in result.matches %}
+                    <div class="match">{{ match | safe }}</div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    {% endif %}
+</body>
+</html>

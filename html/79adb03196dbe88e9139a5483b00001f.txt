@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="zh-CN"  class="webplus-page"  >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="render" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>苏州大学计算机视觉前沿技术及应用学术论坛暨中国计算机学会计算机视觉专委会走进苏州大学活动成功举行</title>
+    <meta name="description" content="2024年10月12日下午，由中国计算机学会计算机视觉专委会（CCF-CV..." />
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/sudy-jquery-autoload.js" jquery-src="/_js/jquery-2.x.min.js" sudy-wp-context="" sudy-wp-siteId="289"></script>
+<script language="javascript" src="/_js/jquery-migrate.min.js"></script>
+<script language="javascript" src="/_js2/loadStyle.js" sys-path="/_upload/site/1/style/1/1.css"  site-path="/_upload/site/01/21/289/style/282/282.css" ></script>
+<script language="javascript" src="/_js2/grayscale.js"   ></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/wp_photos/layer/layer.min.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/base.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/style.css">
+    
+</head>
+<body>
+
+    <!-- Common Header -->
+    <header class="outer header">
+        <div class="inner">
+            <div class="container">
+                <div class="header-bar">
+                    <div class="header-search">
+                        <a href="javascript:void(0)" title="搜索" onclick="searchShow()">
+                            <i><img src="/_upload/tpl/04/5d/1117/template1117/static/img/icon/icon_search.png" alt="搜索"></i>
+                        </a>
+                        <div class="search-box" frag="窗口1" portletmode="search" style="display: none;">                            <form action="/_web/_search/api/search/new.rst?locale=zh_CN&request_locale=zh_CN&context=&_p=YXM9Mjg5JnQ9MTExNyZkPTQ1MDgmcD0zJmY9MTEyMDMmYT02MDI0ODcmbT1OJg__" method="POST" target="_blank">
+                                <input class="search-input" name="keyword" type="text" maxlength="40" autocomplete="off" placeholder="请输入搜索内容..."/>
+                                <button class="search-submit" type="submit"></button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="header-link">
+                        <span>
+                            <a href="/_s289/main.psp" title="中文" target="_blank">中文</a>
+                        </span> |
+                        <span>
+                            <a href="javascript:void(0)" title="English" target="_blank">English</a>
+                        </span>
+                    </div>
+                </div>
+                <div class="header-logo">
+                    <a href="/_s289/main.psp" title="苏州大学计算机科学与技术学院(软件学院)" target="_blank">
+                        <img src="/_upload/tpl/04/5d/1117/template1117/static/img/header_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- Common Nav -->
+    <nav class="outer header-nav">
+        <div class="inner container" frag="窗口2">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav" aria-expanded="false"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></button>
+            <div class="site-nav collapse navbar-collapse" id="nav">
+                
+                <ul class="nav navbar-nav">
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/_s289/main.psp" target="_self" title="网站首页" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">网站首页</a>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11195/list.htm" target="_self" title="学院概况" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学院概况</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11238/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/11241/list.htm" target="_self" title="历史沿革">历史沿革</a></li>
+                            
+                            <li><a href="/11240/list.htm" target="_self" title="现任领导">现任领导</a></li>
+                            
+                            <li><a href="/11239/list.htm" target="_self" title="机构设置">机构设置</a></li>
+                            
+                            <li><a href="/11242/list.htm" target="_self" title="办学资源">办学资源</a></li>
+                            
+                            <li><a href="/xkqk/list.htm" target="_self" title="学科情况">学科情况</a></li>
+                            
+                            <li><a href="/11243/list.htm" target="_self" title="联系方式">联系方式</a></li>
+                            
+                            <li><a href="/ssyjx/list.htm" target="_self" title="师生意见箱">师生意见箱</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11197/list.htm" target="_self" title="师资中心" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">师资中心</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11248/list.htm" target="_self" title="师资概况">师资概况</a></li>
+                            
+                            <li><a href="/11249/list.htm" target="_self" title=" 教职工名单"> 教职工名单</a></li>
+                            
+                            <li><a href="/11250/list.htm" target="_self" title=" 导师简介"> 导师简介</a></li>
+                            
+                            <li><a href="/11251/list.htm" target="_self" title=" 兼职师资"> 兼职师资</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11198/list.htm" target="_self" title=" 科学研究" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown"> 科学研究</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/yjzx/list.htm" target="_self" title="研究中心">研究中心</a></li>
+                            
+                            <li><a href="/11253/list.htm" target="_self" title=" 科研机构"> 科研机构</a></li>
+                            
+                            <li><a href="/11254/list.htm" target="_self" title=" 科研项目"> 科研项目</a></li>
+                            
+                            <li><a href="/11255/list.htm" target="_self" title=" 科研论文"> 科研论文</a></li>
+                            
+                            <li><a href="/11256/list.htm" target="_self" title="知识产权">知识产权</a></li>
+                            
+                            <li><a href="/11257/list.htm" target="_self" title=" 科研政策"> 科研政策</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11199/list.htm" target="_self" title="人才培养" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">人才培养</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/shpgzt/list.htm" target="_self" title="审核评估专题">审核评估专题</a></li>
+                            
+                            <li><a href="/11229/list.htm" target="_self" title="博士生">博士生</a></li>
+                            
+                            <li><a href="/11230/list.htm" target="_self" title=" 硕士生"> 硕士生</a></li>
+                            
+                            <li><a href="/11231/list.htm" target="_self" title=" 本科生"> 本科生</a></li>
+                            
+                            <li><a href="/11234/list.htm" target="_self" title=" 图灵班"> 图灵班</a></li>
+                            
+                            <li><a href="/tljt/list.htm" target="_self" title="图灵讲堂">图灵讲堂</a></li>
+                            
+                            <li><a href="/zygcsb/list.htm" target="_self" title="卓越工程师班">卓越工程师班</a></li>
+                            
+                            <li><a href="/gjjl/list.htm" target="_self" title="国际交流">国际交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11201/list.htm" target="_self" title="党群工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">党群工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xydw/list.htm" target="_self" title="学院党委">学院党委</a></li>
+                            
+                            <li><a href="/jczz/list.htm" target="_self" title="基层组织">基层组织</a></li>
+                            
+                            <li><a href="/fdxgz/list.htm" target="_self" title="分党校工作">分党校工作</a></li>
+                            
+                            <li><a href="/11264/list.htm" target="_self" title=" 发展工作"> 发展工作</a></li>
+                            
+                            <li><a href="/11265/list.htm" target="_self" title=" 关工委工作"> 关工委工作</a></li>
+                            
+                            <li><a href="/11260/list.htm" target="_self" title=" 规章制度"> 规章制度</a></li>
+                            
+                            <li><a href="/11262/list.htm" target="_self" title=" 专题活动"> 专题活动</a></li>
+                            
+                            <li><a href="/xxyd/list.htm" target="_self" title="学习园地">学习园地</a></li>
+                            
+                            <li><a href="/qsdjgzybzbcj/list.htm" target="_self" title="全省党建工作样板支部创建">全省党建工作样板支部...</a></li>
+                            
+                            <li><a href="/szdxjsdzbsjsfgzscj/list.htm" target="_self" title="苏州大学教师党支部书记示范工作室创建">苏州大学教师党支部书...</a></li>
+                            
+                            <li><a href="/ghgz/list.htm" target="_self" title="工会工作">工会工作</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11200/list.htm" target="_self" title="学生工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学生工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xskc/list.htm" target="_self" title="学生科创">学生科创</a></li>
+                            
+                            <li><a href="/28212/list.htm" target="_self" title="工作队伍">工作队伍</a></li>
+                            
+                            <li><a href="/11275/list.htm" target="_self" title=" 学工通知"> 学工通知</a></li>
+                            
+                            <li><a href="/xgxw/list.htm" target="_self" title="学工新闻">学工新闻</a></li>
+                            
+                            <li><a href="/28213/list.htm" target="_self" title="规章制度">规章制度</a></li>
+                            
+                            <li><a href="/28216/list.htm" target="_self" title="志愿服务">志愿服务</a></li>
+                            
+                            <li><a href="/28218/list.htm" target="_self" title="学生组织">学生组织</a></li>
+                            
+                            <li><a href="/28219/list.htm" target="_self" title="勤工助学">勤工助学</a></li>
+                            
+                            <li><a href="/28220/list.htm" target="_self" title="心理健康">心理健康</a></li>
+                            
+                            <li><a href="/28221/list.htm" target="_self" title="就业创业">就业创业</a></li>
+                            
+                            <li><a href="/czpb/list.htm" target="_self" title="成长陪伴">成长陪伴</a></li>
+                            
+                            <li><a href="/jxpt/list.htm" target="_self" title="家校平台">家校平台</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xqhz/list.htm" target="_self" title="合作交流" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">合作交流</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xqhz_30719/list.htm" target="_self" title="校企合作与交流">校企合作与交流</a></li>
+                            
+                            <li><a href="/gjhzyjl/list.htm" target="_self" title="国际合作与交流">国际合作与交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/bmxy/list.htm" target="_self" title="保密学院" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">保密学院</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xyjj/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/bmpx/list.htm" target="_self" title="保密培训">保密培训</a></li>
+                            
+                            <li><a href="/bmyj/list.htm" target="_self" title="保密研究">保密研究</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11232/list.htm" target="_self" title="继续教育" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">继续教育</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28237/list.htm" target="_self" title="成教工作">成教工作</a></li>
+                            
+                            <li><a href="/28238/list.htm" target="_self" title="自考工作">自考工作</a></li>
+                            
+                            <li><a href="/28239/list.htm" target="_self" title="培训工作">培训工作</a></li>
+                            
+                            <li><a href="/28240/list.htm" target="_self" title="留学项目">留学项目</a></li>
+                            
+                            <li><a href="/zxkc/list.htm" target="_self" title="在线课程">在线课程</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xyfw/list.htm" target="_self" title="校友工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">校友工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28241/list.htm" target="_self" title="校友服务">校友服务</a></li>
+                            
+                            <li><a href="/28243/list.htm" target="_self" title="毕业校友录">毕业校友录</a></li>
+                            
+                            <li><a href="/28244/list.htm" target="_self" title="校友活动">校友活动</a></li>
+                            
+                            <li><a href="/xyh/list.htm" target="_self" title="校友会">校友会</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                </ul>
+                
+            </div>
+        </div>
+    </nav>
+    <script>
+        function searchShow() {
+            if($('.search-box').hasClass('active')){
+                $('.search-box').fadeOut();
+                $('.search-box').removeClass('active');
+            } else {
+                $('.search-box').addClass('active');
+                $('.search-box').fadeIn();
+            }
+        }
+    </script>
+
+
+    <!-- Post Breadcrumb -->
+    <section class="outer column-banner">
+        <div class="inner" frag="窗口4" portletmode="simpleColumnAttri">
+            <div class="column-img" style="background-image: url(/_upload/column/2b/c3/11203/picture.jpg);"></div>
+            <div class="banner-overlay"></div>
+        </div>
+    </section>
+    <!-- Post Content -->
+    <section class="outer post">
+        <div class="inner container">
+            <div class="post-content">
+                <div frag="窗口5" portletmode="simpleArticleAttri">
+                    <div class="post-title">
+                        苏州大学计算机视觉前沿技术及应用学术论坛暨中国计算机学会计算机视觉专委会走进苏州大学活动成功举行
+                    </div>
+                    <div class="post-attr">
+                        <span><b>时间:</b> 2024-10-14</span>
+                        <span><b>发布者:</b> 高珊</span>
+                        <span><b>文章来源:</b> 计算机科学与技术学院</span>
+                        <span><b>审核人:</b> 黄河、李恩秀</span>
+                        <span><b>浏览次数:</b> <span class="WP_VisitCount" url="/_visitcountdisplay?siteId=289&type=3&articleId=602487">821</span></span>
+                    </div>
+                    <div class="read-content">
+                        <div class='wp_articlecontent'><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">2024</span><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">年</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">10</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">月</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">12</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">日下午，由中国计算机学会计算机视觉专委会（</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">CCF-CV</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">）主办、苏州大学承办的第</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">140</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">期</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">CCF-CV</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">走进高校系列报告会——计算机视觉前沿技术及应用学术论坛在我校天赐庄校区敬贤堂成功举行。本次活动邀请了中科院计算所陈熙霖研究员、中山大学赖剑煌教授、南京邮电大学刘青山教授、华中科技大学白翔教授、北京工业大学毋立芳教授、中科院计算所王瑞平研究员等众多计算机视觉领域的顶尖专家进行专题报告和交流研讨。活动开幕式由苏州大学计算机科学与技术学院李凡长教授主持。</span></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/e5ab91e6-ef2e-4065-b182-07187dc8bdaa.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/e5ab91e6-ef2e-4065-b182-07187dc8bdaa_d.jpg" style="float:none;width:600px;height:400px;" sudyfile-attr="{'title':'IMG_3030.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0"/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke joinstyle="miter"><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"><v:f eqn="sum @0 1 0"><v:f eqn="sum 0 0 @1"><v:f eqn="prod @2 1 2"><v:f eqn="prod @3 21600 pixelWidth"><v:f eqn="prod @3 21600 pixelHeight"><v:f eqn="sum @0 0 1"><v:f eqn="prod @6 1 2"><v:f eqn="prod @7 21600 pixelWidth"><v:f eqn="sum @8 21600 0"><v:f eqn="prod @7 21600 pixelHeight"><v:f eqn="sum @10 21600 0"></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"><o:lock v:ext="edit" aspectratio="t"></o:lock></v:path></v:stroke></v:shapetype><v:shape id="图片_x0020_5" o:spid="_x0000_i1036" type="#_x0000_t75" style="width:649px;height:432px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">活动伊始，苏州大学党委书记张晓宏教授致欢迎词。张晓宏书记首先对</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">CCF-CV</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">走进高校系列报告会落地苏州大学表示热烈欢迎，并对所有参与此次活动的专家学者致以最诚挚的谢意。接下来，张晓宏向与会嘉宾介绍了苏州大学的办学历史和取得的成绩，并指出此次研讨会的召开，必将为计算机视觉领域的探索提供更为广泛的思路，并为苏州大学计算机学院在计算机视觉方向上的持续进步与发展注入强劲的动力。他深切期盼各位专家学者能够借此机会深入交流、相互启迪、携手共进，将研讨会塑造成为一场高规格、深影响、广受益的学术盛典，并真诚希望各位能一如既往地关注和支持苏州大学的发展，特别是在计算机学科建设上积极贡献智慧与力量。</span></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/4bf40c58-a83b-4416-b8a7-15fd748bd819.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/4bf40c58-a83b-4416-b8a7-15fd748bd819_d.jpg" style="float:none;width:600px;height:400px;" sudyfile-attr="{'title':'IMG_2908.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0"/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_2" o:spid="_x0000_i1035" type="#_x0000_t75" style="width:702px;height:467px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:2em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:2em;">随后，苏州大学计算机科学与技术学院副院长黄河教授进行致辞。黄河代表计算机科学与技术学院对国内计算机视觉领域顶尖学者的莅临表示欢迎，并衷心感谢中国计算机学会计算机视觉专业委员会提供的宝贵学习与交流平台。此外，黄河回顾了苏州大学计算机科学与技术学院的办学历史及近年来取得的显著成就，并强调此次交流会的召开不仅能有力地拓宽学院师生的学术视野，使其能够站在更高的视角了解学科前沿动态，更将深度提升师生的科研水平，激发他们在学术研究道路上不断探索。黄河希望学院能够与各位专家建立起长期且稳固的合作关系，通过这种紧密的合作，整合各方资源，汇聚集体智慧，共同为推动计算机视觉领域的发展增添动力，为科技进步和社会发展奉献力量。</span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/f36db66f-2e9e-4221-a279-ff143359efa1.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/f36db66f-2e9e-4221-a279-ff143359efa1_d.jpg" sudyfile-attr="{'title':'院长致辞.jpg'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_3" o:spid="_x0000_i1034" type="#_x0000_t75" style="width:695px;height:463px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">接着，</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">CCF</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">计算机视觉专委会主任、中科院计算所党委书记、所长陈熙霖研究员致辞。陈熙霖向苏州大学对此次活动的精心组织表示感谢，并对与会专家在计算机视觉领域的杰出贡献给予了高度赞誉。陈熙霖介绍了中国计算机学会计算机视觉专业委员会的创立初衷、发展历程及其在人工智能领域的贡献与影响。专委会自成立至今已成功主办了多次国内会议，包括联合主办的国际会议，提升了专委会的影响力和活跃度。在此基础上，陈熙霖向在座的青年学者寄予期望。他鼓励大家珍惜这次难得的交流机会，从与前辈、同行的深入对话中汲取智慧与灵感，勇于探索未知，敢于创新突破，为人工智能的未来发展注入源源不断的活力，为全球科技的进步做出贡献。最后，他再次向张晓宏书记、黄河副院长以及所有参与此次盛会的师生表达了最诚挚的感谢，并期待未来能有更多研讨，共同见证并推动人工智能领域的繁荣发展。</span></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/e1d4ca2b-467c-4806-a5f8-ba1fb121c01d.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/e1d4ca2b-467c-4806-a5f8-ba1fb121c01d_d.jpg" style="float:none;width:600px;height:400px;" sudyfile-attr="{'title':'IMG_2930.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0"/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_4" o:spid="_x0000_i1033" type="#_x0000_t75" style="width:725px;height:483px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:2em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:2em;">在学术报告环节，中国图像图形学学会副理事长、中山大学计算机学院赖剑煌教授首先上台演讲。赖教授详细介绍了其团队在小股人群重识别技术上的最新研究进展，此技术通过分析不同摄像头拍摄的图像，识别出同一小股人群，即便这些人群在不同时间和地点出现时的人数和位置有所变化。赖教授强调，该技术不仅在理论上具有重要意义，同时也具备广泛的实际应用价值，尤其是在公共安全领域，如追踪犯罪团伙、失踪人口搜索等方面。赖教授还分享了团队如何通过软性数据增广技术和不确定性建模，解决了小股人群样本复杂、难以获取等问题，显著提升了小股人群重识别的准确性和鲁棒性。赖剑煌教授的相关研究成果已发表在多个国际顶尖学术会议和期刊上，得到了广泛认可。</span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/efa06fb1-fe64-4a5b-b2aa-a98806a14468.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/efa06fb1-fe64-4a5b-b2aa-a98806a14468_d.jpg" sudyfile-attr="{'title':'IMG_2945.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_6" o:spid="_x0000_i1032" type="#_x0000_t75" style="width:694px;height:462px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">随后，华中科技大学软件学院院长白翔教授带来了关于甲骨文辅助破译的学术报告。白教授指出，甲骨文作为中国古代文明的重要载体，对研究华夏文明的发展历程具有不可替代的作用，然而，目前仍有大量甲骨文尚未破译成功，这给研究者们提出了巨大挑战。白教授团队通过引入人工智能技术，开发了一套辅助破译系统，利用现代汉字与甲骨文之间的关联，结合历史文化背景，实现了对未破译甲骨文的初步识别。白教授展示了团队在甲骨文破译数据集构建、模型训练等方面所做的大量工作，并分享了其团队在</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">2024</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">年国际计算语言学协会（</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">Association for Computational Linguistics</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">，简称</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">ACL</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">）顶级会议上获得最佳论文奖的辅助破译甲骨文的扩散模型相关研究成果。这一图像生成新技术不仅为甲骨文破译的研究开辟了新的思路，也为中华民族文化遗产的保护和传承提供了有力支持。</span></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/b614b5be-39d9-4934-b236-69a20d90d8a7.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/b614b5be-39d9-4934-b236-69a20d90d8a7_d.jpg" sudyfile-attr="{'title':'IMG_2953.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_7" o:spid="_x0000_i1031" type="#_x0000_t75" style="width:699px;height:466px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">之后，北京工业大学毋立芳教授介绍了其团队在视频群体行为识别领域的最新进展。毋教授指出，视频识别技术在交通监控、体育赛事转播等多个领域具有广泛应用前景。然而，现有的数据驱动方法在可解释性、推理能力等方面存在不足。为此，毋教授团队提出了一种知识辅助的关系推理方法，通过引入战术和背景知识，提高了群体行为识别的准确率。毋教授详细介绍了其研究成果在</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">NBA</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">比赛中的应用案例，展示了如何通过前景背景对比学习和时间注意力机制，有效识别出关键行为和人物。实验结果表明，该方法在多个数据集上均取得了优异的表现，特别是在数据量较小的情况下，依然能够保持较高的识别精度。</span></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/a1ed3cb8-b04b-4557-be8b-85f0409409d8.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/a1ed3cb8-b04b-4557-be8b-85f0409409d8_d.jpg" sudyfile-attr="{'title':'DSCF5766.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_8" o:spid="_x0000_i1030" type="#_x0000_t75" style="width:668px;height:446px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#05073b;background:#fdfdfe;font-size:16px;line-height:1.75em;">在专题报告之后，</span><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">陈熙霖、刘青山、白翔、毋立芳、王瑞平五位专家围绕</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">AI</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">技术革新下计算机视觉发展前景与挑战开展了圆桌论坛。专家和与会师生共同</span></span><span style="font-family:微软雅黑, sans-serif;color:#05073b;background:#fdfdfe;font-size:16px;line-height:1.75em;">探讨</span><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">了人工智能（</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">AI</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">）的未来趋势和面临的挑战，指出了</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">AI</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">在不同领域的应用潜力以及如何解决相关问题，个人在</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">AI</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">领域的参与方式及未来趋势，在当前的历史转折时期，个人如何在</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">AI</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">领域有效利用现有资源和大模型技术。此外，专家们强调了不一定要从头开始训练大模型，可以通过先做小模型或利用现有大模型来提升自己的工作。同时，专家们提及了参加国际会议、学习国际一流学者的研究方法以及在变革时期如何面对困难、视觉感知的重要性及未来知识交流的持续性等实际问题。在现场自由提问环节，专家与提问者探讨了高校研究中显卡限制与算力资源不足的问题，提出通过线下验证、利用云服务和家庭计算资源等方法来有效利用现有算力，同时强调了进行思考和阅读的重要性。最后，面对异构协同模型的部署和体系结构设计这一现场提问，中科院计算所的专家们指出大模型实际上是一种系统性的工程，只有整个系统性的成功才能真正促成大模型的发展。</span></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/116e6ddf-f831-4a2c-8a2b-7db49604e311.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/116e6ddf-f831-4a2c-8a2b-7db49604e311_d.jpg" sudyfile-attr="{'title':'DSCF5816.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/fbdf946e-2ef6-46ea-831a-a0e436d4483f.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/fbdf946e-2ef6-46ea-831a-a0e436d4483f_d.jpg" sudyfile-attr="{'title':'IMG_2964.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_9" o:spid="_x0000_i1029" type="#_x0000_t75" style="width:756px;height:504px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_10" o:spid="_x0000_i1028" type="#_x0000_t75" style="width:757px;height:504px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image009.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_13" o:spid="_x0000_i1027" type="#_x0000_t75" style="width:757px;height:504px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_14" o:spid="_x0000_i1026" type="#_x0000_t75" style="width:757px;height:504px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image011.jpg"></v:imagedata></v:shape></span></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/b0e39fdc-a6ec-4ba2-9782-051871ab1066.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/b0e39fdc-a6ec-4ba2-9782-051871ab1066_d.jpg" sudyfile-attr="{'title':'IMG_3013.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/8880ac81-9fef-4493-8b9c-f0f6eda4a950.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/8880ac81-9fef-4493-8b9c-f0f6eda4a950_d.jpg" sudyfile-attr="{'title':'IMG_3025.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">本次</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">CCF-CV</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">走进苏州大学活动不仅为参会者提供了一个了解前沿技术的机会，也促进了不同研究领域的交流与合作。三位教授的精彩报告及五位专家的圆桌论坛引发了热烈的讨论，众多师生表示对未来的研究方向有了更清晰的认识，拓宽了视野，受益匪浅。最后，本次</span><span lang="EN-US" style="font-size:16px;line-height:1.75em;">CCF-CV</span><span style="font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;font-size:16px;line-height:1.75em;">走进苏州大学报告会在热烈的掌声中圆满落下帷幕。</span></span><br/></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"></span></p><p style="text-align:center;line-height:1.75em;"><img data-layer="photo" src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/ba681734-b667-4702-84eb-6ef3e02073f2.jpg" original-src="/_upload/article/images/6c/de/09afdd2f457396feedb553b73a2a/ba681734-b667-4702-84eb-6ef3e02073f2_d.jpg" sudyfile-attr="{'title':'IMG_2935.JPG'}" width="600" height="400" border="0" hspace="0" vspace="0" style="width:600px;height:400px;"/></p><p style="text-indent:37px;background:white;margin:14px 0cm;line-height:1.75em;"><span style="font-size:19px;font-family:微软雅黑, sans-serif;color:#2c2c36;background:white;line-height:1.75em;"></span><br/></p><p style="text-indent:32px;background:white;text-align:center;margin:14px 0cm;line-height:1.75em;"><span lang="EN-US" style="line-height:1.75em;"><v:shape id="图片_x0020_15" o:spid="_x0000_i1025" type="#_x0000_t75" style="width:638px;height:425px;visibility:visible;mso-wrap-style:square"><v:imagedata src="file:///C:/Users/suda/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg"></v:imagedata></v:shape></span></p><p><br/></p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Common Footer -->
+    <footer class="outer footer">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-logo">
+                            <img src="/_upload/tpl/04/5d/1117/template1117/static/img/footer_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                        </div>
+                        <div class="footer-contact">
+                            <p>联系方式：0512-65113107</p>
+                            <p>联系地址：苏州市干将东路333号</p>
+                            <p>邮编：215008</p>  
+                            <p>院长信箱：scst@suda.edu.cn</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-qrcode">
+                            <img src="http://www.suda.edu.cn/images/weixin.jpg" alt="微信公众号">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/bootstrap.min.js"></script>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/app.js"></script>
+</body>
+</html>
+ <img src="/_visitcount?siteId=289&type=3&articleId=602487" style="display:none" width="0" height="0"/>

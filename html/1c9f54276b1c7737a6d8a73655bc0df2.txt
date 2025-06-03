@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="zh-CN"  class="webplus-page"  >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="render" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>学术活动：中国计算机学会计算机视觉专委会走进高校系列报告会</title>
+    <meta name="description" content="CCF－CVSeries Lectures苏州大学·苏州（第140期）2024年10月12日..." />
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/sudy-jquery-autoload.js" jquery-src="/_js/jquery-2.x.min.js" sudy-wp-context="" sudy-wp-siteId="289"></script>
+<script language="javascript" src="/_js/jquery-migrate.min.js"></script>
+<script language="javascript" src="/_js2/loadStyle.js" sys-path="/_upload/site/1/style/1/1.css"  site-path="/_upload/site/01/21/289/style/282/282.css" ></script>
+<script language="javascript" src="/_js2/grayscale.js"   ></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/wp_photos/layer/layer.min.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/base.css">
+    <link rel="stylesheet" href="/_upload/tpl/04/5d/1117/template1117/static/css/style.css">
+    
+</head>
+<body>
+
+    <!-- Common Header -->
+    <header class="outer header">
+        <div class="inner">
+            <div class="container">
+                <div class="header-bar">
+                    <div class="header-search">
+                        <a href="javascript:void(0)" title="搜索" onclick="searchShow()">
+                            <i><img src="/_upload/tpl/04/5d/1117/template1117/static/img/icon/icon_search.png" alt="搜索"></i>
+                        </a>
+                        <div class="search-box" frag="窗口1" portletmode="search" style="display: none;">                            <form action="/_web/_search/api/search/new.rst?locale=zh_CN&request_locale=zh_CN&context=&_p=YXM9Mjg5JnQ9MTExNyZkPTQ1MDgmcD0zJmY9MTEyMDMmYT02MDE1OTgmbT1OJg__" method="POST" target="_blank">
+                                <input class="search-input" name="keyword" type="text" maxlength="40" autocomplete="off" placeholder="请输入搜索内容..."/>
+                                <button class="search-submit" type="submit"></button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="header-link">
+                        <span>
+                            <a href="/_s289/main.psp" title="中文" target="_blank">中文</a>
+                        </span> |
+                        <span>
+                            <a href="javascript:void(0)" title="English" target="_blank">English</a>
+                        </span>
+                    </div>
+                </div>
+                <div class="header-logo">
+                    <a href="/_s289/main.psp" title="苏州大学计算机科学与技术学院(软件学院)" target="_blank">
+                        <img src="/_upload/tpl/04/5d/1117/template1117/static/img/header_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- Common Nav -->
+    <nav class="outer header-nav">
+        <div class="inner container" frag="窗口2">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav" aria-expanded="false"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></button>
+            <div class="site-nav collapse navbar-collapse" id="nav">
+                
+                <ul class="nav navbar-nav">
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/_s289/main.psp" target="_self" title="网站首页" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">网站首页</a>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11195/list.htm" target="_self" title="学院概况" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学院概况</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11238/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/11241/list.htm" target="_self" title="历史沿革">历史沿革</a></li>
+                            
+                            <li><a href="/11240/list.htm" target="_self" title="现任领导">现任领导</a></li>
+                            
+                            <li><a href="/11239/list.htm" target="_self" title="机构设置">机构设置</a></li>
+                            
+                            <li><a href="/11242/list.htm" target="_self" title="办学资源">办学资源</a></li>
+                            
+                            <li><a href="/xkqk/list.htm" target="_self" title="学科情况">学科情况</a></li>
+                            
+                            <li><a href="/11243/list.htm" target="_self" title="联系方式">联系方式</a></li>
+                            
+                            <li><a href="/ssyjx/list.htm" target="_self" title="师生意见箱">师生意见箱</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11197/list.htm" target="_self" title="师资中心" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">师资中心</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/11248/list.htm" target="_self" title="师资概况">师资概况</a></li>
+                            
+                            <li><a href="/11249/list.htm" target="_self" title=" 教职工名单"> 教职工名单</a></li>
+                            
+                            <li><a href="/11250/list.htm" target="_self" title=" 导师简介"> 导师简介</a></li>
+                            
+                            <li><a href="/11251/list.htm" target="_self" title=" 兼职师资"> 兼职师资</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11198/list.htm" target="_self" title=" 科学研究" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown"> 科学研究</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/yjzx/list.htm" target="_self" title="研究中心">研究中心</a></li>
+                            
+                            <li><a href="/11253/list.htm" target="_self" title=" 科研机构"> 科研机构</a></li>
+                            
+                            <li><a href="/11254/list.htm" target="_self" title=" 科研项目"> 科研项目</a></li>
+                            
+                            <li><a href="/11255/list.htm" target="_self" title=" 科研论文"> 科研论文</a></li>
+                            
+                            <li><a href="/11256/list.htm" target="_self" title="知识产权">知识产权</a></li>
+                            
+                            <li><a href="/11257/list.htm" target="_self" title=" 科研政策"> 科研政策</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11199/list.htm" target="_self" title="人才培养" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">人才培养</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/shpgzt/list.htm" target="_self" title="审核评估专题">审核评估专题</a></li>
+                            
+                            <li><a href="/11229/list.htm" target="_self" title="博士生">博士生</a></li>
+                            
+                            <li><a href="/11230/list.htm" target="_self" title=" 硕士生"> 硕士生</a></li>
+                            
+                            <li><a href="/11231/list.htm" target="_self" title=" 本科生"> 本科生</a></li>
+                            
+                            <li><a href="/11234/list.htm" target="_self" title=" 图灵班"> 图灵班</a></li>
+                            
+                            <li><a href="/tljt/list.htm" target="_self" title="图灵讲堂">图灵讲堂</a></li>
+                            
+                            <li><a href="/zygcsb/list.htm" target="_self" title="卓越工程师班">卓越工程师班</a></li>
+                            
+                            <li><a href="/gjjl/list.htm" target="_self" title="国际交流">国际交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11201/list.htm" target="_self" title="党群工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">党群工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xydw/list.htm" target="_self" title="学院党委">学院党委</a></li>
+                            
+                            <li><a href="/jczz/list.htm" target="_self" title="基层组织">基层组织</a></li>
+                            
+                            <li><a href="/fdxgz/list.htm" target="_self" title="分党校工作">分党校工作</a></li>
+                            
+                            <li><a href="/11264/list.htm" target="_self" title=" 发展工作"> 发展工作</a></li>
+                            
+                            <li><a href="/11265/list.htm" target="_self" title=" 关工委工作"> 关工委工作</a></li>
+                            
+                            <li><a href="/11260/list.htm" target="_self" title=" 规章制度"> 规章制度</a></li>
+                            
+                            <li><a href="/11262/list.htm" target="_self" title=" 专题活动"> 专题活动</a></li>
+                            
+                            <li><a href="/xxyd/list.htm" target="_self" title="学习园地">学习园地</a></li>
+                            
+                            <li><a href="/qsdjgzybzbcj/list.htm" target="_self" title="全省党建工作样板支部创建">全省党建工作样板支部...</a></li>
+                            
+                            <li><a href="/szdxjsdzbsjsfgzscj/list.htm" target="_self" title="苏州大学教师党支部书记示范工作室创建">苏州大学教师党支部书...</a></li>
+                            
+                            <li><a href="/ghgz/list.htm" target="_self" title="工会工作">工会工作</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11200/list.htm" target="_self" title="学生工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">学生工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xskc/list.htm" target="_self" title="学生科创">学生科创</a></li>
+                            
+                            <li><a href="/28212/list.htm" target="_self" title="工作队伍">工作队伍</a></li>
+                            
+                            <li><a href="/11275/list.htm" target="_self" title=" 学工通知"> 学工通知</a></li>
+                            
+                            <li><a href="/xgxw/list.htm" target="_self" title="学工新闻">学工新闻</a></li>
+                            
+                            <li><a href="/28213/list.htm" target="_self" title="规章制度">规章制度</a></li>
+                            
+                            <li><a href="/28216/list.htm" target="_self" title="志愿服务">志愿服务</a></li>
+                            
+                            <li><a href="/28218/list.htm" target="_self" title="学生组织">学生组织</a></li>
+                            
+                            <li><a href="/28219/list.htm" target="_self" title="勤工助学">勤工助学</a></li>
+                            
+                            <li><a href="/28220/list.htm" target="_self" title="心理健康">心理健康</a></li>
+                            
+                            <li><a href="/28221/list.htm" target="_self" title="就业创业">就业创业</a></li>
+                            
+                            <li><a href="/czpb/list.htm" target="_self" title="成长陪伴">成长陪伴</a></li>
+                            
+                            <li><a href="/jxpt/list.htm" target="_self" title="家校平台">家校平台</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xqhz/list.htm" target="_self" title="合作交流" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">合作交流</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xqhz_30719/list.htm" target="_self" title="校企合作与交流">校企合作与交流</a></li>
+                            
+                            <li><a href="/gjhzyjl/list.htm" target="_self" title="国际合作与交流">国际合作与交流</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/bmxy/list.htm" target="_self" title="保密学院" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">保密学院</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/xyjj/list.htm" target="_self" title="学院简介">学院简介</a></li>
+                            
+                            <li><a href="/bmpx/list.htm" target="_self" title="保密培训">保密培训</a></li>
+                            
+                            <li><a href="/bmyj/list.htm" target="_self" title="保密研究">保密研究</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/11232/list.htm" target="_self" title="继续教育" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">继续教育</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28237/list.htm" target="_self" title="成教工作">成教工作</a></li>
+                            
+                            <li><a href="/28238/list.htm" target="_self" title="自考工作">自考工作</a></li>
+                            
+                            <li><a href="/28239/list.htm" target="_self" title="培训工作">培训工作</a></li>
+                            
+                            <li><a href="/28240/list.htm" target="_self" title="留学项目">留学项目</a></li>
+                            
+                            <li><a href="/zxkc/list.htm" target="_self" title="在线课程">在线课程</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="/xyfw/list.htm" target="_self" title="校友工作" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-hover="dropdown">校友工作</a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/28241/list.htm" target="_self" title="校友服务">校友服务</a></li>
+                            
+                            <li><a href="/28243/list.htm" target="_self" title="毕业校友录">毕业校友录</a></li>
+                            
+                            <li><a href="/28244/list.htm" target="_self" title="校友活动">校友活动</a></li>
+                            
+                            <li><a href="/xyh/list.htm" target="_self" title="校友会">校友会</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    
+                </ul>
+                
+            </div>
+        </div>
+    </nav>
+    <script>
+        function searchShow() {
+            if($('.search-box').hasClass('active')){
+                $('.search-box').fadeOut();
+                $('.search-box').removeClass('active');
+            } else {
+                $('.search-box').addClass('active');
+                $('.search-box').fadeIn();
+            }
+        }
+    </script>
+
+
+    <!-- Post Breadcrumb -->
+    <section class="outer column-banner">
+        <div class="inner" frag="窗口4" portletmode="simpleColumnAttri">
+            <div class="column-img" style="background-image: url(/_upload/column/2b/c3/11203/picture.jpg);"></div>
+            <div class="banner-overlay"></div>
+        </div>
+    </section>
+    <!-- Post Content -->
+    <section class="outer post">
+        <div class="inner container">
+            <div class="post-content">
+                <div frag="窗口5" portletmode="simpleArticleAttri">
+                    <div class="post-title">
+                        学术活动：中国计算机学会计算机视觉专委会走进高校系列报告会
+                    </div>
+                    <div class="post-attr">
+                        <span><b>时间:</b> 2024-10-09</span>
+                        <span><b>发布者:</b> 弋维君</span>
+                        <span><b>文章来源:</b> 对外合作办公室</span>
+                        <span><b>审核人:</b> 黄河</span>
+                        <span><b>浏览次数:</b> <span class="WP_VisitCount" url="/_visitcountdisplay?siteId=289&type=3&articleId=601598">525</span></span>
+                    </div>
+                    <div class="read-content">
+                        <div class='wp_articlecontent'><p class="MsoNormal" style="text-align:center;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">CCF－CV&nbsp;Series Lectures</span></p><p class="p" style="text-align:center;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">苏州大学·苏州（第140期）</span></p><p class="MsoNormal" style="text-align:center;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">2024年10月12日（星期六）14:30-17:00</span></p><p class="MsoNormal" style="text-align:center;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">苏州大学天赐庄校区敬贤堂</span></p><p class="p" style="text-align:center;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">报告会主题</span></p><p class="p" style="text-align:center;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">计算机视觉前沿技术及应用</span><strong></strong></p><p class="p" style="line-height:2em;text-align:left;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">学术报告（一）</span></p><p class="p" style="line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">报告特邀讲者：</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">赖剑煌</span><span style="color:#0000ff;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;"></span></p><p style="line-height:2em;"><img data-layer="photo" src="/_upload/article/images/43/5a/8a4bcb7b4165b4c7a0edf39ee4fe/65ed1460-5271-40ce-9b99-e4910a235c7e.png" original-src="/_upload/article/images/43/5a/8a4bcb7b4165b4c7a0edf39ee4fe/65ed1460-5271-40ce-9b99-e4910a235c7e_d.png" style="width:90px;height:130px;" sudyfile-attr="{'title':'图片1.png'}" width="90" height="130" border="0" hspace="0" vspace="0" /></p><p style="line-height:2em;"><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">&nbsp; &nbsp; &nbsp; &nbsp;中山大学计算机学院二级教授、博士生导师。中国图象图形学会副理事长、会士，广东省图像图形学会</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">理事长（第四、五届）。中国计算机学会杰出会员，中国计算机学会计算机视觉专委员会副主任（第一、二届）、广东省人工智能与机器人学会副理事长、广东省安防协会人工智能专委会主任。1986、1989年分别在中山大学获学士、硕士学位，并留校任教。1999年在中山大学获博士学位。主要研究领域为计算机视觉、模式识别和机器学习。已主持承担国家自然科学基金与广东联合重点项目、科技部科技支撑课题、国家自然科学基金等。获得广东省科学技术奖励自然科学类一等奖（2018排名1），广东省科学技术奖励科技进步类二等奖（2016，排名3）、获得丁颖奖（2019年）、享受国务院政府津贴。已发表了约200篇学术论文，主要发表在ICCV、 CVPR、 ICDM等专业重要学术会议以及IEEE TPAMI、IEEE TIP、IEEE TNN、IEEE KDE、Pattern Recognition等国际权威刊物上。</span></p><p class="p" style="text-align:justify;line-height:2em;"><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">&nbsp; &nbsp; &nbsp; &nbsp;报告摘要：</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">小股人群重识别旨在将非重叠视域的摄像头网络下具有相同成员的群组图像进行正确地关联。小股人群重识别是传统行人重识别任务的一个重要拓展，在安防监控场景下有着重要的研究意义和应用前景。报告主要介绍我们实验室近年在小股人群重识别研究探索和实践方面成果，包括基于不确定性建模的小股人群重识别、基于可分解时空残差图的换衣小股人群重识别、基于自适应聚类驱动渐进学习的无监督小股人群重识别、基于群组三维布局重建的鲁棒群体特征提取、基于最近置换距离的群体度量等方法，以及新构建的若干群组数据集。</span></p><p class="p" style="text-align:justify;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;"><br /></span></p><p class="p" style="line-height:2em;text-align:left;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">学术报告（二）</span></p><p class="p" style="line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">报告特邀讲者：</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">白翔</span></p><p style="line-height:2em;"><img data-layer="photo" src="/_upload/article/images/43/5a/8a4bcb7b4165b4c7a0edf39ee4fe/6ffb2faa-03d7-47f9-8a04-35c8a0889ba6.png" original-src="/_upload/article/images/43/5a/8a4bcb7b4165b4c7a0edf39ee4fe/6ffb2faa-03d7-47f9-8a04-35c8a0889ba6_d.png" style="width:90px;height:134px;" sudyfile-attr="{'title':'图片2.png'}" width="90" height="134" border="0" hspace="0" vspace="0" /></p><p style="line-height:2em;"><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">&nbsp; &nbsp; &nbsp; &nbsp;华中科技大学软件学院教授、院长，国家杰出青年基金获得者，</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IAPR Fellow</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">，国际期刊</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">Pattern Recognition</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">副主编（</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">A-EIC</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">）。长期从事人工智能、计算机视觉、模式识别等方面研究，在</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">Nature Machine Intell.</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IEEE TPAMI</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">CVPR</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">等国际一流期刊和国际会议发表论文</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">150</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">余篇。担任国际顶级期刊</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IEEE TPAMI</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">编委，顶级会议</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">CVPR</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">ICCV</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">ECCV</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">AAAI</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IJCAI</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">NeurIPS</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">的领域主席，国际文档分析与识别会议</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">ICDAR 2025</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">大会主席。曾获</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">2024</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">年湖北省青年科技创新奖、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">2023</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">年湖北省自然科学一等奖（第一完成人）、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">2021</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">年中国图象图形学学会自然科学一等奖（第一完成人）、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">2019</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">年国际模式识别协会青年学者奖（</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IAPR/ICDAR Young Investigator Award&nbsp;</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">）和</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">ACL 2024</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">最佳论文奖（</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">Best Paper Award</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">）。</span></p><p class="p" style="text-align:justify;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">&nbsp; &nbsp; &nbsp; &nbsp;报告摘要：</span><span style="font-family:楷体_gb2312;font-size:14px;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">甲骨文起源于约</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">3000</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">年前的中国商朝，是中国语言史的重要基石，但大量甲骨文尚未被破译。传统破译方法复杂且费时，而近年来人工智能的快速发展为此提供了新思路。本报告介绍了课题组在甲骨文智能破译的系列工作：通过构建甲骨文单字数据集（</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">HUST-OBC</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">）、古文字演变数据集（</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">EVOBC</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">）和甲骨文释义数据集（</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">MMOBC</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">），提出了结合生成模型、部首序列预测和多模态释义生成模型等三条技术路线，并开发了一套多途径的</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">AI</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">辅助破译系统。最后，将介绍人工智能辅助甲骨文破译仍面临的挑战与未来研究展望。</span></span></p><p class="p" style="text-align:justify;line-height:2em;"><span style="font-family:楷体_gb2312;font-size:14px;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;"><br /></span></span></p><p class="p" style="text-align:left;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">学术报告（三）</span></p><p class="p" style="line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">报告特邀讲</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">者：毋立芳　</span></p><p style="line-height:2em;"><img data-layer="photo" src="/_upload/article/images/43/5a/8a4bcb7b4165b4c7a0edf39ee4fe/0329d781-d846-4176-bd66-9d469dddf49a.png" style="width:90px;height:99px;" sudyfile-attr="{'title':'图片3.png'}" width="90" height="99" border="0" hspace="0" vspace="0" /></p><p style="line-height:2em;"><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">&nbsp; &nbsp; &nbsp; &nbsp;北京工业大学教授，博士生导师。主要研究方向图像视频内容分析、智能</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">3D</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">打印、人脸活体检测等。近年来承担科技部重点专项课题、国家自然科学基金、北京市科技计划项目等</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">20</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">余项，在</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IEEE TMM</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IEEE TAFFC</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IJCV</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">ACM MM</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">等发表论文</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">100</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">余篇，获授权发明专利</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">40</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">余项，获北京市技术发明二等奖等省部级奖</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">6</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">项，入选</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">2022</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">年度首都最美巾帼奋斗者，</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">2020</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">年中国电子学会优秀科技工作者称号。</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IEEE</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">高级会员，中国计算机学会（</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">CCF</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">）、中国图象图形学学会（</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">CSIG</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">）理事，</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">CCF</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">计算机视觉专委会常务委员兼副秘书长，</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">CSIG</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">视觉大数据专委会常务委员，</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">CIE</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">信号处理分会委员。</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">IEEE TMM</span><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">、《信号处理》、《中国图象图形学报》编委。</span></p><p class="p" style="text-align:justify;line-height:2em;"><span style="text-align:justify;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">&nbsp; &nbsp; &nbsp; &nbsp;报告摘要：</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">深度学习推动了很多视觉任务的落地应用，但是随着应用越来越广泛，这种纯数据驱动方法的局限性也逐渐显现出来。这些局限性有没有可能通过引入知识来缓解？不同任务中有不同的知识，知识的复杂程度也有很大区别，如何利用这些知识？本次报告将介绍我们团队在视频群体行为识别任务中的一点探索，通过在关系推理模型中引入不同类型的知识，提升群体行为识别的性能。</span></p><p class="p" style="text-align:justify;line-height:2em;"><span style="font-family:楷体_gb2312;font-size:14px;line-height:2em;"></span></p><p class="p" style="line-height:2em;"><span style="font-family:楷体_gb2312;font-size:14px;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">Panel</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">专家：</span></span></p><p class="p" style="line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">特邀专家：</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">陈熙霖&nbsp;&nbsp;博士，中国科学院计算技术研究所研究员</span></p><p class="p" style="line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">特邀专家：刘青山&nbsp;&nbsp;博士，南京邮电大学教授</span></p><p class="p" style="line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">特邀专家：王瑞平&nbsp;</span><span style="color:#0000ff;font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">&nbsp;</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">博士，</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">中国科学院计算技术研究所</span><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">研究员</span></p><p class="p" style="text-align:justify;line-height:2em;"><span style="font-family:楷体_gb2312;font-size:14px;line-height:2em;"><br /></span><br /></p><p class="p" style="text-align:justify;line-height:2em;"><span style="font-family:微软雅黑, &quot;microsoft yahei&quot;;font-size:16px;line-height:2em;">&nbsp;</span></p><p><br /></p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Common Footer -->
+    <footer class="outer footer">
+        <div class="inner container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-logo">
+                            <img src="/_upload/tpl/04/5d/1117/template1117/static/img/footer_logo.png" alt="苏州大学计算机科学与技术学院(软件学院)">
+                        </div>
+                        <div class="footer-contact">
+                            <p>联系方式：0512-65113107</p>
+                            <p>联系地址：苏州市干将东路333号</p>
+                            <p>邮编：215008</p>  
+                            <p>院长信箱：scst@suda.edu.cn</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-item">
+                        <div class="footer-qrcode">
+                            <img src="http://www.suda.edu.cn/images/weixin.jpg" alt="微信公众号">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/bootstrap.min.js"></script>
+    <script src="/_upload/tpl/04/5d/1117/template1117/static/js/app.js"></script>
+</body>
+</html>
+ <img src="/_visitcount?siteId=289&type=3&articleId=601598" style="display:none" width="0" height="0"/>

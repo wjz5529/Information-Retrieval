@@ -18,6 +18,9 @@ class TextTokenization:
         self.output_dir = output_dir
         self.log_dir = log_dir
 
+        self.word_count = 0
+        self.sentence_count = 0
+
         # 创建输出目录
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
@@ -75,22 +78,41 @@ class TextTokenization:
                     outfilepath = os.path.join(self.output_dir, filename)
                     with open(infilepath, 'r', encoding='utf-8') as f:
                         text = f.read()
+
+                    # 统计行数
+                    for line in text.splitlines():
+                        if line:
+                            self.sentence_count += 1
                     
                     # 分词
                     tokens = self.tokenizer.cut(text)
                     tokenized_text = ' '.join(tokens)
+
+                    # 统计词数
+                    for token in tokenized_text:
+                        if token:
+                            self.word_count += 1
 
                     # 保存分词结果
                     with open(outfilepath, 'w', encoding='utf-8') as f:
                         f.write(tokenized_text)
                     
                     self.logger.info(f"分词完成，结果保存到：{outfilepath}")
+
         except Exception as e:
             self.logger.error(f"分词失败：{e}")
+
+    def run(self):
+        """运行分词器"""
+        self.logger.info("开始运行分词器")
+        self.tokenize_text()
+        self.logger.info("分词器运行完成")
+        print(f"单词数：{self.word_count}, 句子数：{self.sentence_count}")
+        print("分词处理完成")
 
 '''运行示例'''
 if __name__ == "__main__":
     # 创建分词器实例
     tokenizer = TextTokenization()
     # 执行分词
-    tokenizer.tokenize_text()
+    tokenizer.run()
